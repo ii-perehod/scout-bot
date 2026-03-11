@@ -1,0 +1,5 @@
+.env
+scout_session.session
+scout.db
+__pycache__/
+*.pyc

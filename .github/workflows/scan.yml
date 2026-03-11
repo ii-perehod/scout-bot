@@ -1,0 +1,40 @@
+name: Auto Scan Channels
+
+on:
+  schedule:
+    # Run at 8:00 and 20:00 Moscow time (05:00 and 17:00 UTC)
+    - cron: '0 5,17 * * *'
+  workflow_dispatch:  # Allow manual trigger from GitHub
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install telethon
+
+      - name: Run scanner
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          API_ID: ${{ secrets.API_ID }}
+          API_HASH: ${{ secrets.API_HASH }}
+          ADMIN_ID: ${{ secrets.ADMIN_ID }}
+          PHONE: ${{ secrets.PHONE }}
+          TELETHON_SESSION_B64: ${{ secrets.TELETHON_SESSION_B64 }}
+          SCAN_DAYS: '3'
+        run: python scanner.py
+
+      - name: Commit new finds
+        run: |
+          git config user.name "scout-bot"
+          git config user.email "scout-bot@users.noreply.github.com"
+          git add finds.json
+          git diff --staged --quiet || git commit -m "Auto-scan: update finds $(date -u +%Y-%m-%d)"
+          git push
