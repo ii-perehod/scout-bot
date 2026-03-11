@@ -18,17 +18,12 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install telethon
+        run: pip install python-dotenv
 
       - name: Run scanner
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          API_ID: ${{ secrets.API_ID }}
-          API_HASH: ${{ secrets.API_HASH }}
           ADMIN_ID: ${{ secrets.ADMIN_ID }}
-          PHONE: ${{ secrets.PHONE }}
-          TELETHON_SESSION_B64: ${{ secrets.TELETHON_SESSION_B64 }}
-          SCAN_DAYS: '3'
         run: python scanner.py
 
       - name: Commit new finds
