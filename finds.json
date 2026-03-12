@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "ai_newz/4468",
+    "channel": "ai_newz",
+    "text": "Вышел Flash Attention 4 https://www.youtube.com/watch?v=ZIEq-WTquy4 !(На прошлой неделе) На этот раз специально оптимизировали под новую архитектуру Blackwell (B200 и GB200), в отличие от  https://t.me/ai_newz/2984 FA3 для Hopper. На всяких 5090 дополнительного прироста нет.Для BF16 даёт до 1.3x ускорения относительно cuDNN 9.13 и до 2.7x по сравнению с Triton! Выжимает солидные 1.6 PFLOPs/s (71% от теоретического пика B200). При этом в новых версиях cuDNN часть этих оптимизаций уже тоже появилась.Среди ключевых трюков — software-эмуляция exp, conditional softmax rescaling, а в backward — использование tensor memory* и 2-CTA MMA**, что заметно снижает давление на shared memory. К этому бонусом идёт то, что весь kernel код теперь написан на Python (CuTe-DSL) без жестких C++ темплейтов, поэтому компиляция стала в 20-30 раз быстрее.* Tensor memory — это новый сверхбыстрый on-chip буфер Blackwell рядом с tensor cores, куда можно складывать промежуточные результаты и меньше дёргать shared m",
+    "link": "https://www.youtube.com/watch?v=ZIEq-WTquy4",
+    "tg_link": "https://t.me/ai_newz/4468",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-12T17:42:07.185824+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5355",
+    "channel": "open_source_friend",
+    "text": "whisperbotЭто Telegram-бот, предназначенный для транскрипции голосовых сообщений с использованием модели распознавания речи Whisper.Бот принимает аудиосообщения от пользователей и преобразует их в текст, отправляя результат обратно в чат.Все данные обрабатываются локально.Lang: C https://github.com/antirez/whisperbot https://github.com/antirez/whisperbot================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/antirez/whisperbot",
+    "tg_link": "https://t.me/open_source_friend/5355",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-12T17:42:06.422984+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5354",
+    "channel": "open_source_friend",
+    "text": "FireRedVADFireRedVAD — это передовая система детекции голосовой активности и аудиособытий промышленного уровня, поддерживающая более 100 языков.Она превосходит другие модели, такие как Silero-VAD, TEN-VAD, FunASR-VAD и WebRTC-VAD, обеспечивая высокую точность и надежность.Модель основана на архитектуре DFSMN (Deep Feedforward Sequential Memory Network) с 8 блоками DFSMN и одним слоем DNN, что делает её легковесной и эффективной.Lang: Python https://github.com/FireRedTeam/FireRedVAD https://github.com/FireRedTeam/FireRedVAD================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/FireRedTeam/FireRedVAD",
+    "tg_link": "https://t.me/open_source_friend/5354",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-12T17:42:06.422958+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5352",
+    "channel": "open_source_friend",
+    "text": "telegram-scraperЭто мощный Python-скрипт, предназначенный для сбора сообщений и медиафайлов из каналов Telegram с использованием библиотеки Telethon.Программа поддерживает непрерывный сбор данных в реальном времени, загрузку медиафайлов и экспорт собранной информации.Lang: Python https://github.com/DarkWebInformer/telegram-scraper https://github.com/DarkWebInformer/telegram-scraper================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/DarkWebInformer/telegram-scraper",
+    "tg_link": "https://t.me/open_source_friend/5352",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-12T17:42:06.422903+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1351",
     "channel": "AI_for_product_owner",
     "text": "Трендовая семейная заставка на телефон – забирайте бесплатный промтВы уже видели классный новый тренд?Можно поставить на заставку телефона или распечатать. И для этого вам не нужно тратиться на фотостудию. Есть 2 версии этого поста – мультяшная и реалистичная. Мультяшная ниже, а реалистичная в комментах 👇Тип визуала: групповая сцена (стилизованный 3D-портрет)Создай вертикальную 3D-стилизованную мультяшную иллюстрацию в духе мягкой кинематографичной анимации Pixar / Disney CGI. Сцена представляет собой игривую композицию, где персонажи выглядывают из-за вертикальной стены.КОМПОЗИЦИЯ:Слева в кадре расположена вертикальная матовая стена небесно-голубого цвета (#BFDFF5) с мягкой бархатистой текстурой. Персонажи частично скрыты за этой стеной и выглядывают из-за её правого края. Они расположены строго вертикально друг под другом в аккуратной выровненной колонке, создавая чистую вертикальную композицию. Каждый персонаж слегка наклоняется вперед из-за стены, удерживая её руками. Видимы только",
