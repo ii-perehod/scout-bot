@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "open_source_friend/5364",
+    "channel": "open_source_friend",
+    "text": "git-muxЭто терминальный пользовательский интерфейс для GitHub, позволяющий просматривать репозитории, историю коммитов, пул-реквесты, задачи, статус CI и статистику вкладов прямо из терминала.Ключевые функции также включают обзор профиля с аватаром, биографией и тепловой картой вкладов и карточки репозиториев с информацией о звёздах, форках и задачах.Программа разработана на языке Rust с использованием библиотеки ratatui.Lang: Rust https://github.com/nooesc/git-mux https://github.com/nooesc/git-mux================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/nooesc/git-mux",
+    "tg_link": "https://t.me/open_source_friend/5364",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-14T17:19:12.621541+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5363",
+    "channel": "open_source_friend",
+    "text": "trends-checkerЭто инструмент командной строки на Python для анализа данных из Google Trends, позволяющий исследовать популярность поисковых запросов в различных категориях.Ключевые функции включают продвинутые ограничения скорости запросов, аутентификацию с использованием файлов cookie и красивый вывод в терминале.Программа построена на основе библиотеки pytrends и предоставляет возможности уровня предприятия для анализа трендов.Lang: Python https://github.com/akvise/trends-checker https://github.com/akvise/trends-checker================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/akvise/trends-checker",
+    "tg_link": "https://t.me/open_source_friend/5363",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-14T17:19:12.621515+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5362",
+    "channel": "open_source_friend",
+    "text": "GitHub-StoreGitHub-Store — это открытый магазин приложений для GitHub, позволяющий пользователям находить, устанавливать и обновлять программное обеспечение с открытым исходным кодом непосредственно из релизов на GitHub.Приложение поддерживает установку одним кликом для платформ Android, Windows, macOS и Linux, автоматически подбирая правильный бинарный файл для вашей операционной системы.Оно отслеживает установленные приложения и уведомляет о доступных обновлениях, обеспечивая своевременное обновление программного обеспечения. Приложение доступно на нескольких языках, включая русский.Lang: Kotlin https://github.com/OpenHub-Store/GitHub-Store https://github.com/OpenHub-Store/GitHub-Store================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/OpenHub-Store/GitHub-Store",
+    "tg_link": "https://t.me/open_source_friend/5362",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-14T17:19:12.621483+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5361",
+    "channel": "open_source_friend",
+    "text": "arnisArnis — это бесплатный и открытый инструмент, позволяющий создавать детализированные миры Minecraft, отражающие реальные географические и архитектурные особенности.Программа обрабатывает геопространственные данные из OpenStreetMap и данные о высотах, чтобы точно воссоздать рельеф и здания выбранной местности в Minecraft.Пользователь может выбрать область на карте, настроить параметры генерации, такие как масштаб мира и точка появления, а затем начать процесс создания мира.Arnis поддерживает версии Minecraft Java Edition (1.17+) и Bedrock Edition, обеспечивая кроссплатформенную совместимость.Lang: Rust https://github.com/louis-e/arnis https://github.com/louis-e/arnis================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/louis-e/arnis",
+    "tg_link": "https://t.me/open_source_friend/5361",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-14T17:19:12.621447+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5359",
+    "channel": "open_source_friend",
+    "text": "ya-webadbЭто инструмент, позволяющий использовать Android Debug Bridge (ADB) непосредственно в браузере без необходимости установки дополнительных программ.Он поддерживает подключение к Android-устройствам через USB с использованием WebUSB, а также по беспроводной сети через WebSocket или TCP.Основные функции включают управление файлами (просмотр, загрузка, удаление), захват экрана, интерактивную оболочку, установку APK и управление питанием устройства.Приложение совместимо с браузерами на основе Chromium.Lang: TypeScript https://github.com/yume-chan/ya-webadb https://github.com/yume-chan/ya-webadb================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/yume-chan/ya-webadb",
+    "tg_link": "https://t.me/open_source_friend/5359",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-14T17:19:12.621395+00:00"
+  },
+  {
     "post_id": "ai_newz/4471",
     "channel": "ai_newz",
     "text": "У Claude теперь по дефолту миллион токенов контекстаПовышенную цену за запросы больше определённой длины убрали. Расширенный контекст доступен и с Sonnet 4.6 и с Opus 4.6 , причём не только по API, но и в Claude Code по подписке Max, Team и Enterprise. А вот пользователей чата обделили, но они и не смотрят на compacting по полдня. https://t.me/ai_newz @ai_newz",
