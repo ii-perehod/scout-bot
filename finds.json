@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "ai_newz/4473",
+    "channel": "ai_newz",
+    "text": "У Claude теперь по дефолту миллион токенов контекста  Повышенную цену за запросы больше определённой длины убрали. Расширенный контекст доступен и с Sonnet 4.6 и с Opus 4.6 , причём не только по API, но и в Claude Code по подписке Max, Team и Enterprise. А…",
+    "link": "https://t.me/ai_newz/4473",
+    "tg_link": "https://t.me/ai_newz/4473",
+    "category": "ИИ",
+    "is_free": false,
+    "found_at": "2026-03-15T06:00:16.722633+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5365",
+    "channel": "open_source_friend",
+    "text": "free-coding-modelsЭто инструмент командной строки, предназначенный для поиска, тестирования и установки 158 бесплатных моделей машинного обучения для программирования от 20 различных провайдеров в реальном времени.Ключевые функции включают возможность быстрого поиска доступных моделей, их тестирования непосредственно через CLI и последующей установки для использования в разработке. Lang: JavaScript https://github.com/vava-nessa/free-coding-models https://github.com/vava-nessa/free-coding-models",
+    "link": "https://github.com/vava-nessa/free-coding-models",
+    "tg_link": "https://t.me/open_source_friend/5365",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-15T06:00:15.559243+00:00"
+  },
+  {
     "post_id": "open_source_friend/5364",
     "channel": "open_source_friend",
     "text": "git-muxЭто терминальный пользовательский интерфейс для GitHub, позволяющий просматривать репозитории, историю коммитов, пул-реквесты, задачи, статус CI и статистику вкладов прямо из терминала.Ключевые функции также включают обзор профиля с аватаром, биографией и тепловой картой вкладов и карточки репозиториев с информацией о звёздах, форках и задачах.Программа разработана на языке Rust с использованием библиотеки ratatui.Lang: Rust https://github.com/nooesc/git-mux https://github.com/nooesc/git-mux================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
