@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "ai_newz/4474",
+    "channel": "ai_newz",
+    "text": "Нейродайджест за неделю (#109)LLM-  https://t.me/ai_newz/4467 Мультимодальные эмбеддинги от Google — Gemini Embedding теперь может нативно обрабатывать до 120 секунд видео, PDF, аудио и текст. -  https://t.me/ai_newz/4471 Миллион токенов контекста в Claude по дефолту —  убрали повышенную цену за длинные запросы для Sonnet/Opus 4.6. А на следующие две недели ещё и  https://t.me/ai_newz/4473 удвоили лимиты в не-пиковые часы.Генеративные модели-  https://t.me/ai_newz/4470 Поворот 2D-картинок в Photoshop — Adobe завезли прикольную фичу, которую анонсировали еще очень давно. Композить еще никогда не было так легко.Прочее-  https://t.me/ai_newz/4468 Вышел Flash Attention 4 —  Оптимизирован под Blackwell. Даёт до 1.3x ускорения для BF16, а весь код теперь написан на Python с CuTe-DSL.>  https://t.me/ai_newz/4466 Читать дайджест #108#дайджест https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz/4467",
+    "tg_link": "https://t.me/ai_newz/4474",
+    "category": "ИИ",
+    "is_free": true,
+    "found_at": "2026-03-16T06:14:50.371832+00:00"
+  },
+  {
     "post_id": "open_source_friend/5368",
     "channel": "open_source_friend",
     "text": "project_auraЭто проект, представляющий собой станцию мониторинга качества воздуха на базе микроконтроллера ESP32-S3 с пользовательским интерфейсом на основе библиотеки LVGL.Станция собирает данные о качестве воздуха и передает их через протокол MQTT, обеспечивая интеграцию с системами умного дома, такими как Home Assistant.Проект включает в себя как аппаратную, так и программную части, предоставляя полный набор инструментов для создания и настройки устройства.Lang: C https://github.com/21cncstudio/project_aura https://github.com/21cncstudio/project_aura================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
