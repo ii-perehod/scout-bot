@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "AI_for_product_owner/1363",
+    "channel": "AI_for_product_owner",
+    "text": "Клиенты хотят весенние фотосессии, а организовать съёмку не всегда реально? 🌸Это та еще проблема. Найти локацию, договориться с моделью, выбрать образ, подобрать реквизит — кролика ещё попробуй достань. А если клиент хочет детскую фотосессию — это вообще отдельная история. Ребёнок не хочет позировать, устаёт, капризничает. Фотограф нервничает. Родители нервничают. В итоге из ста кадров — три нормальных.Поэтому мы добавили в «Базу» весеннюю подборку промптов, как раз под этот сезон.Атмосферные портреты с весенним настроением как для взрослых, так и для детей.  Можно использовать для портфолио, соцсетей клиента, аватарок, контента — и предлагать клиентам как отдельную услугу. Например, можно сделать такую съемку вместо того, что предлагают в детских садахИ эта подборка промптов уже доступна в «Базе». Там же — десятки других под разные задачи: карточки товара, баннеры, нейрофотосессии, обложки, украшения и многое другое.Всё за 1 990 рублей на три месяца. Без студий, моделей и капризных кр",
+    "link": "https://t.me/Aiforproduct_bot?start=dl-176673617894cf772dc042",
+    "tg_link": "https://t.me/AI_for_product_owner/1363",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-17T17:53:10.705179+00:00"
+  },
+  {
+    "post_id": "ai_newz/4476",
+    "channel": "ai_newz",
+    "text": "Mistral выкатили Small 4И всё грустно. На опубликованных бенчах модель проигрывает сентябрьскому Qwen 3 Next, у которого в полтора раза меньше параметров в целом и в два раза меньше активных.Моделька мультимодальная с 256к токенов контекста. Архитектура — та же вариация на тему DeepSeek V3 что использовалась в  https://t.me/ai_newz/4294 Large 3. Доступна по Apache 2.0, базовую модель не выложили, но зато сделали голову для спекулятивного декодинга.Веса:  https://huggingface.co/mistralai/Mistral-Small-4-119B-2603 FP8/ https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-NVFP4 NVFP4 https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz/4294",
+    "tg_link": "https://t.me/ai_newz/4476",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-03-17T17:53:09.397335+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5375",
+    "channel": "open_source_friend",
+    "text": "ohmycaptchaЭто самодостаточный сервис для решения капч, разработанный с использованием FastAPI, Playwright и моделей, совместимых с OpenAI API.Он поддерживает решение различных типов капч, включая reCAPTCHA, hCaptcha и FunCaptcha, обеспечивая высокую точность и скорость обработки.Сервис предоставляет API, совместимый с YesCaptcha, что упрощает интеграцию с существующими системами, использующими этот стандарт.Lang: Python https://github.com/shenhao-stu/ohmycaptcha https://github.com/shenhao-stu/ohmycaptcha================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/shenhao-stu/ohmycaptcha",
+    "tg_link": "https://t.me/open_source_friend/5375",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-17T17:53:08.565544+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5374",
+    "channel": "open_source_friend",
+    "text": "NoctaVoxЭто легковесный текстовый музыкальный плеер для воспроизведения локальных аудиофайлов.Поддерживает воспроизведение без пауз с очередью треков и работу с различными аудиоформатами, включая mp3, m4a, wav, flac, ogg и opus.Обеспечивает живую перезагрузку библиотеки, кастомизацию тем с горячей перезагрузкой и управление с помощью клавиш, похожих на Vim.Включает визуализацию в виде формы волны и осциллоскопа, а также управление плейлистами.Lang: Rust https://github.com/Jaxx497/NoctaVox https://github.com/Jaxx497/NoctaVox================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Jaxx497/NoctaVox",
+    "tg_link": "https://t.me/open_source_friend/5374",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-17T17:53:08.565514+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5372",
+    "channel": "open_source_friend",
+    "text": "SidebandSideband — это клиент LXMF для Android, Linux и macOS, позволяющий обмениваться сообщениями с людьми или системами, совместимыми с LXMF, через сети Reticulum, используя LoRa, пакетное радио, Wi-Fi или другие поддерживаемые Reticulum технологии. Sideband позволяет использовать устройства Android в качестве базовых транспортных экземпляров Reticulum, что делает возможным создание точек доступа на основе LoRa или радио с использованием только Android-устройства. Lang: Python https://github.com/markqvist/Sideband https://github.com/markqvist/Sideband================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/markqvist/Sideband",
+    "tg_link": "https://t.me/open_source_friend/5372",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-17T17:53:08.565461+00:00"
+  },
+  {
     "post_id": "ai_newz/4475",
     "channel": "ai_newz",
     "text": "Тут Хуанг опять сливает размеры моделей OpenAIПохоже в GPT-5 всего два триллиона параметров. Раньше он так же показывал количество параметров для GPT-4 (GPT MoE 1.8T). То есть у OpenAI размер флагманской модели за три года не вырос совсем. https://t.me/ai_newz @ai_newz",
