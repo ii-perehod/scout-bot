@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "ai_newz/4485",
+    "channel": "ai_newz",
+    "text": "Вот и настоящая реалтайм генерация видео подъехалаRunway и NVIDIA выкатили Gen-4.5 на новых чипах Vera Rubin. Теперь HD-видео генерится в реальном времени с задержкой в жалкие 100 мс, позволяя менять промпты и режиссировать сцену прямо на лету, без всяких ожиданий рендера.Главная фишка релиза кроется в GWM-1 — авторегрессионном симуляторе физического мира. Это семейство из трёх специализированных моделей: GWM Avatars генерит интерактивных говорящих голов, GWM Robotics работает как песочница для тренировки железных роботов, а GWM Worlds рендерит стабильные бесконечные миры. По сути это прямой конкурент гугловской Genie, и жутко интересно представить как это повлияет на игры будущего. https://dev.runwayml.com/ GWM Avatars уже доступны для тестов, дают щедрые 30 минут чтобы побаловаться. Матрица всё ближе, Нео. https://runwayml.com/news/runway-partners-with-nvidia Анонс https://t.me/ai_newz @ai_newz",
+    "link": "https://dev.runwayml.com/",
+    "tg_link": "https://t.me/ai_newz/4485",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-20T17:29:17.302552+00:00"
+  },
+  {
+    "post_id": "ai_newz/4484",
+    "channel": "ai_newz",
+    "text": "Похоже Composer 2 — это украденная Kimi 2.5Сразу после выхода Composer 2 пользователи заметили что модель на эндпоинте называется kimi-k2p5-rl-0317-s515-fast, а чуть позже пошли (ныне удалённые) шокированные твиты от команды Kimi — по их словам они ничего не знали об использовании Cursor их весов. И раньше ходили слухи что оригинальный Composer был основан на китайской модели — GLM 4.6, так что прецедент такого \"ребрендинга\" есть, но там ситуация отличается.Дело в лицензии — если GLM лицензирована по MIT, то у Kimi 2.5 лицензия более сложная — подобные к лицензии MIT права она даёт только до 100 миллионов пользователей продукта или 20 миллионов выручки в месяц. То есть тюн GLM не нарушал лицензию оригинальных весов, а тюн Kimi — нарушает.Ситуацию обостряет конфликт Anthropic с авторами Kimi — компания  https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks обвиняет Moonshot в использовании более чем 3.4 миллионов запросов для дистилляции. Возможно руководство Curs",
+    "link": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+    "tg_link": "https://t.me/ai_newz/4484",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-03-20T17:29:17.302485+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5385",
+    "channel": "open_source_friend",
+    "text": "tennisЭто инструмент командной строки для отображения CSV-таблиц в терминале с улучшенным форматированием.Он поддерживает автоматическое определение ширины колонок и выравнивание данных для лучшей читаемости.Программа позволяет настраивать стили границ и разделителей, а также поддерживает цветовое выделение для улучшения визуального восприятия.Lang: Zig https://github.com/gurgeous/tennis https://github.com/gurgeous/tennis================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/gurgeous/tennis",
+    "tg_link": "https://t.me/open_source_friend/5385",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-20T17:29:16.512796+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5384",
+    "channel": "open_source_friend",
+    "text": "nerd-fontsЭто инструмент добавляющий в ваши шрифты более 3 600 иконок из популярных наборов, таких как Font Awesome, Material Design Icons и Octicons.Он предоставляет более 50 патченных шрифтов, что позволяет разработчикам использовать расширенные глифы в своих средах разработки.Инструмент поддерживает различные языки программирования, обеспечивая совместимость с CSS, Shell и Python.Lang: CSS https://github.com/ryanoasis/nerd-fonts https://github.com/ryanoasis/nerd-fonts================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/ryanoasis/nerd-fonts",
+    "tg_link": "https://t.me/open_source_friend/5384",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-20T17:29:16.512766+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5383",
+    "channel": "open_source_friend",
+    "text": "PhotoGIMPPhotoGIMP — это патч для GIMP, который преобразует его интерфейс, делая его схожим с Adobe Photoshop, что облегчает переход пользователям, привыкшим к продуктам Adobe.Он реорганизует расположение инструментов, настраивает сочетания клавиш в соответствии с документацией Adobe и оптимизирует настройки холста для максимального использования рабочего пространства.Кроме того, PhotoGIMP включает новый экран загрузки и обновленный значок приложения, придавая GIMP более профессиональный вид.Lang: CSS https://github.com/Diolinux/PhotoGIMP https://github.com/Diolinux/PhotoGIMP================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Diolinux/PhotoGIMP",
+    "tg_link": "https://t.me/open_source_friend/5383",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-20T17:29:16.512717+00:00"
+  },
+  {
     "post_id": "ai_newz/4483",
     "channel": "ai_newz",
     "text": "Cursor релизнули Composer 2Это второе поколение собственных моделей стартапа. Заявляют что она на уровне опуса, при этом заметно дешевле, но явно нужно тестить самим.Модель довольно дешёвая — $0.5/$2.5 за миллион токенов, но дьявол в деталях: по дефолту юзерам дают fast версию, которая стоит $1.5/$7.5 за лям токенов. Кроме этого она доступна по подписке. https://t.me/ai_newz @ai_newz",
