@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5389",
+    "channel": "open_source_friend",
+    "text": "SnowifyЭто настольный музыкальный плеер, разработанный с использованием Electron, который позволяет транслировать аудио с YouTube Music.Программа предоставляет чистый и минималистичный пользовательский интерфейс, не требующий регистрации и не содержащий рекламы.Snowify поддерживает плагины, что позволяет расширять функциональность плеера в соответствии с потребностями пользователя.Lang: JavaScript https://github.com/nyakuoff/Snowify https://github.com/nyakuoff/Snowify================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/nyakuoff/Snowify",
+    "tg_link": "https://t.me/open_source_friend/5389",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-21T17:18:04.840716+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5388",
+    "channel": "open_source_friend",
+    "text": "autocompleteЭто инструмент, предоставляющий автодополнение в стиле IDE для существующих терминалов и оболочек, улучшая взаимодействие с командной строкой.Он поддерживает автодополнение для более чем 200 популярных CLI-инструментов, таких как git, npm, docker и aws, предлагая контекстно-зависимые подсказки для подкоманд, опций и аргументов.Инструмент позволяет легко создавать и настраивать собственные спецификации автодополнения с помощью декларативной схемы, что делает его расширяемым и адаптируемым под индивидуальные потребности.Lang: TypeScript https://github.com/withfig/autocomplete https://github.com/withfig/autocomplete================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/withfig/autocomplete",
+    "tg_link": "https://t.me/open_source_friend/5388",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-21T17:18:04.840689+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5386",
+    "channel": "open_source_friend",
+    "text": "komorebiЭто тайлинговый оконный менеджер для Windows 10 и выше, работающий как расширение к Microsoft's Desktop Window Manager.Он позволяет управлять окнами приложений, виртуальными рабочими пространствами и мониторами с помощью командной строки, что обеспечивает гибкость в настройке пользовательских сочетаний клавиш через сторонние программы, такие как AutoHotKey.Программа минимально изменяет операционную систему и среду рабочего стола по умолчанию, предоставляя пользователям возможность вносить дополнительные изменения через собственные конфигурационные файлы.Lang: Rust https://github.com/LGUG2Z/komorebi https://github.com/LGUG2Z/komorebi================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/LGUG2Z/komorebi",
+    "tg_link": "https://t.me/open_source_friend/5386",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-21T17:18:04.840632+00:00"
+  },
+  {
     "post_id": "ai_newz/4485",
     "channel": "ai_newz",
     "text": "Вот и настоящая реалтайм генерация видео подъехалаRunway и NVIDIA выкатили Gen-4.5 на новых чипах Vera Rubin. Теперь HD-видео генерится в реальном времени с задержкой в жалкие 100 мс, позволяя менять промпты и режиссировать сцену прямо на лету, без всяких ожиданий рендера.Главная фишка релиза кроется в GWM-1 — авторегрессионном симуляторе физического мира. Это семейство из трёх специализированных моделей: GWM Avatars генерит интерактивных говорящих голов, GWM Robotics работает как песочница для тренировки железных роботов, а GWM Worlds рендерит стабильные бесконечные миры. По сути это прямой конкурент гугловской Genie, и жутко интересно представить как это повлияет на игры будущего. https://dev.runwayml.com/ GWM Avatars уже доступны для тестов, дают щедрые 30 минут чтобы побаловаться. Матрица всё ближе, Нео. https://runwayml.com/news/runway-partners-with-nvidia Анонс https://t.me/ai_newz @ai_newz",
