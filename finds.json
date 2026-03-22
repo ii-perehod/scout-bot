@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "open_source_friend/5392",
+    "channel": "open_source_friend",
+    "text": "TamariTamari — это полнофункциональное веб-приложение для управления рецептами, разработанное с использованием Python и фреймворка Flask.Приложение позволяет пользователям создавать, редактировать и организовывать свои кулинарные рецепты в удобном интерфейсе.Tamari поддерживает добавление изображений к рецептам, что делает их более наглядными и привлекательными.Имеются функции поиска и фильтрации по различным критериям, упрощая навигацию по коллекции.Lang: Python https://github.com/alexbates/Tamari https://github.com/alexbates/Tamari",
+    "link": "https://github.com/alexbates/Tamari",
+    "tg_link": "https://t.me/open_source_friend/5392",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-22T17:17:56.986615+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5391",
+    "channel": "open_source_friend",
+    "text": "tookie-osintTookie — это продвинутый инструмент OSINT (разведки с использованием открытых источников), предназначенный для поиска учетных записей в социальных сетях на основе введенных данных.Он поддерживает множество платформ, что позволяет проводить всесторонний анализ присутствия пользователя в сети. Инструмент разработан с учетом удобства использования и может быть полезен как для специалистов по безопасности, так и для исследователей.Lang: Python https://github.com/Alfredredbird/tookie-osint https://github.com/Alfredredbird/tookie-osint================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Alfredredbird/tookie-osint",
+    "tg_link": "https://t.me/open_source_friend/5391",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-22T17:17:56.986589+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5390",
+    "channel": "open_source_friend",
+    "text": "boreЭто современный и простой инструмент командной строки, написанный на Rust, предназначенный для создания TCP-туннелей, позволяющих открывать локальные порты на удалённом сервере, обходя ограничения NAT и файрволов.Он поддерживает безопасное шифрование данных с помощью протокола Noise, обеспечивая конфиденциальность передаваемой информации.Программа отличается высокой производительностью и низким потреблением ресурсов благодаря использованию асинхронного программирования на основе библиотеки Tokio.Lang: Rust https://github.com/ekzhang/bore https://github.com/ekzhang/bore================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/ekzhang/bore",
+    "tg_link": "https://t.me/open_source_friend/5390",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-22T17:17:56.986543+00:00"
+  },
+  {
+    "post_id": "maya_pro/1288",
+    "channel": "maya_pro",
+    "text": "OpenClaw Контроль панель - личная разработкаНа видео Агент (Лютик) нейросетевой менеджер офиса  и Субагенты (рабочие) нейросети - рабочий процесс 😂Идею подрезал у зарубежных ютуберов, НО ПОМНЕ Я ЕЁ РЕАЛИЗУЮ НАМНОГО КРУЧЕ. Помимо офисов, настроек на родном языке я собираюсь вставить сюда ноды и сделать сервис автоматизации внутри агента. Путь предстоит тернистый, но должно получиться очень круто.Я никуда не пропал, я тут готовлю тестовый релиз на четверг в платнике будем разбирать. Горы работы ....Поддержите разработку сердечками и комментариями❤️ https://kv-ai.ru/obuchenie-po-make  Обучение по Make.com, нейросетям и  Вайб-кодингу#OpenClaw",
+    "link": "https://kv-ai.ru/obuchenie-po-make",
+    "tg_link": "https://t.me/maya_pro/1288",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-03-22T17:17:55.980265+00:00"
+  },
+  {
     "post_id": "open_source_friend/5389",
     "channel": "open_source_friend",
     "text": "SnowifyЭто настольный музыкальный плеер, разработанный с использованием Electron, который позволяет транслировать аудио с YouTube Music.Программа предоставляет чистый и минималистичный пользовательский интерфейс, не требующий регистрации и не содержащий рекламы.Snowify поддерживает плагины, что позволяет расширять функциональность плеера в соответствии с потребностями пользователя.Lang: JavaScript https://github.com/nyakuoff/Snowify https://github.com/nyakuoff/Snowify================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
