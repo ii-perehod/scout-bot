@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "ai_newz/4491",
+    "channel": "ai_newz",
+    "text": "Сбер обновил GigaChat — и выложил очень много интересных инженерных подробностей о том, как они это делали.В ноябре выкатили preview MoE-моделей, сейчас — полноценный релиз на MoE-архитектуре (MoE + MTP + MLA). Две модели: Ultra на 702B параметров (36B активных) и Lightning на 10B (1.8B активных). Обе под MIT, обе обучены с нуля без зарубежных весов.Самое ценное в релизе — не сами веса, а разбор на Хабре про то, как они туда дошли. Переход с Dense на MoE вскрыл кучу проблем, которые в теории не описаны. Главная боль — зацикливание генераций. Модель начинала повторять фрагменты бесконечно, и стандартные подходы не помогали. В итоге написали собственную метрику для детекции циклов и пересобрали весь пайплайн пост-трейна. DPO-этап перевели в нативный FP8 — и тут неожиданность: качество вышло выше, чем в bf16, при вдвое меньшем потреблении памяти. Ещё по ходу нашли критичный баг в SGLang при dp > 1, который тихо портил бенчмарки.По цифрам: Ultra обходит DeepSeek-V3-0324 и Qwen3-235B в мате",
+    "link": "https://huggingface.co/collections/ai-sage/gigachat-31",
+    "tg_link": "https://t.me/ai_newz/4491",
+    "category": "ИИ",
+    "is_free": true,
+    "found_at": "2026-03-24T17:49:08.807082+00:00"
+  },
+  {
+    "post_id": "ai_newz/4490",
+    "channel": "ai_newz",
+    "text": "Байка про немецкое PhD. На днях наш бывший интерн из Меты написал мне с просьбой подписаь документ, нужный для PhD защиты. Я помогал Феликсу с CVPR статьей в 2023 году - давал веса наших моделей Emu, передал ему свой код для дистиляции, обсуждал эксперименты и помогал шлифануть текст в последнюю ночь перед дедлайном.Дело в том, что в некоторых универах Германии (у меня такого не было), чтобы тебе разрешили вставить публикацию с интерншипа в PhD диссертацию, нужно чтобы все соавторы подписали документ, подтверждающий, что ты 80% работы сделал сам как первый автор. Теперь ему нужно достучаться до всех 13 авторов :)Кстати, разбор этой статьи Cache me if you can я  https://t.me/ai_newz/2330 писал тут.#personal https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz/2330",
+    "tg_link": "https://t.me/ai_newz/4490",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-24T17:49:08.807000+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5399",
+    "channel": "open_source_friend",
+    "text": "HeroicGamesLauncherHeroicGamesLauncher — это кроссплатформенный игровой лаунчер с графическим интерфейсом, предназначенный для запуска игр из магазинов Epic Games, GOG и Amazon на операционных системах Linux, Windows и macOS.Он поддерживает интеграцию с инструментами командной строки, такими как Legendary для Epic Games, GOGdl для GOG и Nile для Amazon, обеспечивая аутентификацию, загрузку и запуск игр.HeroicGamesLauncher позволяет добавлять собственные игры и веб-сайты, аналогично функции \"Добавить стороннюю игру\" в Steam.Программа является открытым исходным кодом под лицензией GPLv3 и поддерживается сообществом разработчиков, работающих на добровольной основе.Lang: TypeScript https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+    "tg_link": "https://t.me/open_source_friend/5399",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-24T17:49:07.642105+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5398",
+    "channel": "open_source_friend",
+    "text": "folioЭто современная библиотека для работы с PDF в языке программирования Go, предоставляющая мощный движок для компоновки документов.Она поддерживает преобразование HTML в PDF, создание форм, добавление цифровых подписей и генерацию штрих-кодов.Библиотека также обеспечивает соответствие стандарту PDF/A, что важно для архивирования и долговременного хранения документов.Lang: Go https://github.com/carlos7ags/folio https://github.com/carlos7ags/folio================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/carlos7ags/folio",
+    "tg_link": "https://t.me/open_source_friend/5398",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-24T17:49:07.642070+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5396",
+    "channel": "open_source_friend",
+    "text": "textual-webTextual Web — это инструмент, позволяющий запускать текстовые пользовательские интерфейсы (TUI) и терминалы в веб-браузере.Он расширяет возможности фреймворка Textual, предоставляя разработчикам возможность создавать интерактивные приложения на Python, которые работают как в терминале, так и в браузере. Lang: Python https://github.com/Textualize/textual-web https://github.com/Textualize/textual-web================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Textualize/textual-web",
+    "tg_link": "https://t.me/open_source_friend/5396",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-24T17:49:07.642026+00:00"
+  },
+  {
     "post_id": "ai_newz/4489",
     "channel": "ai_newz",
     "text": "Чел  https://x.com/anemll/status/2035901335984611412 запустил 400B Qwen 3.5 на iPhone 17 ProВеса стримятся с диска, так что скорость всего полтокена в секунду. Но  https://github.com/danveloper/flash-moe инференс код навайбкодили и модель не супер агрессивно квантизировали, так что тут можно ускорить как минимум в несколько раз.П.с. очень больно наблюдать как на аффирмацию уходит столько драгоценных токенов. Это особенно заметно при такой скорости. https://t.me/ai_newz @ai_newz",
