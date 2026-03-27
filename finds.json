@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "open_source_friend/5413",
+    "channel": "open_source_friend",
+    "text": "AdGuardHomeAdGuard Home — это бесплатный и открытый DNS-сервер, предназначенный для блокировки рекламы и трекеров на уровне всей сети.Он позволяет фильтровать нежелательный контент на всех устройствах в сети без необходимости установки дополнительного программного обеспечения на каждое из них.Среди ключевых функций — поддержка шифрованных протоколов DNS, таких как DNS-over-HTTPS и DNS-over-TLS, а также возможность настройки индивидуальных правил фильтрации для различных клиентов.Дополнительно, AdGuard Home предоставляет встроенный DHCP-сервер и интуитивно понятный веб-интерфейс для управления настройками и мониторинга активности сети.Lang: Go https://github.com/AdguardTeam/AdGuardHome https://github.com/AdguardTeam/AdGuardHome================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/AdguardTeam/AdGuardHome",
+    "tg_link": "https://t.me/open_source_friend/5413",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-27T17:42:02.194261+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5412",
+    "channel": "open_source_friend",
+    "text": "webclawЭто инструмент для извлечения веб-контента, предназначенный для использования с большими языковыми моделями (LLM).Он позволяет выполнять скрейпинг, краулинг и извлечение структурированных данных, обеспечивая эффективную обработку веб-страниц.Программа написана на языке Rust, что гарантирует высокую производительность и безопасность.webclaw предоставляет интерфейсы командной строки (CLI), REST API и MCP-сервер для гибкой интеграции в различные рабочие процессы.Lang: Rust https://github.com/0xMassi/webclaw https://github.com/0xMassi/webclaw================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/0xMassi/webclaw",
+    "tg_link": "https://t.me/open_source_friend/5412",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-27T17:42:02.194229+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5411",
+    "channel": "open_source_friend",
+    "text": "netscannerЭто инструмент для сканирования и диагностики сетей с современным текстовым интерфейсом.Он позволяет просматривать аппаратные интерфейсы, переключаться между ними, сканировать Wi-Fi сети и измерять их уровень сигнала.Программа поддерживает пингование диапазонов IPv4 с отображением имен хостов, OUI и MAC-адресов, а также перехват пакетов TCP, UDP, ICMP и ARP.Дополнительно доступно сканирование открытых TCP-портов, фильтрация логов пакетов и экспорт данных в CSV-формате.Lang: Rust https://github.com/Chleba/netscanner https://github.com/Chleba/netscanner================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Chleba/netscanner",
+    "tg_link": "https://t.me/open_source_friend/5411",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-27T17:42:02.194198+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5410",
+    "channel": "open_source_friend",
+    "text": "Кубер. Поды. Это основа. И это только начало.Kubernetes from Zero to Hero — видеокурс, который проведёт вас от первого знакомства с Kubernetes до Helm, Ingress и ConfigMap.10 выпусков на YouTube, всё по порядку:1 —  https://youtu.be/yVIrhcv9Toc Ты точно знаешь, что такое Kubernetes? 2 —  https://youtu.be/n8_-TxQsMWQ Как запустить Kubernetes локально: пошаговая инструкция с Minikube 3 —  https://youtu.be/wlxKnktHixw Pod и Deployment в Kubernetes — это база, это знать надо 4 —  https://youtu.be/XJw3o7-awZA Как собрать Docker-образ с werf  5 —  https://youtu.be/vz-9JSwDz8A Как развернуть приложение в Kubernetes с werf 6 —  https://youtu.be/Kq2cqAmaKYk Как не потеряться внутри кластера: Service и labels 7 —  https://youtu.be/aJxU8I5LY1c Ingress в Kubernetes: доступ к приложению извне кластера 8 —  https://youtu.be/DgPcE3p35Xs Helm-чарт, шаблонизация и никакого хардкода 9 —  https://youtu.be/s48B2Kgwqks Как добавить nginx в свой кластер Kubernetes? 10 —  https://youtu.be/sfOpy0LPMS0 Настрой",
+    "link": "https://youtu.be/yVIrhcv9Toc",
+    "tg_link": "https://t.me/open_source_friend/5410",
+    "category": "Дизайн",
+    "is_free": true,
+    "found_at": "2026-03-27T17:42:02.194141+00:00"
+  },
+  {
     "post_id": "open_source_friend/5409",
     "channel": "open_source_friend",
     "text": "ttydЭто инструмент командной строки, позволяющий делиться терминалом через веб-браузер.Он поддерживает полную функциональность терминала с поддержкой CJK символов и методов ввода.ttyd обеспечивает быструю работу благодаря использованию libuv и WebGL2.Также поддерживается передача файлов по протоколам ZMODEM (lrzsz) и trzsz, а также вывод изображений в формате Sixel.Lang: C https://github.com/tsl0922/ttyd https://github.com/tsl0922/ttyd",
