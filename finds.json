@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5419",
+    "channel": "open_source_friend",
+    "text": "openclaw-androidЭто приложение для Android, которое позволяет запускать  https://max.ru/open_source_friend/AZwpCIJgd0Y OpenClaw на мобильных устройствах без необходимости использования proot или Linux-окружения.Оно превращает ваш смартфон в узел AI, предоставляя доступ к камере, микрофону, экрану и сенсорам для взаимодействия с OpenClaw Gateway.Приложение поддерживает подключение через WebSocket и интеграцию с различными мессенджерами, такими как Telegram, Discord и Slack.Для работы требуется установленный OpenClaw Gateway на другом устройстве, с которым приложение связывается для выполнения задач.Lang: Java https://github.com/AidanPark/openclaw-android https://github.com/AidanPark/openclaw-android================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://max.ru/open_source_friend/AZwpCIJgd0Y",
+    "tg_link": "https://t.me/open_source_friend/5419",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-29T17:22:06.790839+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5418",
+    "channel": "open_source_friend",
+    "text": "OpenSpaceOpenSpace — это платформа, предназначенная для создания более умных, недорогих и саморазвивающихся ИИ-агентов.Она предоставляет инструменты для разработки и обучения агентов с возможностью самообучения и адаптации к новым задачам.Платформа поддерживает интеграцию с различными средами и фреймворками, что облегчает процесс разработки. Lang: Python https://github.com/HKUDS/OpenSpace https://github.com/HKUDS/OpenSpace================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/HKUDS/OpenSpace",
+    "tg_link": "https://t.me/open_source_friend/5418",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-29T17:22:06.790806+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5417",
+    "channel": "open_source_friend",
+    "text": "OSS-DocumentScannerЭто Android приложение с открытым исходным кодом для сканирования документов, квитанций, счетов и других материалов с помощью камеры мобильного устройства.Оно позволяет распознавать текст на отсканированных изображениях, а также сохранять и делиться ими в формате PDF.Приложение поддерживает синхронизацию данных через WebDAV или локальные папки, обеспечивая удобное управление документами. Lang: C++ https://github.com/Akylas/OSS-DocumentScanner https://github.com/Akylas/OSS-DocumentScanner================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Akylas/OSS-DocumentScanner",
+    "tg_link": "https://t.me/open_source_friend/5417",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-29T17:22:06.790760+00:00"
+  },
+  {
     "post_id": "open_source_friend/5416",
     "channel": "open_source_friend",
     "text": "clawfeedClawFeed — это инструмент с открытым исходным кодом, предназначенный для автоматического сбора и структурирования новостных сводок из различных источников, таких как Twitter, RSS, HackerNews, Reddit и GitHub.Он использует искусственный интеллект для фильтрации и создания структурированных отчетов с различной периодичностью: каждые 4 часа, ежедневно, еженедельно или ежемесячно.ClawFeed поддерживает функции Source Packs для обмена подборками источников, Mark для глубокой аналитики и интеллектуальную фильтрацию контента.Инструмент может быть развернут как самостоятельное приложение или интегрирован в платформы OpenClaw и Zylos для автоматизированного создания дайджестов и управления информационными потоками.Lang: HTML https://github.com/kevinho/clawfeed https://github.com/kevinho/clawfeed================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/Al",
