@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "AI_for_product_owner/1415",
+    "channel": "AI_for_product_owner",
+    "text": "Дайджест НОВЫХ промтов и новостей за март 2026Собрали подборку всех самых интересных и рабочих промтов, которые вышли на канале в марте, а еще новостей и обновлений, чтобы вы точно ничего не пропустили. 🧐📌 Новые бесплатные промты ▪️ https://t.me/AI_for_product_owner/1372?single Промт для примерки лука из WB не выходя из дома▪️ https://t.me/AI_for_product_owner/1377?single Подборка промтов для любителей Дарк Романс или Фентези▪️ https://t.me/AI_for_product_owner/1386 Идеи для парной фотосессии за 5 минут▪️ https://t.me/AI_for_product_owner/1319 Весенняя съемка с тюльпанами в розовой студии▪️ https://t.me/AI_for_product_owner/1341 Красивая и нежная фотография к 8 марта▪️ https://t.me/AI_for_product_owner/1351 Трендовая семейная заставка на телефон▪️ https://t.me/AI_for_product_owner/1362 Весенняя фотосессия с кроликом📌 Новые подборки в «Базе»▪️ https://t.me/AI_for_product_owner/1332?single Подборка промтов под 7 разных запросов: от дизайнеров до бьюти-мастеров▪️ https://t.me/AI_for_produ",
+    "link": "https://t.me/AI_for_product_owner/1372?single",
+    "tg_link": "https://t.me/AI_for_product_owner/1415",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-31T17:48:48.327989+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5427",
+    "channel": "open_source_friend",
+    "text": "ghgrabЭто инструмент командной строки, предназначенный для поиска и загрузки файлов из репозиториев GitHub непосредственно через терминал без клонирования всего репозитория.Он позволяет пользователям быстро находить и скачивать файлы, не покидая интерфейс командной строки.Программа поддерживает интуитивно понятный интерфейс и предоставляет возможность фильтрации результатов поиска. Lang: Rust https://github.com/abhixdd/ghgrab https://github.com/abhixdd/ghgrab================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/abhixdd/ghgrab",
+    "tg_link": "https://t.me/open_source_friend/5427",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-31T17:48:46.393873+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5426",
+    "channel": "open_source_friend",
+    "text": "folderhostЭто инструмент для создания собственного облачного хранилища, позволяющий делиться файлами, совместно работать с кодом и управлять пользователями без сложной настройки.Ключевые функции включают в себя возможность обмена файлами, совместное редактирование кода и управление пользователями. Lang: TypeScript https://github.com/MertJSX/folderhost https://github.com/MertJSX/folderhost================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/MertJSX/folderhost",
+    "tg_link": "https://t.me/open_source_friend/5426",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-31T17:48:46.393845+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5425",
+    "channel": "open_source_friend",
+    "text": "sentrysearchЭто инструмент для семантического поиска по видеоматериалам, позволяющий находить фрагменты видео на основе текстовых запросов.Он использует модели Gemini Embedding 2 или Qwen3-VL для преобразования видео и текста в общее векторное пространство, обеспечивая точное соответствие между текстовыми запросами и видеоконтентом.Инструмент поддерживает обработку различных форматов видео и может быть интегрирован в существующие системы для расширения возможностей поиска.Lang: Python https://github.com/ssrajadh/sentrysearch https://github.com/ssrajadh/sentrysearch================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/ssrajadh/sentrysearch",
+    "tg_link": "https://t.me/open_source_friend/5425",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-03-31T17:48:46.393819+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5424",
+    "channel": "open_source_friend",
+    "text": "wardrowbeЭто приложение с открытым исходным кодом для управления собственным гардеробом, использующее искусственный интеллект для организации одежды и подбора нарядов.Ключевые функции включают автоматическое распознавание одежды по фотографии, ежедневные рекомендации нарядов с учетом погоды и предпочтений пользователя, а также анализ стиля и предпочтений на основе истории ношения.Приложение поддерживает многопользовательские семейные гардеробы и предлагает гибкую систему уведомлений для ежедневных рекомендаций.Lang: Python https://github.com/Anyesh/wardrowbe https://github.com/Anyesh/wardrowbe================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Anyesh/wardrowbe",
+    "tg_link": "https://t.me/open_source_friend/5424",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-03-31T17:48:46.393767+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1406",
     "channel": "AI_for_product_owner",
     "text": "Почему на ваш товар или рекламу перестали реагировать?Почему на ваш товар или рекламу перестали реагировать?Вы сделали классную карточку товара или рекламный креатив. Пошли заказы, заявки по хорошей цене. И вдруг замечаете — покупок стало меньше, реклама дорожает.Почему так происходит?Дело не в том, что Wildberries перестал работать или карточка стала хуже. Просто любой креатив — каким бы классным он ни был изначально — выгорает. Аудитория видит его раз, второй, третий — и перестаёт замечать. Глаз просто замыливается. Это называется баннерная слепота.Что здесь нужно делать?Менять окружение товара –  фон, атмосферу и сцену.Посмотрите на баннеры, которые прикрепил 👆Это один и тот же флакон духов. Просто каждый раз в другом окружении: утренняя трава с росой, бамбуковый лес, водопад с брызгами.И вот что это даёт на практике 👇Разное оформление цепляют разных людей. Кому-то заходит природа и свежесть — они кликают на кадр с травой и росой. Кому-то близка экзотика и загадочность — они останав",
