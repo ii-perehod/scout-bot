@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "ai_newz/4501",
+    "channel": "ai_newz",
+    "text": "Теперь видеокарты можно подключать к современным MacНет, это не первоапрельская шутка. Tinycorp портировали собственный драйвер для видеокарт Nvidia и AMD на MacOS, а Apple вчера его одобрили, так что теперь можно подключать видеокарты по USB/Thunderbolt без плясок с бубном. До этого eGPU поддерживались только на интеловых маках, а для M серии чипов официальную поддержку Apple так и не завезли.К сожалению, драйвер работает пока что только с фреймворком tinycorp — tinygrad, а поддержка моделей у них крайне ограничена (самая актуальная поддерживаемая модель в официальном сервере — Qwen 3). Поддерживаются видеокарты 30 серии Nvidia и более новые, а также видяхи 7000-й и 9000-й серии AMD. https://docs.tinygrad.org/tinygpu/ https://docs.tinygrad.org/tinygpu/ https://t.me/ai_newz @ai_newz",
+    "link": "https://docs.tinygrad.org/tinygpu/",
+    "tg_link": "https://t.me/ai_newz/4501",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-01T17:41:47.379217+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5431",
+    "channel": "open_source_friend",
+    "text": "epistemeЭто нативное Android-приложение для чтения документов, разработанное с использованием Kotlin и Jetpack Compose.Приложение поддерживает форматы PDF, EPUB, MOBI, AZW3, MD, TXT и HTML, обеспечивая офлайн-доступ к документам.Среди ключевых функций: аннотации в PDF (рисование и текстовые заметки), настройка шрифтов и интервалов в электронных книгах, а также функция преобразования текста в речь. Lang: Kotlin https://github.com/Aryan-Raj3112/episteme https://github.com/Aryan-Raj3112/episteme================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Aryan-Raj3112/episteme",
+    "tg_link": "https://t.me/open_source_friend/5431",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-01T17:41:46.241467+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5430",
+    "channel": "open_source_friend",
+    "text": "В 2026 без нейронок не справиться: они помогают в учебе, упрощают работу. Это буквально твой личный и надежный ассистент для ЕЖЕДНЕВНЫХ задач ☝️Например, в создании контента. Просто берешь подписку и получаешь БУСТ 🔎И не говори, что это трудно: оплачивать подписки выгодно и в рублях помогает  http://plrk.co/p/OpenSourceTA Playerok — лучший маркетплейс игровых товаров и услуг с 1+ млн отзывов ✅ http://plrk.co/p/OpenSourceTA Пополнение Steam с комиссией 0% по промокоду GPT и моментальная покупка телеграм-звезд — это всё также доступно на  http://plrk.co/p/OpenSourceTA Playerok 💙Всё для геймеров в одном месте 💙Реклама. ТОО \"PLAYEROK (ПЛЕЕРОК)\" ИНН 231240018920 erid: 2Vtz4rpo7tk",
+    "link": "http://plrk.co/p/OpenSourceTA",
+    "tg_link": "https://t.me/open_source_friend/5430",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-04-01T17:41:46.241441+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5429",
+    "channel": "open_source_friend",
+    "text": "claude-swarmЭто сервер MCP, предназначенный для организации параллельных рабочих рояльных процессов Claude Code с протокольно-ориентированным управлением поведением, сохранением состояния и мониторингом в реальном времени.Ключевые функции включают в себя координацию нескольких агентов, выполнение параллельных обзоров кода, создание рабочих процессов с зависимостями и построение самоорганизующихся очередей задач.Дополнительно, система обеспечивает надежное управление состоянием и предоставляет панель мониторинга для отслеживания активности агентов в реальном времени.Lang: TypeScript https://github.com/cj-vana/claude-swarm https://github.com/cj-vana/claude-swarm================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/cj-vana/claude-swarm",
+    "tg_link": "https://t.me/open_source_friend/5429",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-01T17:41:46.241395+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5428",
+    "channel": "open_source_friend",
+    "text": "driftЭто терминальный скринсейвер, который активируется при бездействии пользователя и отображает различные визуальные эффекты, такие как созвездия, дождь и частицы.Программа поддерживает несколько режимов визуализации, обеспечивая разнообразие отображаемых эффектов.Для выхода из режима скринсейвера достаточно нажать любую клавишу.Lang: Go https://github.com/phlx0/drift https://github.com/phlx0/drift================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/phlx0/drift",
+    "tg_link": "https://t.me/open_source_friend/5428",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-01T17:41:46.241338+00:00"
+  },
+  {
     "post_id": "ai_newz/4500",
     "channel": "ai_newz",
     "text": "OpenAI закрыли гигантский раунд на 122 миллиарда долларовПосле него оценка компании составляет $852 миллиарда. Это, конечно, меньше чем 1.25 триллиона SpaceXAI, но OpenAI не нужно запускать в космос ракеты и содержать социальную сеть. Деньги уйдут, конечно же, на постройку датацентров. https://t.me/ai_newz @ai_newz",
