@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5437",
+    "channel": "open_source_friend",
+    "text": "mcp-ssh-managerЭто сервер Model Context Protocol (MCP), интегрирующий расширенные SSH-возможности непосредственно в среду Claude Code, позволяя управлять удалёнными серверами.Ключевые функции включают управление неограниченным числом SSH-серверов, выполнение команд, загрузку и скачивание файлов, а также автоматизацию развертываний с обработкой прав доступа.Поддерживаются методы аутентификации с помощью пароля и SSH-ключей, а также настройка профилей и псевдонимов серверов для упрощения взаимодействия.Инструмент также предоставляет возможности для мониторинга состояния серверов, управления процессами и выполнения резервного копирования баз данных и файлов.Дополнительные функции включают управление привилегированными сеансами, мониторинг в реальном времени и подробные журналы аудита для обеспечения безопасности и соответствия требованиям.Lang: JavaScript https://github.com/bvisible/mcp-ssh-manager https://github.com/bvisible/mcp-ssh-manager================👁  https://max.ru/black_triangle",
+    "link": "https://github.com/bvisible/mcp-ssh-manager",
+    "tg_link": "https://t.me/open_source_friend/5437",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-03T17:26:12.754609+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5436",
+    "channel": "open_source_friend",
+    "text": "terminal-useЭто безголовый виртуальный терминал, предназначенный для взаимодействия AI-агентов с консольными приложениями.Он позволяет запускать интерактивные терминальные программы, считывать их вывод и отправлять нажатия клавиш.Программа работает без графического интерфейса, X-сервера или дисплея, что делает её лёгкой и эффективной.Lang: Rust https://github.com/flipbit03/terminal-use https://github.com/flipbit03/terminal-use================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/flipbit03/terminal-use",
+    "tg_link": "https://t.me/open_source_friend/5436",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-03T17:26:12.754570+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5435",
+    "channel": "open_source_friend",
+    "text": "openclaudeOpenClaude — это инструмент, позволяющий использовать интерфейс Claude Code с различными языковыми моделями, такими как OpenAI, Gemini, DeepSeek, Ollama и другими, через совместимый с OpenAI API.Он обеспечивает простую настройку и поддержку более 200 моделей, расширяя возможности Claude Code за пределы моделей Anthropic. Lang: TypeScript https://github.com/Gitlawb/openclaude https://github.com/Gitlawb/openclaude================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Gitlawb/openclaude",
+    "tg_link": "https://t.me/open_source_friend/5435",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-03T17:26:12.754523+00:00"
+  },
+  {
     "post_id": "maya_pro/1296",
     "channel": "maya_pro",
     "text": "Я вам ещё не успел похвастаться показать сайт прокладку для дзена которая раньше только и делала что перенаправляла статьи в Дзен.Мы ушли далеко вверх по статистике, НО это получилось только после того как нейросеть переписала всю тему, создала новый дизайн и настроила SEO/GEO теперь это ещё один топовый лидогенератор. Мне дали ТИЦ на сайт с нейрослопом 😂😂😂 ТИЦ Карл https://mayai.ru/ ОЦЕНИТЬ САЙТ 💬💬💬 (посмотрите 2 блок на главной - НРАВИТСЯ)Без шуток на сайт было потрачено пару дней, о это просто маст хэв оптимизация и настройка. Советую всем у кого сайты на WP срочно доверить их нейросетям на переделку и оптимизацию. P.S Мой совет Cursor AI (с моделью Gemini 3.1 Pro) Она лучшая в дизайне и SEO/GEO оптимизации.  P.S.S В понедельник тут трансляция скорей всего будет  - готовьте свои вопросики, будет просто разнос.➕   https://kv-ai.ru/obuchenie-po-make  Обучение по Make.com, нейросетям и  Вайб-кодингу",
