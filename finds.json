@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "ai_newz/4516",
+    "channel": "ai_newz",
+    "text": "Нейродайджест за неделю (#112)LLM-  https://t.me/ai_newz/4504 Gemma 4 — Новая линейка от Google из четырёх моделей (31B, 26B-MoE и две для смартфонов). Все ризонеры, мультимодальные (картинки, видео, аудио) и с контекстом до 256k.-  https://t.me/ai_newz/4499 Computer use в Claude Code — Теперь Клод может разрабатывать нативные приложения с GUI, а не только веб. Релизнулся для подписчиков Pro и Max, сначала лишь на MacOS, но сейчас и на винде. -  https://t.me/ai_newz/4500 OpenAI привлекли $122 миллиарда — Оценка компании теперь $852 миллиарда. Деньги пойдут на постройку дата-центров.Генеративные модели-  https://t.me/ai_newz/4506 Слив GPT Image 2 на арене — В сети спекулируют о скором выходе GPT Image 2. Модель засветилась на Arena и показывает высокое качество генерации UI и текста.Прочее-  https://t.me/ai_newz/4501 eGPU на маках с M-чипами — Tinycorp портировали драйвер для карт Nvidia/AMD на macOS. Теперь можно подключать видюхи по Thunderbolt без бубна.-  https://t.me/ai_newz/4502 Л",
+    "link": "https://t.me/ai_newz/4504",
+    "tg_link": "https://t.me/ai_newz/4516",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-04-05T17:22:17.298036+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5444",
+    "channel": "open_source_friend",
+    "text": "proxmox-managerЭто инструмент командной строки с текстовым интерфейсом (TUI), предназначенный для управления виртуальными машинами и контейнерами в среде Proxmox.Он предоставляет функции для отображения списка виртуальных машин и контейнеров, проверки их статуса, а также выполнения операций запуска, остановки и перезагрузки.Дополнительно поддерживается управление снимками (snapshots), доступ к консоли и интеграция с SPICE для удаленного управления.Инструмент также выполняет проверку прав доступа, обеспечивая безопасность операций.Lang: Shell https://github.com/TimInTech/proxmox-manager https://github.com/TimInTech/proxmox-manager================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/TimInTech/proxmox-manager",
+    "tg_link": "https://t.me/open_source_friend/5444",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-05T17:22:16.551400+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5443",
+    "channel": "open_source_friend",
+    "text": "gridlandGridland — это фреймворк для создания терминальных приложений, работающих как в браузере, так и в терминале.Он построен на основе OpenTUI и React, что позволяет разрабатывать приложения с использованием современных технологий.Gridland рендерит интерфейсы в стиле терминала непосредственно в HTML5 Canvas, обеспечивая кроссплатформенную совместимость.Lang: TypeScript https://github.com/thoughtfulllc/gridland https://github.com/thoughtfulllc/gridland================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/thoughtfulllc/gridland",
+    "tg_link": "https://t.me/open_source_friend/5443",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-05T17:22:16.551362+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5442",
+    "channel": "open_source_friend",
+    "text": "NomAI-AppЭто мобильное приложение с открытым исходным кодом на Flutter, которое помогает отслеживать приемы пищи, анализировать пищевую ценность и получать рекомендации на основе искусственного интеллекта, адаптированные к вашим целям. Оно сочетает в себе быструю регистрацию данных, мощную аналитику и удобный чат-интерфейс, делая здоровое питание простым и устойчивым.Интерфейс интуитивно понятен и поддерживает темную и светлую темы оформления.Приложение интегрировано с Firebase для синхронизации данных между устройствами.Lang: Dart https://github.com/MabudAlam/NomAI-App https://github.com/MabudAlam/NomAI-App================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/MabudAlam/NomAI-App",
+    "tg_link": "https://t.me/open_source_friend/5442",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-05T17:22:16.551315+00:00"
+  },
+  {
     "post_id": "ai_newz/4506",
     "channel": "ai_newz",
     "text": "Слив GPT Image 2 на аренеТвиттерские вовсю спекулируют о скором выходе GPT Image 2. Предполагаемая модель уже засветилась на Chatbot Arena под именами maskingtape-alpha, gaffertape-alpha и packingtape-alpha (сейчас ее оттуда уже убрали).Качество действительно очень хорошее. Особенно круто модель генерит UI, игры и мелкий текст — видимо, ее неслабо натренировали на скриншотах. Из забавного — жесткая цензура: на сгенерированной карте Африки вместо Нигера нейронка от греха подальше выдала «CIGER». Ну и на сложных схемах типа анатомии человека всё еще допускает уйму ошибок в тексте.Но вообще смешно, что местами грань стирается. Я уже не могу понять, это юзеры троллят и грузят фотки с камеры, или это настолько реалистичные генерации. Больше примеров в комментариях и кидайте свои, если вдруг успели потестить. https://t.me/ai_newz @ai_newz",
