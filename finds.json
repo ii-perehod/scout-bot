@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "ai_newz/4517",
+    "channel": "ai_newz",
+    "text": "На Stepik вышел курс:  https://stepik.org/a/278661?utm_source=tg&amp;utm_medium=cpc&amp;utm_campaign=ai_news Vibecoding — Claude Code, Codex, Cursor и coding agents в 2026.Хотите работать с Claude Code, Codex и Cursor так, чтобы агенты действительно вытаскивали львиную долю разработки: фичи, отладку, тесты, рефакторинг, MVP и многошаговые задачи? Этот курс — про современный vibecoding workflow и agentic development в 2026.В программе:— Claude Code, Codex, Cursor— agent mode и многошаговые задачи— работа с кодовой базой— subagents, hooks, skills— MCP и внешние инструменты— ревью кода, изменения и контроль качестваПодойдёт всем, кто регулярно работает с кодом: разработчикам, ML-инженерам, дата-сайентистам, аналитикам, automation-специалистам и техническим фаундерам.Скидка 40% действует 48 часов. https://stepik.org/a/278661/pay?promo=67b87beeacdbd774&amp;utm_source=tg&amp;utm_medium=cpc&amp;utm_campaign=ai_news Пройти курс на Stepik#промо",
+    "link": "https://stepik.org/a/278661?utm_source=tg&amp;utm_medium=cpc&amp;utm_campaign=ai_news",
+    "tg_link": "https://t.me/ai_newz/4517",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-07T17:50:11.077798+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5450",
+    "channel": "open_source_friend",
+    "text": "doom-over-dnsЭто проект, позволяющий запускать классическую игру DOOM, загружая её данные исключительно через DNS TXT-записи, без записи файлов на диск.Ключевая особенность заключается в том, что весь игровой контент разбит на около 1 964 DNS TXT-записи, которые затем собираются и исполняются в памяти с помощью скрипта на PowerShell.Для реализации используется порт DOOM на C# под названием managed-doom, что позволяет загружать и запускать игру непосредственно из памяти, обходя традиционные методы хранения и загрузки файлов.Lang: C# https://github.com/resumex/doom-over-dns https://github.com/resumex/doom-over-dns================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/resumex/doom-over-dns",
+    "tg_link": "https://t.me/open_source_friend/5450",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-07T17:50:10.390366+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5449",
+    "channel": "open_source_friend",
+    "text": "proxelarProxelar — это инструмент типа MITM, предназначенный для перехвата и анализа HTTP и HTTPS трафика.Он поддерживает работу в режимах прямого и обратного прокси, а также обеспечивает перехват трафика с использованием TLS.Программа предоставляет несколько интерфейсов: текстовый пользовательский интерфейс (TUI) на основе ratatui, терминальный режим и веб-интерфейс, позволяя пользователю выбирать наиболее удобный способ взаимодействия.Lang: Rust https://github.com/emanuele-em/proxelar https://github.com/emanuele-em/proxelar================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/emanuele-em/proxelar",
+    "tg_link": "https://t.me/open_source_friend/5449",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-07T17:50:10.390329+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5448",
+    "channel": "open_source_friend",
+    "text": "uncoverЭто инструмент на языке Go, предназначенный для быстрого обнаружения открытых хостов в интернете с использованием API известных поисковых систем.Он поддерживает одновременный запрос к нескольким поисковым системам, включая Shodan, Censys, FOFA, Hunter, Quake, Zoomeye, Netlas, CriminalIP, PublicWWW и HunterHow.Инструмент позволяет использовать несколько API-ключей с автоматической рандомизацией, а также поддерживает ввод и вывод через стандартные потоки (stdin/stdout).Lang: Go https://github.com/projectdiscovery/uncover https://github.com/projectdiscovery/uncover================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/projectdiscovery/uncover",
+    "tg_link": "https://t.me/open_source_friend/5448",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-07T17:50:10.390280+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1425",
     "channel": "AI_for_product_owner",
     "text": "Целый курс по нейросетям — за 690 рублей в месяц 😅Вы наверняка видели дорогие курсы по нейросетям в интернете. Покупаешь и получаешь кучу материалов, которые некогда смотреть. Много воды и очень мало того, что можно взять и применить прямо сейчас.При этом мы понимаем: чтобы уверенно пользоваться нейросетями, нужно хотя бы базово понять их логику. Просто скинуть промпт и надеяться на лучшее — не работает.💁‍♂️ Поэтому внутри «Базы промптов» есть мини-курс по ChatGPT — он поможет разобраться и стартовать с нуля.После курса вы сможете:✅ зайти в ChatGPT из России без танцев с VPN;✅ решить вопрос с оплатой, даже если нет подходящей карты;✅ с первого открытия понять, куда нажимать и что писать;✅ формулировать запросы так, чтобы получать именно то, что нужно — а не то, что нейросеть решила за вас;✅ и сразу начать генерировать визуалы по готовым шаблонам из Базы — их там уже больше 300.И всё это — в базовой подписке за 690 рублей в месяц. Никаких дорогих курсов в рассрочку + живой чат, где можн",
