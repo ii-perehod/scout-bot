@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "ai_newz/4524",
+    "channel": "ai_newz",
+    "text": "OpenAI релизнули подписку ChatGPT Pro за $100Он всё так же даёт доступ к GPT 5.4 Pro и прочим фичам Pro подписки (помните про ChatGPT Pulse?), но с меньшими лимитами на Codex. Пользователи нового Pro тира будут получать 5x использования Codex по сравнению с Plus, но до 31 мая действует акция, которая удваивает использование для всех Pro пользователей, то есть на почти два месяца лимиты в 10x больше чем у Plus. https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz",
+    "tg_link": "https://t.me/ai_newz/4524",
+    "category": "ИИ",
+    "is_free": false,
+    "found_at": "2026-04-09T17:54:10.833574+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5456",
+    "channel": "open_source_friend",
+    "text": "pad3r-publicЭто инструмент для реконструкции динамических 3D-объектов из обычных монокулярных видео, который одновременно моделирует деформацию объекта и движение камеры. Метод демонстрирует высокую точность и устойчивость в сложных сценариях, таких как значительные деформации объектов и ограниченные углы обзора.Lang: Python https://github.com/pad3r/pad3r-public https://github.com/pad3r/pad3r-public================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/pad3r/pad3r-public",
+    "tg_link": "https://t.me/open_source_friend/5456",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-09T17:54:09.950824+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5455",
+    "channel": "open_source_friend",
+    "text": "SPAG4dЭто инструмент для преобразования 360° панорамных изображений в 3D сцены с использованием метода Gaussian Splatting.Он разделяет панораму на несколько частей, применяет к каждой из них алгоритм SHARP, а затем объединяет результаты в единую 3D модель.Программа поддерживает обработку панорам с различным количеством сегментов, что позволяет гибко настраивать детализацию конечной сцены.Lang: Python https://github.com/cedarconnor/SPAG4d https://github.com/cedarconnor/SPAG4d================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/cedarconnor/SPAG4d",
+    "tg_link": "https://t.me/open_source_friend/5455",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-09T17:54:09.950795+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5454",
+    "channel": "open_source_friend",
+    "text": "GSAPGSAP (GreenSock Animation Platform) — это мощная библиотека JavaScript, предназначенная для создания высокопроизводительных анимаций на веб-сайтах и в веб-приложениях.Она позволяет анимировать любые свойства объектов JavaScript, включая CSS-свойства, элементы SVG, объекты canvas и многое другое.Ключевые функции GSAP включают в себя движок tweening для точного управления анимациями, возможность создания сложных последовательностей с помощью временных шкал (timelines), а также поддержку плагинов, таких как ScrollTrigger для анимаций, зависящих от прокрутки, и Draggable для реализации перетаскивания элементов.Библиотека оптимизирована для обеспечения плавных анимаций с высокой частотой кадров и совместима со всеми основными браузерами. Lang: JavaScript https://github.com/greensock/GSAP https://github.com/greensock/GSAP================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/greensock/GSAP",
+    "tg_link": "https://t.me/open_source_friend/5454",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-09T17:54:09.950750+00:00"
+  },
+  {
     "post_id": "maya_pro/1302",
     "channel": "maya_pro",
     "text": "RAG агент который спасает время, деньги, бизнес, пятую точкуТРУ стори: Занятие которое пройдёт сегодня, его попросили ученики, а всё началось достаточно давно.....В далеком царстве - есть  https://kv-ai.ru/obuchenie-po-make платный канал мой, так вот на платном канале почти за полтора года набралась огромная база знаний, а если быть точнее то 41 тысяча комментариев и 145 видео длинной от двух до 3х часов по разным темам и на любой вкус. Некоторая информация устаревает, например про то как получить то или иное апи, какой моделью сейчас пользоваться итд. Само собой получилась ситуация когда приходят новички (кстати мы всегда вам рады),а между прочим в платнике побывало уже 1340 человек, нужно актуализировать данные так как данные меняются со скоростью света. Я и ребята в чате всегда отвечаем на вопрос новичков, но бывает доходит до того что один и тот же вопрос шёл друг за другом и с этим надо было что то делать.... Шаг 1: Wisper AI (локальная модель- бесплатно ) 280+ часов видеоматериал",
