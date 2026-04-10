@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "AI_for_product_owner/1451",
+    "channel": "AI_for_product_owner",
+    "text": "Есть ли в «Базе» промпты для мебели?Нам часто задают этот вопрос, потому что мебель сложно снимать.Нужно либо тащить её в студию, либо делать дорогостоящие 3D-визуализации, либо часами верстать в дизайн-программах. А показать, как диван будет смотреться в скандинавском интерьере, а не в минимализме — вообще отдельная история.Теперь это решается иначе.С помощью этих промптов вы размещаете кровать, стул, стол или шкаф в любом интерьере — за несколько генераций. Разные стили, разное оформление, разная атмосфера. Без дополнительных съёмок и без дорогостоящего дизайна.При этом товар сохраняется в исходном виде — все детали, текстуры и нюансы на месте. Покупатель видит на карточке именно то, что получит в реальности.Подборка актуальна для:📍 менеджеров и селлеров мебели на маркетплейсах — быстро закрыть визуал под разные интерьеры без лишних затрат;📍 дизайнеров карточек товара – можно быстро подготовить пачку карточек с разными расцветками мебели и тратить на это 3-4 часа лишь на один диван;📍",
+    "link": "https://t.me/Aiforproduct_bot?start=dl-176673617894cf772dc042",
+    "tg_link": "https://t.me/AI_for_product_owner/1451",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-04-10T17:40:44.275148+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5459",
+    "channel": "open_source_friend",
+    "text": "PodroidЭто приложение с открытым исходным кодом для Android, позволяющее запускать Linux-контейнеры на телефоне без прав суперпользователя.Оно создает легковесную виртуальную машину на базе Alpine Linux с использованием QEMU и предоставляет полный контейнерный рантайм Podman с встроенным терминалом, совместимым с xterm.Ключевые функции включают поддержку OCI-образов, постоянное хранилище через overlayfs и возможность перенаправления портов.Lang: Kotlin https://github.com/ExTV/Podroid https://github.com/ExTV/Podroid================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/ExTV/Podroid",
+    "tg_link": "https://t.me/open_source_friend/5459",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-10T17:40:42.276444+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5458",
+    "channel": "open_source_friend",
+    "text": "ai-subtitlesЭто инструмент для автоматической генерации субтитров к видео с помощью искусственного интеллекта.Он использует модель OpenAI Whisper для преобразования аудиодорожки видео в текст.Поддерживает различные языки и может работать с видеофайлами разных форматов.Lang: TypeScript https://github.com/Nutlope/ai-subtitles https://github.com/Nutlope/ai-subtitles================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Nutlope/ai-subtitles",
+    "tg_link": "https://t.me/open_source_friend/5458",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-10T17:40:42.276410+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5457",
+    "channel": "open_source_friend",
+    "text": "File_Converter_ProFile_Converter_Pro — это бесплатный автономный конвертер файлов для Windows без необходимости подключения к интернету или установки дополнительных зависимостей.Программа поддерживает темные и светлые темы интерфейса, предоставляет панель статистики и систему достижений, а также использует резервные механизмы для обеспечения надежности конверсии. Lang: Python https://github.com/Hyacinthe-primus/File_Converter_Pro https://github.com/Hyacinthe-primus/File_Converter_Pro================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Hyacinthe-primus/File_Converter_Pro",
+    "tg_link": "https://t.me/open_source_friend/5457",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-10T17:40:42.276363+00:00"
+  },
+  {
     "post_id": "ai_newz/4524",
     "channel": "ai_newz",
     "text": "OpenAI релизнули подписку ChatGPT Pro за $100Он всё так же даёт доступ к GPT 5.4 Pro и прочим фичам Pro подписки (помните про ChatGPT Pulse?), но с меньшими лимитами на Codex. Пользователи нового Pro тира будут получать 5x использования Codex по сравнению с Plus, но до 31 мая действует акция, которая удваивает использование для всех Pro пользователей, то есть на почти два месяца лимиты в 10x больше чем у Plus. https://t.me/ai_newz @ai_newz",
