@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4526",
+    "channel": "ai_newz",
+    "text": "Waypoint-1.5 — реалтайм ИИ-мир на домашнем ПКЧуваки из Overworld выкатили обновленную версию своей  https://t.me/ai_newz/4375 реалтайм world-модели для дома. В этот раз они закинули в 100 раз больше данных и подкрутили оптимизации. Разрешение все еще оставляет желать лучшего и по графону вряд ли может тягаться даже с самыми простыми играми, но главная фишка в том, что это локальная модель и запускается она на консьюмерских карточках уровня RTX 3070. Более того, на сайте доступен удобный EXE-загрузчик для локального запуска хоть в 60 FPS и 720p, если ваше железо потянет (но по дефолту модель работает в 360p). Ну а для тех, у кого нет видеокарты совсем, есть возможность запустить демо в вебе и на Hugging Face, правда с большим инпутлагом и меньшим фпс. https://over.world/blog/waypoint-1-5 Блогпост https://over.world/install Установка Biome https://www.overworld.stream/ Web демо https://huggingface.co/spaces/Overworld/waypoint-1-5 HF демо https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz/4375",
+    "tg_link": "https://t.me/ai_newz/4526",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-12T17:26:39.955851+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5464",
+    "channel": "open_source_friend",
+    "text": "udemy-downloader-guiЭто кроссплатформенное приложение с графическим интерфейсом, предназначенное для загрузки приобретённых курсов с платформы Udemy.Программа позволяет скачивать как платные, так и бесплатные курсы, доступные в вашем аккаунте Udemy. Приложение поддерживает Windows, Mac и Linux, предоставляя удобный способ сохранения курсов для офлайн-просмотра.Lang: JavaScript https://github.com/heliomarpm/udemy-downloader-gui https://github.com/heliomarpm/udemy-downloader-gui================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/heliomarpm/udemy-downloader-gui",
+    "tg_link": "https://t.me/open_source_friend/5464",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-12T17:26:39.151918+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5463",
+    "channel": "open_source_friend",
+    "text": "IRONSIGHTЭто панель мониторинга OSINT для отслеживания конфликтов на Ближнем Востоке.Объединяет разведывательные данные из более чем 50 источников, включая новости, Telegram, военные базы данных, финансовые рынки и многое другое, в единую панель управления.API-ключи не требуются. Полностью бесплатно для использования.Lang: TypeScript https://github.com/NoblerWorks-HQ/IRONSIGHT https://github.com/NoblerWorks-HQ/IRONSIGHT================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/NoblerWorks-HQ/IRONSIGHT",
+    "tg_link": "https://t.me/open_source_friend/5463",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-12T17:26:39.151869+00:00"
+  },
+  {
     "post_id": "ai_newz/4525",
     "channel": "ai_newz",
     "text": "Тринадцать пуль и одна бутылка: как протест против ИИ стал горячимСегодня в дом Сэма Альтмана прилетел коктейль Молотова, 20-летний подозреваемый был задержан уже после угроз поджечь штаб-квартиру OpenAI. Сэм написал ответный  https://blog.samaltman.com/2279512 блогпост, где запостил фото своей семьи, ответил на критику компании и призвал к цивильному дискурсу. Это не первый случай на этой неделе — в понедельник в дом члена горсовета Индианаполиса, ранее поддержавшего строительство датацентра, выстрелили 13 раз. На месте событий была найдена записка \"нет датацентрам\". Мы всё чаще видим насилие в ИИ-дискурсе.Причина довольно простая — с бешенными темпами развития и инвестициями на сотни миллиардов долларов ИИ стал поляризированной темой. Президенты, сенаторы и т.д. начали комментировать релизы моделей на 🤗, https://t.me/denissexy/11300  ведут с ними дебаты, предлагать всевозможные запреты, стимулы и регуляции. А политизация, хоть не порождая насилие сама по себе, привлекает аудиторию, д",
