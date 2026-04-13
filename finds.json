@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "ai_newz/4527",
+    "channel": "ai_newz",
+    "text": "Нейродайджест за неделю (#113)LLM-  https://t.me/ai_newz/4519 Project Glasswing и Claude Mythos — Новый Claude нашёл тысячи уязвимостей в ОС и браузерах. Anthropic запускает Project Glasswing для аудита софта для 40 крупнейших организаций.-  https://t.me/ai_newz/4521 Muse Spark — первая LLM от Meta Superintelligence Lab. Meta натренила почти фронтир-модель, которая хоть и не дотягивает до Mythos, но показывает хорошие результаты в вижене и медицине.-  https://t.me/ai_newz/4524 Подписка ChatGPT Pro за $100 — Новый тир подписки с повышенными лимитами на Codex.Генеративные модели-  https://t.me/ai_newz/4518 Runway Characters — Можно создать кастомного риалтайм аватара по одной картинке и подключить свою базу знаний.-  https://t.me/ai_newz/4520 Marble 1.1 от World Labs — Обновлённая world model на гауссианах: улучшенное качество, меньше артефактов и миры побольше.-  https://t.me/ai_newz/4526 Waypoint-1.5 — Обновлённая реалтайм world-модель для домашнего ПК. Запускается на RTX 3070 и генери",
+    "link": "https://t.me/ai_newz/4519",
+    "tg_link": "https://t.me/ai_newz/4527",
+    "category": "ИИ",
+    "is_free": false,
+    "found_at": "2026-04-13T07:09:15.234710+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5465",
+    "channel": "open_source_friend",
+    "text": "koodo-readerKoodo Reader — это современный менеджер и читалка электронных книг с возможностью синхронизации и резервного копирования, доступная для Windows, macOS, Linux, Android, iOS и веб-платформ.Программа поддерживает более 15 популярных форматов электронных книг, включая EPUB, PDF, MOBI, AZW3, TXT и комиксы, обеспечивая гибкость в выборе источников чтения.Среди ключевых функций: синхронизация библиотеки, прогресса чтения, закладок, полок, выделений и заметок через облачные сервисы, такие как OneDrive, Google Drive, Dropbox и другие.Koodo Reader предоставляет AI-инструменты для интеллектуального перевода, обширных словарей и содержательных аннотаций, а также настраиваемый интерфейс с возможностью изменения шрифтов, тем и режимов отображения. Lang: JavaScript https://github.com/koodo-reader/koodo-reader https://github.com/koodo-reader/koodo-reader",
+    "link": "https://github.com/koodo-reader/koodo-reader",
+    "tg_link": "https://t.me/open_source_friend/5465",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-13T07:09:14.432739+00:00"
+  },
+  {
     "post_id": "ai_newz/4526",
     "channel": "ai_newz",
     "text": "Waypoint-1.5 — реалтайм ИИ-мир на домашнем ПКЧуваки из Overworld выкатили обновленную версию своей  https://t.me/ai_newz/4375 реалтайм world-модели для дома. В этот раз они закинули в 100 раз больше данных и подкрутили оптимизации. Разрешение все еще оставляет желать лучшего и по графону вряд ли может тягаться даже с самыми простыми играми, но главная фишка в том, что это локальная модель и запускается она на консьюмерских карточках уровня RTX 3070. Более того, на сайте доступен удобный EXE-загрузчик для локального запуска хоть в 60 FPS и 720p, если ваше железо потянет (но по дефолту модель работает в 360p). Ну а для тех, у кого нет видеокарты совсем, есть возможность запустить демо в вебе и на Hugging Face, правда с большим инпутлагом и меньшим фпс. https://over.world/blog/waypoint-1-5 Блогпост https://over.world/install Установка Biome https://www.overworld.stream/ Web демо https://huggingface.co/spaces/Overworld/waypoint-1-5 HF демо https://t.me/ai_newz @ai_newz",
