@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "ai_newz/4529",
+    "channel": "ai_newz",
+    "text": "Теперь не нужно ждать часами пока сбилдится Flash Attention🤗 запилили репозиторий кернелов, которые они сбилдили под кучу сочетаний видеокарт, ОС и версий PyTorch. Прирост по сравнению с автоматически сгенерированными кернелами вплоть до 2.5x, всё совместимо с torch.comple(). http://huggingface.co/kernels huggingface.co/kernels https://t.me/ai_newz @ai_newz",
+    "link": "http://huggingface.co/kernels",
+    "tg_link": "https://t.me/ai_newz/4529",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-14T17:57:57.426361+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5470",
+    "channel": "open_source_friend",
+    "text": "ProximaProxima — это локальный сервер с открытым исходным кодом, предназначенный для интеграции и оркестрации нескольких AI-моделей.Он позволяет подключать такие модели, как ChatGPT, Claude, Gemini и Perplexity, и управлять ими как единой командой разработчиков внутри уже используемых инструментов. Lang: JavaScript http://github.com/Zen4-bit/Proxima http://github.com/Zen4-bit/Proxima================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "http://github.com/Zen4-bit/Proxima",
+    "tg_link": "https://t.me/open_source_friend/5470",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-14T17:57:56.720864+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5469",
+    "channel": "open_source_friend",
+    "text": "opc-skillsЭто набор из 10 модульных навыков для AI-агентов, предназначенных для индивидуальных предпринимателей и разработчиков-одиночек, расширяющий возможности AI-кодинг-ассистентов, таких как Claude Code, Cursor и Codex, с функциями автоматизации, включая поиск доменов, анализ социальных сетей и продуктовую аналитику. Навыки устанавливаются с помощью одной команды и совместимы с более чем 12 основными AI-кодинг-платформами, включая Claude Code, Cursor, Windsurf и Droid.Lang: Python https://github.com/ReScienceLab/opc-skills https://github.com/ReScienceLab/opc-skills================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/ReScienceLab/opc-skills",
+    "tg_link": "https://t.me/open_source_friend/5469",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-14T17:57:56.720837+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5468",
+    "channel": "open_source_friend",
+    "text": "jmeterApache JMeter — это инструмент с открытым исходным кодом, предназначенный для проведения нагрузочного тестирования и измерения производительности различных сервисов, с акцентом на веб-приложения.Он поддерживает тестирование как статических, так и динамических ресурсов, включая HTTP, HTTPS, SOAP, FTP, базы данных через JDBC, LDAP, JMS, почтовые протоколы и многое другое.JMeter позволяет моделировать поведение множества пользователей, отправляющих запросы к серверу, и предоставляет результаты в виде различных отчетов и диаграмм.Архитектура JMeter основана на плагинах, что позволяет расширять его функциональность и адаптировать под специфические требования тестирования.Lang: Java https://github.com/apache/jmeter https://github.com/apache/jmeter================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/apache/jmeter",
+    "tg_link": "https://t.me/open_source_friend/5468",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-14T17:57:56.720783+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1461",
     "channel": "AI_for_product_owner",
     "text": "Не узнаёте себя на нейрофото? Читайте, как это исправить 👇Отправляете нейросети своё фото, получаете результат — смотрите на картинку, и на вас смотрит совершенно посторонний человек. Знакомо?Вот три вещи, которые помогают это исправить:1️⃣ Правильные промптыБольшинство проблем с внешностью решаются с помощью правильно составленного запроса. В папке «Тренды» регулярно выходят новые портретные промпты — несколько свежих вариантов в карусели. Всё что нужно: выбрать картинку, которая понравилась, скопировать промпт, отправить своё фото — и готово.2️⃣ Правильная нейросетьОдни нейросети лучше подходят для работы с внешностью, другие — для инфографики. В инструкциях «Базы» вы всегда найдёте рекомендацию, какую нейросеть использовать для того или иного промпта.3️⃣ Быстрая помощь от опытных участниковЕсли всё равно не выходит, то приходите в чат комьюнити, описывайте проблему и получайте реальную обратную связь от Ани, опытных участников и иногда от меня лично. Люди делятся опытом, поддерживаю",
