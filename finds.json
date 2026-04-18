@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "open_source_friend/5485",
+    "channel": "open_source_friend",
+    "text": "yj_nearbyglassesПрограмма предназначена для обнаружения поблизости умных очков и уведомления пользователя об их присутствии.Она использует сигналы Bluetooth для идентификации устройств, которые могут быть умными очками.Приложение доступно для платформ Android и iOS, обеспечивая кроссплатформенную совместимость.Lang: Kotlin https://github.com/yjeanrenaud/yj_nearbyglasses https://github.com/yjeanrenaud/yj_nearbyglasses================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+    "tg_link": "https://t.me/open_source_friend/5485",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-18T17:28:52.685918+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5483",
+    "channel": "open_source_friend",
+    "text": "☝🏻Так как в связи с блокировками часть аудитории теряет доступ к контенту, то напомню: На случай блокировок у каналов есть зеркало:😎 Чёрный Треугольник —  https://max.ru/black_triangle_tg https://max.ru/black_triangle_tg 👁 Open Source —  https://max.ru/open_source_friend https://max.ru/open_source_friend 💻 AliExpress Hacker —  https://max.ru/AliExpress_Hacker https://max.ru/AliExpress_Hacker Посты там публикуются точно также, почти синхронно, только без рекламы.Если вам комфортно здесь — оставайтесь, контент никуда не денется.",
+    "link": "https://max.ru/black_triangle_tg",
+    "tg_link": "https://t.me/open_source_friend/5483",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-18T17:28:52.685890+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5482",
+    "channel": "open_source_friend",
+    "text": "Edit-BananaЭто инструмент, предназначенный для преобразования статических изображений и PDF-файлов в полностью редактируемые документы.Он использует передовые технологии, такие как SAM 3, мультимодальные большие языковые модели и OCR, для точного восстановления структуры оригинальных диаграмм.С помощью Edit-Banana можно конвертировать диаграммы, блок-схемы и другие визуальные элементы в форматы DrawIO, SVG или PowerPoint, сохраняя при этом цвета, иерархию элементов и пространственное расположение.Lang: Python https://github.com/BIT-DataLab/Edit-Banana https://github.com/BIT-DataLab/Edit-Banana================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/BIT-DataLab/Edit-Banana",
+    "tg_link": "https://t.me/open_source_friend/5482",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-18T17:28:52.685860+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5481",
+    "channel": "open_source_friend",
+    "text": "MapleMaple — это расширение для браузера, предназначенное для скрытия панели закладок и обеспечения более удобного доступа к избранным сайтам.Оно позволяет скрыть закладки в виджет, обеспечивая быстрый доступ к часто посещаемым ресурсам через него, а не отдельную панель.Расширение поддерживает настройку внешнего вида и организации закладок, что позволяет адаптировать его под индивидуальные предпочтения пользователя.Lang: JavaScript https://github.com/tw93/Maple https://github.com/tw93/Maple================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/tw93/Maple",
+    "tg_link": "https://t.me/open_source_friend/5481",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-18T17:28:52.685802+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1485",
     "channel": "AI_for_product_owner",
     "text": "Хотите попасть на «Модный приговор» без кастинга и связей? 🤔Помните, как в этом шоу берут самую обычную женщину и за пару дней превращают в другого человека? Думаю тысячи девушек по всей стране мечтали оказаться на ее местеНовая причёска, новый цвет волос, новый стиль. И она смотрит на себя в зеркало — и не узнаёт, но в хорошем смысле.Многие смотрели это и мечтали «вот бы и мне так»Сегодня мы исполним эту мечту – мы создали промпт, который поможет вам всего за одну генерацию получить идеи для преображения 👇Создай фотореалистичный премиальный мудборд в виде ЧЁТКОЙ СЕТКИ 4x2 (8 блоков) на основе человека из референсного фото.КРИТИЧНО:– лицо полностью совпадает с референсом  – один и тот же человек во всех блоках  – не менять внешность, пропорции и возраст  СТРУКТУРА (ЖЁСТКАЯ):Сетка строго 4 ряда × 2 колонкиРЯД 1:слева — ОБЩИЙ СТИЛЬ  справа — ПОДХОДЯЩИЕ ЦВЕТА  РЯД 2:слева — МАКИЯЖ  справа — ВОЛОСЫ  РЯД 3:слева — СТИЛЬ ОДЕЖДЫ  справа — АКСЕССУАРЫ  РЯД 4:слева — НЕ ПОДХОДИТ  справа — ИТОГОВ",
