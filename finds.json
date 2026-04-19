@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "ai_newz/4537",
+    "channel": "ai_newz",
+    "text": "Claude DesignКлод Лабс запустили Claude Design. Я еще полгода назад  https://t.me/ai_newz/4268 писал про то, что лучший способ дизайна через нейросети — это простой Canvas в ChatGPT или Gemini и другие, а особняком стоял только Gamma, который до сих пор один из лучших для презентаций.И вот Антропики выпускают отдельный специальный инструмент для создания презентаций, UI-интерфейсов и прочих замечательных вещей. По сути, все то же самое мы еще очень давно делали в чате, здесь Клод просто все красиво упаковывает в нативный дизайн (видимо, не зря новую модель Opus 4.7 научили жрать картинки в 3.75 мегапикселей).Вообще, это чем-то похоже на историю с Амазоном, которые смотрели, что продают их селлеры на маркетплейсе, а потом закрывали их бизнес, заходя самостоятельно в прибыльную нишу. Так вот, видимо, и Антропики тоже видят, на что и как уходят запросы в их API, и могут делать наиболее мощные продуктовые мувы, захватывая самые прибыльные ниши. https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz/4268",
+    "tg_link": "https://t.me/ai_newz/4537",
+    "category": "ИИ",
+    "is_free": true,
+    "found_at": "2026-04-19T17:28:25.626484+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5488",
+    "channel": "open_source_friend",
+    "text": "CodeFormerЭто нейросетевой инструмент для восстановления и улучшения качества лиц на старых или повреждённых фотографиях.Он использует архитектуру Codebook Lookup Transformer, позволяющую балансировать между качеством восстановления и сохранением индивидуальности лица.Ключевые функции включают восстановление лиц, колоризацию чёрно-белых изображений, заполнение повреждённых областей и улучшение качества.Дополнительно, CodeFormer может повышать качество фона изображений с помощью модели Real-ESRGAN.Lang: Python https://github.com/sczhou/CodeFormer https://github.com/sczhou/CodeFormer================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/sczhou/CodeFormer",
+    "tg_link": "https://t.me/open_source_friend/5488",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-19T17:28:24.530290+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5487",
+    "channel": "open_source_friend",
+    "text": "tegakiЭто инструмент для создания анимации ручного написания текста, поддерживающий любые шрифты и текст. Программа поддерживает различные стили анимации и легко интегрируется в существующие веб-проекты.Lang: TypeScript https://github.com/KurtGokhan/tegaki https://github.com/KurtGokhan/tegaki================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/KurtGokhan/tegaki",
+    "tg_link": "https://t.me/open_source_friend/5487",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-19T17:28:24.530254+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5486",
+    "channel": "open_source_friend",
+    "text": "mcp-searxngЭто сервер MCP (Model Context Protocol), интегрирующий API SearXNG для предоставления возможностей веб-поиска в среде MCP.Ключевые функции включают выполнение веб-поиска с пагинацией, фильтрацию результатов по времени (день, месяц, год), выбор языка и настройку уровня безопасного поиска.Дополнительно, сервер поддерживает интеллектуальное кэширование содержимого URL с использованием TTL для повышения производительности и уменьшения избыточных запросов.Lang: TypeScript https://github.com/ihor-sokoliuk/mcp-searxng https://github.com/ihor-sokoliuk/mcp-searxng================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/ihor-sokoliuk/mcp-searxng",
+    "tg_link": "https://t.me/open_source_friend/5486",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-19T17:28:24.530208+00:00"
+  },
+  {
     "post_id": "open_source_friend/5485",
     "channel": "open_source_friend",
     "text": "yj_nearbyglassesПрограмма предназначена для обнаружения поблизости умных очков и уведомления пользователя об их присутствии.Она использует сигналы Bluetooth для идентификации устройств, которые могут быть умными очками.Приложение доступно для платформ Android и iOS, обеспечивая кроссплатформенную совместимость.Lang: Kotlin https://github.com/yjeanrenaud/yj_nearbyglasses https://github.com/yjeanrenaud/yj_nearbyglasses================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
