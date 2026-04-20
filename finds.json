@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "AI_for_product_owner/1486",
+    "channel": "AI_for_product_owner",
+    "text": "Как генерировать модель в купальнике и нижнем белье, чтобы не отлетать по модерации?Даже если вы уже уверенно работаете с нейросетями, купальники и нижнее бельё — отдельная история. Нейросеть видит полуобнаженную модель и блокирует генерацию. Снова и снова.Переформулируешь промпт и опять отказ. Так может пройти попыток десять, а результата так и не будет, потому что цензура не пропустит 😕Именно для таких случаев мы и собираем промпты в «Базе» — для задач, где стандартные подходы не работают. Например, у нас есть подборка промтов для работы с нижним бельем и купальниками, которые нейросеть пропускает и выдаёт чистые, профессиональные карточки с моделями.А если потом еще и задействовать наши промты для создания окружения, то получите модель на пляже с правильным светом и любыми дополнительными элементами, которые вам понадобятся🔥Ведь сезон купальников уже начался – на Wildberries и Ozon этот товар сейчас в топе, и спрос будет только расти вплоть до августа и сентября. Поэтому кто сделает",
+    "link": "https://t.me/Aiforproduct_bot?start=dl-176673617894cf772dc042",
+    "tg_link": "https://t.me/AI_for_product_owner/1486",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-20T17:50:55.839975+00:00"
+  },
+  {
+    "post_id": "ai_newz/4539",
+    "channel": "ai_newz",
+    "text": "Moonshot обновили Kimi до версии 2.6Модель теперь куда сильнее в длинных кодинг задачах, а на бенчах обгоняет Composer 2 от Cursor (который основан на K2.5). Кроме этого компания продолжает инвестировать в рои агентов — K2.6 тренировали использовать вплоть до 300 субагентов параллельно, другие команды не фокусируются на этом настолько сильно (а зря). Ну и говорят что модель теперь лучше работает с OpenClaw и прочими подобными агентами. https://huggingface.co/moonshotai/Kimi-K2.6 Веса https://www.kimi.com/blog/kimi-k2-6 Блогпост https://t.me/ai_newz @ai_newz",
+    "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
+    "tg_link": "https://t.me/ai_newz/4539",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-20T17:50:54.749820+00:00"
+  },
+  {
+    "post_id": "ai_newz/4538",
+    "channel": "ai_newz",
+    "text": "Нейродайджест за неделю (#114)LLM-  https://t.me/ai_newz/4532 Anthropic жмет подписки — Компания меняет прайсинг для энтерпрайз-пользователей. Убирают тиры, оставляют базовую подписку, а всё сверх лимитов — по ценам API. Цены для активных юзеров могут вырасти в 2-3 раза.-  https://t.me/ai_newz/4534 Веса Qwen 3.6 — 35B-A3B модель, которая теперь обгоняет Qwen 3.5 27B dense за счёт большей разговорчивости.-  https://t.me/ai_newz/4535 Opus 4.7 — После нерфа 4.6 релиз ожидаемый. Улучшенные бенчи, новые сейфгарды для кибербеза и поддержка большего разрешения в вижене.-  https://t.me/ai_newz/4536 xAI сдаёт компьют в аренду — Маск решил выйти на рынок неоклаудов. Первым клиентом стал Cursor, который будет тренировать Composer 2.5 на Colossus.Генеративные модели-  https://t.me/ai_newz/4530 ERNIE Image — новый открытый t2i. Компактная 8B-модель от Baidu (Apache 2.0) соревнуется с Qwen Image и Z-image, удивительно хорошо рендерит текст.-  https://t.me/ai_newz/4537 Claude Design — Anthropic запус",
+    "link": "https://t.me/ai_newz/4532",
+    "tg_link": "https://t.me/ai_newz/4538",
+    "category": "Open Source",
+    "is_free": false,
+    "found_at": "2026-04-20T17:50:54.749777+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5491",
+    "channel": "open_source_friend",
+    "text": "buzzЭто настольное приложение для офлайн транскрипции и перевода аудио на вашем персональном компьютере, основанное на модели OpenAI Whisper.Программа позволяет импортировать аудио- и видеофайлы, а также ссылки на YouTube, и экспортировать транскрипции в форматы TXT, SRT и VTT.Поддерживается запись и транскрипция в реальном времени с микрофона, включая режим презентации для удобства на мероприятиях.Для повышения точности на шумных записях предусмотрена функция разделения речи перед транскрипцией, а также идентификация говорящих в транскрибированном материале.Lang: Python https://github.com/chidiwilliams/buzz https://github.com/chidiwilliams/buzz================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/chidiwilliams/buzz",
+    "tg_link": "https://t.me/open_source_friend/5491",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-20T17:50:54.084241+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5490",
+    "channel": "open_source_friend",
+    "text": "wayback-machine-webextensionЭто расширение для браузеров Chrome, Firefox, Edge и Safari, разработанное Интернет-архивом для интеграции с Wayback Machine.Оно позволяет мгновенно сохранять текущую веб-страницу в архиве, просматривать её самые старые и новые версии, а также получать обзор всех сохранённых копий.Дополнительно, расширение может автоматически проверять статус посещаемых страниц и предлагать архивные версии недоступных сайтов.Lang: JavaScript https://github.com/internetarchive/wayback-machine-webextension https://github.com/internetarchive/wayback-machine-webextension================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/internetarchive/wayback-machine-webextension",
+    "tg_link": "https://t.me/open_source_friend/5490",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-20T17:50:54.084180+00:00"
+  },
+  {
     "post_id": "open_source_friend/5489",
     "channel": "open_source_friend",
     "text": "odiffЭто высокоскоростной инструмент для сравнения изображений, предназначенный для выявления визуальных различий между двумя изображениями за миллисекунды.Поддерживает сравнение изображений различных форматов, включая PNG, JPEG, WEBP и TIFF, а также обработку изображений с различными макетами. Lang: Zig https://github.com/dmtrKovalenko/odiff https://github.com/dmtrKovalenko/odiff",
