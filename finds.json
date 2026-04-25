@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5506",
+    "channel": "open_source_friend",
+    "text": "useSenduseSend — это открытая альтернатива сервисам Resend, Sendgrid и Postmark, предназначенная для надежной и экономичной отправки электронных писем.Ключевые функции включают управление контактами, отправку массовых рассылок, поддержку транзакционных писем, REST API, SMTP, планирование отправки, вебхуки и возможность использования собственных учетных данных AWS.В настоящее время поддерживается только отправка электронных писем, но в планах расширение на другие протоколы, такие как SMS, push-уведомления и сообщения в мессенджерах.Проект находится в стадии бета-тестирования и доступен для локального развертывания с помощью Docker.Lang: TypeScript https://github.com/usesend/useSend https://github.com/usesend/useSend================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/usesend/useSend",
+    "tg_link": "https://t.me/open_source_friend/5506",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-25T17:30:41.420495+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5505",
+    "channel": "open_source_friend",
+    "text": "tui-usetui-use — это инструмент, позволяющий агентам взаимодействовать с программами, ожидающими ввода от человека через клавиатуру, такими как REPL, отладчики, TUI-приложения и другие программы, недоступные для bash.Он предоставляет возможность автоматизировать взаимодействие с такими программами, обеспечивая управление через текстовый интерфейс.tui-use поддерживает интеграцию с различными агентами и может быть использован для расширения их возможностей.Lang: TypeScript https://github.com/onesuper/tui-use https://github.com/onesuper/tui-use================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/onesuper/tui-use",
+    "tg_link": "https://t.me/open_source_friend/5505",
+    "category": "Автоматизация",
+    "is_free": true,
+    "found_at": "2026-04-25T17:30:41.420457+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5504",
+    "channel": "open_source_friend",
+    "text": "musicatЭто элегантный настольный музыкальный плеер для офлайн-музыки.Программа поддерживает воспроизведение без пауз, умные плейлисты и отображение музыки на карте. Lang: Svelte https://github.com/basharovV/musicat https://github.com/basharovV/musicat================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/basharovV/musicat",
+    "tg_link": "https://t.me/open_source_friend/5504",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-25T17:30:41.420403+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1508",
     "channel": "AI_for_product_owner",
     "text": "За что 34 000 пользователей говорят «спасибо» NanoBot каждый день?Когда запускал  https://t.me/ainanobot_bot?start=post_ms2503 NanoBot, хотел сделать один простой инструмент,  чтобы генерировать визуал быстро, без танцев между разными нейросетями и сервисами. И судя по тому, что пишут в чате — получилось 🙂Каждый день ботом пользуются 34 000 человек. И вот что они говорят:📍 Мария попробовала делать карточки через Banana Pro — говорит, что это прорыв. Раньше фон подбирала в одной нейросети, качество улучшала в другой, инфографику верстала в Canva и Figma. 📍  Кристина зашла за готическими промптами и, судя по её словам, её «понесло» 😄 В лесу, с огнём в руках, но внешность сохранена, атмосфера передана.📍  Виктория сравнила оригинальный NanoBot с аналогом — один промпт, один референс, два совершенно разных результата. «Бот этого комьюнити просто one love».📍 Наташа отметила, что технических проблем здесь почти нет. И добавила главное: в боте платишь ровно за то, что используешь — токены не с",
