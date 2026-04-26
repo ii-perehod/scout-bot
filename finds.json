@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5509",
+    "channel": "open_source_friend",
+    "text": "donutbrowserDonut Browser — это открытый антидетект-браузер, предназначенный для обеспечения анонимности и конфиденциальности в интернете.Он поддерживает неограниченное количество изолированных профилей, каждый со своим уникальным отпечатком, куками, расширениями и данными.Браузер работает на движках Chromium и Firefox, оснащенных продвинутыми средствами подмены отпечатков. Donut Browser не собирает телеметрию и предоставляет возможность синхронизации профилей через облако с опцией сквозного шифрования.Lang: Rust https://github.com/zhom/donutbrowser https://github.com/zhom/donutbrowser================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/zhom/donutbrowser",
+    "tg_link": "https://t.me/open_source_friend/5509",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-26T17:31:15.387590+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5508",
+    "channel": "open_source_friend",
+    "text": "KrillinAIKrillinAI — это инструмент для локализации и улучшения аудио- и видеоконтента, позволяющий переводить и озвучивать видео на более чем 100 языков.Он поддерживает загрузку видео с различных платформ или из локальных файлов, точное распознавание речи с помощью Whisper, интеллектуальную сегментацию субтитров и их выравнивание с использованием больших языковых моделей.KrillinAI предлагает профессиональный перевод с учетом контекста, замену терминологии одним кликом, клонирование голоса и автоматическую компоновку видео в альбомной и портретной ориентации.Программа совместима с Windows, Linux и macOS, предоставляя как настольные, так и серверные версии для удобства пользователей.Lang: Go https://github.com/krillinai/KrillinAI https://github.com/krillinai/KrillinAI================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/krillinai/KrillinAI",
+    "tg_link": "https://t.me/open_source_friend/5508",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-26T17:31:15.387559+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5507",
+    "channel": "open_source_friend",
+    "text": "meetilyMeetily — это AI-ассистент для совещаний с приоритетом конфиденциальности, обеспечивающий локальную обработку данных без использования облачных сервисов.Он предлагает функции живой транскрипции с использованием моделей Parakeet и Whisper, идентификацию говорящих и создание резюме встреч с помощью Ollama.Программа полностью открыта и доступна для самостоятельного размещения, поддерживает работу на macOS и Windows, а также совместима с различными платформами для видеоконференций, такими как Zoom, Microsoft Teams и Google Meet.Lang: Rust https://github.com/Zackriya-Solutions/meetily https://github.com/Zackriya-Solutions/meetily================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Zackriya-Solutions/meetily",
+    "tg_link": "https://t.me/open_source_friend/5507",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-26T17:31:15.387464+00:00"
+  },
+  {
     "post_id": "open_source_friend/5506",
     "channel": "open_source_friend",
     "text": "useSenduseSend — это открытая альтернатива сервисам Resend, Sendgrid и Postmark, предназначенная для надежной и экономичной отправки электронных писем.Ключевые функции включают управление контактами, отправку массовых рассылок, поддержку транзакционных писем, REST API, SMTP, планирование отправки, вебхуки и возможность использования собственных учетных данных AWS.В настоящее время поддерживается только отправка электронных писем, но в планах расширение на другие протоколы, такие как SMS, push-уведомления и сообщения в мессенджерах.Проект находится в стадии бета-тестирования и доступен для локального развертывания с помощью Docker.Lang: TypeScript https://github.com/usesend/useSend https://github.com/usesend/useSend================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
