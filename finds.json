@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5510",
+    "channel": "open_source_friend",
+    "text": "3dsvgЭто инструмент, предназначенный для преобразования SVG-графики в интерактивные 3D-компоненты в React-приложениях.Он позволяет разработчикам легко интегрировать и манипулировать 3D-объектами, созданными на основе SVG, в своих проектах.Благодаря этому инструменту, можно создавать сложные и динамичные визуализации без необходимости глубоких знаний в области 3D-графики.Lang: TypeScript https://github.com/renatoworks/3dsvg https://github.com/renatoworks/3dsvg================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/renatoworks/3dsvg",
+    "tg_link": "https://t.me/open_source_friend/5510",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-27T07:29:34.199223+00:00"
+  },
+  {
     "post_id": "open_source_friend/5509",
     "channel": "open_source_friend",
     "text": "donutbrowserDonut Browser — это открытый антидетект-браузер, предназначенный для обеспечения анонимности и конфиденциальности в интернете.Он поддерживает неограниченное количество изолированных профилей, каждый со своим уникальным отпечатком, куками, расширениями и данными.Браузер работает на движках Chromium и Firefox, оснащенных продвинутыми средствами подмены отпечатков. Donut Browser не собирает телеметрию и предоставляет возможность синхронизации профилей через облако с опцией сквозного шифрования.Lang: Rust https://github.com/zhom/donutbrowser https://github.com/zhom/donutbrowser================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
