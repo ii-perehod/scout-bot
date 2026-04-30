@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1520",
+    "channel": "AI_for_product_owner",
+    "text": "Дайджест НОВЫХ промтов и новостей за апрель 2026Собрали подборку всех самых интересных и рабочих промтов, которые вышли на канале в марте, а еще новостей и обновлений, чтобы вы точно ничего не пропустили. 🧐📌 Новости и обновления🟢  https://t.me/AI_for_product_owner/1484 База промтов и коммьюнити теперь в MAX 🟢🟢  https://t.me/AI_for_product_owner/1518 НОВАЯ модель GPT Image 2 теперь в NanoBot 🟢▪️ https://t.me/AI_for_product_owner/1419 Возвращение МЕСЯЧНОЙ подписки https://t.me/AI_for_product_owner/1425 ▪️Целый курс по нейросетям за 690 руб в месяц📌 Новые бесплатные промты  https://t.me/AI_for_product_owner/1485 ▪️Хотите попасть на «Модный приговор» без кастинга? https://t.me/AI_for_product_owner/1485 ▪️ https://t.me/AI_for_product_owner/1495 Промт для портрета Натальной карты https://t.me/AI_for_product_owner/1485 ▪️ https://t.me/AI_for_product_owner/1505 Промт той самой инфографики как из Pinterest▪️ https://t.me/AI_for_product_owner/1416 Промт для «примерки» татуировки▪️ https://t.me/A",
+    "link": "https://t.me/AI_for_product_owner/1484",
+    "tg_link": "https://t.me/AI_for_product_owner/1520",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-30T18:04:22.033824+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5522",
+    "channel": "open_source_friend",
+    "text": "npxskilluiЭто инструмент для обратного проектирования любой системы дизайна в навык, совместимый с Claude.CLI-инструмент, который сканирует любой веб-сайт, репозиторий Git или локальную кодовую базу и извлекает всю их систему дизайна — цвета, типографику, отступы, анимацию, компоненты, скриншоты — упакованную в папку, которую Claude Code считывает автоматически.Откройте папку с результатами, введите команду claude и попросите ИИ создать ваш пользовательский интерфейс. Он уже знает точную систему дизайна.Lang: TypeScript https://github.com/amaancoderx/npxskillui https://github.com/amaancoderx/npxskillui================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/amaancoderx/npxskillui",
+    "tg_link": "https://t.me/open_source_friend/5522",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-04-30T18:04:19.102124+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5521",
+    "channel": "open_source_friend",
+    "text": "kittyfarmKittyFarm — это приложение для macOS, позволяющее запускать iOS-симуляторы и Android-эмуляторы одновременно на одном компьютере.Программа предоставляет удобный интерфейс для одновременного тестирования приложений на обеих платформах, что упрощает процесс разработки и отладки. Lang: Swift https://github.com/dnakov/kittyfarm https://github.com/dnakov/kittyfarm================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/dnakov/kittyfarm",
+    "tg_link": "https://t.me/open_source_friend/5521",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-04-30T18:04:19.102068+00:00"
+  },
+  {
     "post_id": "open_source_friend/5520",
     "channel": "open_source_friend",
     "text": "AI-Youtube-Shorts-GeneratorЭто инструмент на Python, предназначенный для автоматического создания коротких видеороликов для YouTube Shorts из длинных видео.Он использует GPT-4o-mini и Whisper для анализа видео, выделения наиболее интересных фрагментов и добавления субтитров.Программа поддерживает как ссылки на YouTube, так и локальные видеофайлы, а также обеспечивает вертикальное кадрирование для оптимального отображения на платформах социальных сетей.Lang: Python https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
