@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1521",
+    "channel": "AI_for_product_owner",
+    "text": "После анонса GPT Image 2 в чате комьюнити началось активное тестирование 😄Наша Анна принесла идею: попросить модель нарисовать вас в образе человека, который ведёт стрим или эфир — но с визуальными деталями, которые отражают именно вашу профессию.Посмотрите на результаты участников 👆 Елена — риэлторНа картинке она ведёт прямой эфир на улице, а вокруг домики, калькулятор, деньги, чат со зрителями. Всё говорит о том, чем она занимается – без подписей и объяснений. Другая участница – дизайнер. Те же детали: её окружают элементы, которые считываются мгновенно.GPT Image 2 здесь сделал кое-что важное. Он сохранил внешность, считал контекст профессии и сам добавил детали, которые её передают. Не просто красивая картинка — а визуал, который рассказывает о вас.Такое оформление выглядит свежо и небанально. Участники уже используют это для соцсетей и рекламных креативов.Вот сам промт:Сгенерируй изображение смешного [парня, девушки, женщины и т.д.] [риелтора, дизайнера инфографики, психолога и т.д",
+    "link": "https://t.me/ainanobot_bot?start=post_ms2503",
+    "tg_link": "https://t.me/AI_for_product_owner/1521",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-01T17:50:29.993088+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5525",
+    "channel": "open_source_friend",
+    "text": "geo-optimizer-skillЭто инструмент для оптимизации веб-сайтов, направленный на повышение их видимости в поисковых системах с искусственным интеллектом, таких как ChatGPT, Perplexity, Claude и Gemini.Он проводит полный аудит сайта, оценивая технические аспекты и авторитетность контента, и предоставляет рекомендации по улучшению. Lang: Python https://github.com/Auriti-Labs/geo-optimizer-skill https://github.com/Auriti-Labs/geo-optimizer-skill================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Auriti-Labs/geo-optimizer-skill",
+    "tg_link": "https://t.me/open_source_friend/5525",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-01T17:50:27.529850+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5524",
+    "channel": "open_source_friend",
+    "text": "WireTapperWireTapper — это инструмент для пассивного сбора и анализа радиосигналов, предназначенный для обнаружения и картирования различных беспроводных устройств и сигналов в окружающей среде.Он способен идентифицировать Wi-Fi сети, устройства Bluetooth, камеры видеонаблюдения, автомобили, наушники, телевизоры, IoT-устройства и сотовые вышки, предоставляя пользователю детальную информацию о радиочастотной обстановке.Программа преобразует полученные радиосигналы в наглядную ситуационную картину, что может быть полезно для проведения разведывательных операций с открытым исходным кодом (OSINT).Lang: HTML https://github.com/h9zdev/WireTapper https://github.com/h9zdev/WireTapper================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/h9zdev/WireTapper",
+    "tg_link": "https://t.me/open_source_friend/5524",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-01T17:50:27.529801+00:00"
+  },
+  {
     "post_id": "open_source_friend/5523",
     "channel": "open_source_friend",
     "text": "token-dashboardЭто инструмент для локального анализа использования токенов в сессиях Claude Code.Он преобразует сырые JSONL-транскрипты в аналитические данные о стоимости, визуализации горячих точек и информацию об использовании на уровне сессий.Программа позволяет пользователям отслеживать и оптимизировать расход токенов, предоставляя детальные отчёты и визуализации.Lang: Python https://github.com/nateherkai/token-dashboard https://github.com/nateherkai/token-dashboard================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
