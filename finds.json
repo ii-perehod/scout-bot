@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5528",
+    "channel": "open_source_friend",
+    "text": "pywaliumЭто инструмент для динамической генерации тем оформления браузера Chromium на основе цветовой палитры, созданной с помощью Pywal.Он автоматически создает тему, соответствующую текущей цветовой схеме Pywal, обеспечивая единообразный внешний вид рабочего окружения.Сгенерированная тема может быть загружена в Chromium через режим разработчика, предоставляя пользователю персонализированный интерфейс.Lang: Shell https://github.com/simonmader17/pywalium https://github.com/simonmader17/pywalium================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/simonmader17/pywalium",
+    "tg_link": "https://t.me/open_source_friend/5528",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-02T17:36:43.703395+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5527",
+    "channel": "open_source_friend",
+    "text": "TUI_bluetoothЭто терминальный пользовательский интерфейс (TUI) для управления Bluetooth-устройствами в Linux.Программа взаимодействует с Bluetooth-адаптерами и устройствами, позволяя выполнять операции, такие как подключение, отключение, сопряжение и передача файлов.Дополнительно, TUI_bluetooth позволяет управлять сопряженными устройствами — например управлять телевизором словно с пульта через Bluetooth.Lang: Python https://github.com/HelpFreedom/TUI_bluetooth https://github.com/HelpFreedom/TUI_bluetooth================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/HelpFreedom/TUI_bluetooth",
+    "tg_link": "https://t.me/open_source_friend/5527",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-02T17:36:43.703366+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5526",
+    "channel": "open_source_friend",
+    "text": "thesvgЭто библиотека, предоставляющая более 5 650 векторных SVG-иконок брендов для разработчиков и дизайнеров.Ключевые функции включают возможность поиска и копирования иконок непосредственно из редактора кода Visual Studio Code, поддержку различных вариантов иконок (цветные, монохромные, темные, светлые, с текстом), а также доступ к иконкам через npm-пакеты, CDN и API.Дополнительно, библиотека поддерживает интеграцию с различными инструментами и фреймворками, такими как React, Vue и Svelte, и предоставляет возможность использования иконок в офлайн-режиме после первого загрузки.Lang: TypeScript https://github.com/glincker/thesvg https://github.com/glincker/thesvg================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/glincker/thesvg",
+    "tg_link": "https://t.me/open_source_friend/5526",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-02T17:36:43.703313+00:00"
+  },
+  {
     "post_id": "ai_newz/4557",
     "channel": "ai_newz",
     "text": "OpenAI добавили в Codex питомцевИ да, его можно сделать гоблином. Ну а что, после роста выручки в два раза за неделю, команде можно и подурачиться.А из Claude Code тамагочи вырезали всего через неделю после добавления... https://t.me/ai_newz @ai_newz",
