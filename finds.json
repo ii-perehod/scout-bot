@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5531",
+    "channel": "open_source_friend",
+    "text": "Hunyuan3D-2-WinPortableЭто портативный пакет для запуска Hunyuan3D версий 2.0 и 2.1 на Windows.Он осуществляет генерацию 3D-моделей из текстовых описаний и изображений, обеспечивая высокую точность геометрии и реалистичность текстур.Пакет оптимизирован для работы с различными архитектурами GPU, включая Blackwell (серия RTX 50), и включает новый графический интерфейс запуска.Lang: Batchfile https://github.com/YanWenKun/Hunyuan3D-2-WinPortable https://github.com/YanWenKun/Hunyuan3D-2-WinPortable================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/YanWenKun/Hunyuan3D-2-WinPortable",
+    "tg_link": "https://t.me/open_source_friend/5531",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-03T17:38:47.998384+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5530",
+    "channel": "open_source_friend",
+    "text": "dwm-status-barЭто минималистичная строка статуса для оконных менеджеров, поддерживающих чтение `WM_NAME` корневого окна, таких как dwm и dwl.Она отображает информацию о погоде, курсах валют (USD/RUB, BTC), индексе МосБиржи, лимитах Claude Code, а также данные о сети, оперативной памяти, загрузке процессора, состоянии батареи и текущем времени.Программа использует `xsetroot -name` для обновления строки статуса одной строкой, содержащей всю необходимую информацию.Lang: Shell https://github.com/HelpFreedom/dwm-status-bar https://github.com/HelpFreedom/dwm-status-bar================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/HelpFreedom/dwm-status-bar",
+    "tg_link": "https://t.me/open_source_friend/5530",
+    "category": "SEO",
+    "is_free": true,
+    "found_at": "2026-05-03T17:38:47.998336+00:00"
+  },
+  {
     "post_id": "ai_newz/4558",
     "channel": "ai_newz",
     "text": "Помните вы переживали что ваше резюме сделанное с LLM, может не пройти какой-то отбор в HR-системе в месте куда откликаетесь? Можете больше не переживать, всё наоборотРесечры  https://arxiv.org/abs/2509.00462 изучили сценарий: кандидат пишет резюме с помощью LLM, а компания потом скринит это резюме, тоже через LLM – то есть робот пишет, робот читает, человек где-то в углу пьёт кофе и надеется, что наймут адекватаВ статье два вывода:1. Резюме, переписанные LLM, чаще проходят автоматический отбор (☕️)В симуляциях кандидаты, которые использовали тот же LLM, что и система-оценщик, оказывались в шортлисте заметно чаще, чем такие же по содержанию кандидаты с резюме сделанными врукопашную – примерно на 20-60% чаще2. Сам скоринг оказался байасным. Модель не просто делает вывод в стиле: “о, тут лучше написано”, она, похоже, может узнавать свой стиль и предпочитать тексты, похожие на её собственные – авторы называют это self-preference bias: модель склонна любить контент, который сама же могла б",
