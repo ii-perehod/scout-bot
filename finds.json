@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5532",
+    "channel": "open_source_friend",
+    "text": "openDAWopenDAW — это современная веб-ориентированная цифровая аудиостанция (DAW), предназначенная для создания и редактирования музыкальных проектов прямо в браузере.Она предоставляет пользователям возможность работать с аудиофайлами, применять эффекты и микшировать треки без необходимости установки дополнительного программного обеспечения.Проект поддерживает облачное хранение проектов, что позволяет сохранять и загружать работы из различных облачных сервисов, таких как Google Drive, S3 и Dropbox.openDAW также ориентирован на совместную работу, предлагая функции для одновременного редактирования проектов несколькими пользователями в реальном времени.Lang: TypeScript https://github.com/andremichelle/openDAW https://github.com/andremichelle/openDAW================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/andremichelle/openDAW",
+    "tg_link": "https://t.me/open_source_friend/5532",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-04T07:42:45.190703+00:00"
+  },
+  {
     "post_id": "open_source_friend/5531",
     "channel": "open_source_friend",
     "text": "Hunyuan3D-2-WinPortableЭто портативный пакет для запуска Hunyuan3D версий 2.0 и 2.1 на Windows.Он осуществляет генерацию 3D-моделей из текстовых описаний и изображений, обеспечивая высокую точность геометрии и реалистичность текстур.Пакет оптимизирован для работы с различными архитектурами GPU, включая Blackwell (серия RTX 50), и включает новый графический интерфейс запуска.Lang: Batchfile https://github.com/YanWenKun/Hunyuan3D-2-WinPortable https://github.com/YanWenKun/Hunyuan3D-2-WinPortable================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
