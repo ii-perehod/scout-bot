@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5538",
+    "channel": "open_source_friend",
+    "text": "adbpadAdbPad — это мощный графический интерфейс для Android Debug Bridge (ADB), позволяющий управлять устройствами, выполнять команды, делать скриншоты и запускать виртуальные дисплеи без использования терминала.Программа предоставляет возможность просматривать все подключенные Android-устройства и переключаться между ними одним кликом.Пользователи могут выполнять ADB-команды непосредственно из интерфейса, отправлять текстовые вводы на устройство, делать скриншоты и сохранять их локально.AdbPad также поддерживает создание виртуальных дисплеев с помощью scrcpy для тестирования приложений на больших экранах.Lang: Kotlin https://github.com/kaleidot725/adbpad https://github.com/kaleidot725/adbpad================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/kaleidot725/adbpad",
+    "tg_link": "https://t.me/open_source_friend/5538",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-05T18:05:57.380618+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5537",
+    "channel": "open_source_friend",
+    "text": "mcp-toolboxMCP Toolbox — это открытый сервер MCP (Model Context Protocol) для баз данных, разработанный для упрощения управления и интеграции инструментов в приложения генеративного ИИ.Он предоставляет централизованную платформу для хранения, обновления и совместного использования инструментов между агентами и приложениями, позволяя обновлять их без необходимости повторного развертывания приложения.С помощью MCP Toolbox можно легко интегрировать внешние функциональности, такие как соединители API или инструменты для работы с базами данных, в приложения генеративного ИИ.Для взаимодействия с MCP Toolbox доступны SDK на различных языках программирования, включая JavaScript, Python и Go.Lang: Go https://github.com/googleapis/mcp-toolbox https://github.com/googleapis/mcp-toolbox================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/googleapis/mcp-toolbox",
+    "tg_link": "https://t.me/open_source_friend/5537",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-05T18:05:57.380555+00:00"
+  },
+  {
     "post_id": "open_source_friend/5535",
     "channel": "open_source_friend",
     "text": "MV-SAM3DЭто инструмент для генерации 3D сцен с учетом компоновки объектов, использующий адаптивное слияние данных из нескольких видов.Он формулирует слияние многовидовых данных как процесс Multi-Diffusion в 3D латентном пространстве, обеспечивая согласованность между различными видами.Внедряет физически осведомленную оптимизацию, вводя ограничения на столкновения и контакты, что приводит к физически правдоподобным расположениям объектов.Демонстрирует значительные улучшения в точности реконструкции и правдоподобности компоновки без дополнительного обучения.Lang: Python https://github.com/devinli123/MV-SAM3D https://github.com/devinli123/MV-SAM3D",
