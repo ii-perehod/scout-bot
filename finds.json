@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "ai_newz/4560",
+    "channel": "ai_newz",
+    "text": "OpenAI обновили GPT Instant до версии 5.5Модель теперь умнее, меньше галлюцинирует и при этом выдаёт заметно более короткие ответы. Кроме этого обновили интерфейс памяти в ChatGPT — будут показывать на основе каких воспоминаний моделька ответила. Новую модель уже раскатывают на всех пользователей ChatGPT, А вы пользуетесь не ризонерами? Если да, то для чего? https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz",
+    "tg_link": "https://t.me/ai_newz/4560",
+    "category": "ИИ",
+    "is_free": true,
+    "found_at": "2026-05-06T07:30:43.888533+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5539",
+    "channel": "open_source_friend",
+    "text": "Code2VideoЭто инструмент для генерации образовательных видео на основе исполняемого кода, обеспечивающий точность и воспроизводимость визуального контента.Ключевые функции включают триагентную архитектуру: Планировщик, структурирующий содержание лекции; Кодер, создающий исполняемый код; и Критик, оптимизирующий визуальное оформление.Использует библиотеку Manim для создания анимаций, что позволяет детально контролировать процесс генерации видео.Lang: Python https://github.com/showlab/Code2Video https://github.com/showlab/Code2Video================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/showlab/Code2Video",
+    "tg_link": "https://t.me/open_source_friend/5539",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-06T07:30:42.711526+00:00"
+  },
+  {
     "post_id": "open_source_friend/5538",
     "channel": "open_source_friend",
     "text": "adbpadAdbPad — это мощный графический интерфейс для Android Debug Bridge (ADB), позволяющий управлять устройствами, выполнять команды, делать скриншоты и запускать виртуальные дисплеи без использования терминала.Программа предоставляет возможность просматривать все подключенные Android-устройства и переключаться между ними одним кликом.Пользователи могут выполнять ADB-команды непосредственно из интерфейса, отправлять текстовые вводы на устройство, делать скриншоты и сохранять их локально.AdbPad также поддерживает создание виртуальных дисплеев с помощью scrcpy для тестирования приложений на больших экранах.Lang: Kotlin https://github.com/kaleidot725/adbpad https://github.com/kaleidot725/adbpad================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
