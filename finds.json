@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1535",
+    "channel": "AI_for_product_owner",
+    "text": "Готовимся к 9 мая: как сохранить память о великой Победе9 мая для нашей страны – больше, чем праздник. Это день, который объединяет поколения.День памяти, гордости и благодарности.Мы не забыли подвиг наших дедов и бабушек.Помним, какой ценой досталась Победа.И продолжаем говорить «спасибо» через десятилетия.Сегодня особенно хочется показать эту связь и не просто словами, а через образы, которые доходят до сердца ❤️Как нейросети помогают сохранить историю в вашей семье:🎖 Бессмертный полк. Искусственный интеллект может улучшить качество изображения на старых фотокарточках, восстановить утерянные или поврежденные фрагменты и даже «оживить» ваших близких с фото. Покажите детям, какими молодыми и полными сил были их старшие родственники в те далекие годы.💌 Трогательные открытки. Создайте уникальную открытку для своих ветеранов или близких. Это будет не просто картинка из интернета, а личное послание с символами Победы.📸 Связь поколений. Попробуйте воссоздать атмосферу победного мая 45-го – ",
+    "link": "https://t.me/ainanobot_bot?start=post_9maya",
+    "tg_link": "https://t.me/AI_for_product_owner/1535",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-07T18:17:31.564000+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5545",
+    "channel": "open_source_friend",
+    "text": "GameNativeЭто приложение с открытым исходным кодом, позволяющее запускать Windows-игры из Steam, Epic Games Store и GOG на устройствах Android.Ключевые функции включают интеграцию с несколькими игровыми платформами, поддержку облачных сохранений и возможность играть в любимые ПК-игры непосредственно на Android-устройствах.Приложение использует контейнеризацию и эмуляцию для обеспечения совместимости с Windows-играми, а также поддерживает различные графические драйверы, включая DXVK и VKD3D.Lang: Kotlin https://github.com/utkarshdalal/GameNative https://github.com/utkarshdalal/GameNative================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/utkarshdalal/GameNative",
+    "tg_link": "https://t.me/open_source_friend/5545",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-07T18:17:29.733872+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5544",
+    "channel": "open_source_friend",
+    "text": "AIPexAIPex — это расширение для браузера с открытым исходным кодом, которое превращает ваш браузер в интеллектуальную платформу автоматизации с помощью команд на естественном языке.Оно позволяет автоматизировать практически любые задачи в браузере, включая управление вкладками, заполнение форм и извлечение данных с веб-страниц.AIPex интегрируется с вашим текущим браузером без необходимости перехода на другой, обеспечивая полную защиту конфиденциальности и не требуя подписки.Lang: TypeScript https://github.com/AIPexStudio/AIPex https://github.com/AIPexStudio/AIPex================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/AIPexStudio/AIPex",
+    "tg_link": "https://t.me/open_source_friend/5544",
+    "category": "Автоматизация",
+    "is_free": false,
+    "found_at": "2026-05-07T18:17:29.733813+00:00"
+  },
+  {
     "post_id": "open_source_friend/5542",
     "channel": "open_source_friend",
     "text": "youtube-skillsЭто инструмент, предоставляющий API для интеграции возможностей работы с YouTube в AI-агенты.Он позволяет получать транскрипты видео, искать видео и каналы, просматривать содержимое каналов и извлекать плейлисты.Инструмент совместим с такими AI-агентами, как OpenClaw, ClawdBot, Claude Code, Cursor и Windsurf. https://github.com/ZeroPointRepo/youtube-skills https://github.com/ZeroPointRepo/youtube-skills================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
