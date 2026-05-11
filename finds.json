@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5556",
+    "channel": "open_source_friend",
+    "text": "vibra-codeЭто инструмент с открытым исходным кодом для создания мобильных приложений с помощью искусственного интеллекта, позволяющий пользователям описывать желаемый функционал на естественном языке, после чего AI генерирует и собирает приложение.Ключевые функции включают интеграцию с Claude Code, Expo, React Native, Convex и E2B, обеспечивая гибкость и мощность при разработке.Проект вдохновлён такими приложениями, как vibecodeapp, rork, lovable и  http://bolt.new/ bolt.new, но отличается полной открытостью исходного кода.Lang: TypeScript https://github.com/sa4hnd/vibra-code https://github.com/sa4hnd/vibra-code================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "http://bolt.new/",
+    "tg_link": "https://t.me/open_source_friend/5556",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-11T08:19:56.198194+00:00"
+  },
+  {
     "post_id": "open_source_friend/5555",
     "channel": "open_source_friend",
     "text": "pocketpawPocketPaw — это самохостящийся персональный AI-агент, работающий непосредственно на вашем устройстве, обеспечивая конфиденциальность данных и независимость от облачных сервисов.Он поддерживает интеграцию с различными платформами, такими как Telegram, Discord, Slack и веб-дашборд, предоставляя единый контекст общения на всех каналах.Среди ключевых функций PocketPaw — модульная архитектура, поддержка нескольких LLM-бэкендов (Claude Agent SDK, OpenAI, Ollama), шифрование учетных данных с использованием Fernet AES и система Guardian AI для проверки безопасности выполняемых команд.Дополнительно, PocketPaw оснащен системой управления агентами Command Center, позволяющей разбивать задачи на подзадачи и координировать работу нескольких агентов, а также поддерживает браузерную автоматизацию и ведение журнала аудита для отслеживания действий.Lang: Python https://github.com/pocketpaw/pocketpaw https://github.com/pocketpaw/pocketpaw================👁  https://max.ru/black_triangle_tg News ",
