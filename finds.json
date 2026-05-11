@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "ai_newz/4564",
+    "channel": "ai_newz",
+    "text": "Google тестит Gemini OmniПохоже теперь Gemini умеет в видеогенерацию, а моделям Veo, как отдельной линейке, пришёл конец. Логичный шаг, учитывая возможность Gemini выдавать на выход как аудио так и изображения. Модель скорее всего полноценно покажут на следующей неделе, на Google I/O. https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz",
+    "tg_link": "https://t.me/ai_newz/4564",
+    "category": "ИИ",
+    "is_free": true,
+    "found_at": "2026-05-11T18:50:51.794572+00:00"
+  },
+  {
+    "post_id": "ai_newz/4563",
+    "channel": "ai_newz",
+    "text": "Бесплатная конференция по кейсам AI и вайбкодинга VIBECONУспешных кейсов работы с агентами становится все больше (наконец-то не только демки), так что под них собралась полноценная конференция. Она пройдет уже в эту среду 13 мая, всего будет 8 экспертов-практиков. Они на собственных примерах расскажут, как запустить приложение без кода на 10К установок, автоматизировать лидогенерацию, построить AI-native компанию и внедрить агентов для кратного роста бизнеса.Своим опытом поделятся:➖ Степан Гершуни, партнёр  http://cyber.fund/ cyber.fund➖ Юра Ребрик, cооснователь Fluently➖ Лёша Писаревский, фаундер VIBECON & EpicWeb3➖ Артем Субботин, эксперт в hardware➖ Игорь Зуев, создатель 30+ приложений с ARR $1 млн+➖ Даша Щурик, head of growth в Greeneration, ex-product Revolut➖ Роман Кумар Виас, основатель Refocus➖ Влад Куклев, фаундер AgentcyСтарт в среду 13 мая в 18:00 по МСК.Записаться  https://vibecon.cc/r/40 тут. #промо",
+    "link": "http://cyber.fund/",
+    "tg_link": "https://t.me/ai_newz/4563",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-11T18:50:51.794527+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5558",
+    "channel": "open_source_friend",
+    "text": "gpt_image_2_skillЭто инструмент, предназначенный для генерации и редактирования изображений с помощью моделей OpenAI, предоставляющий галерею промптов и библиотеку для работы с изображениями.Ключевые функции включают в себя возможность создавать и редактировать изображения на основе текстовых описаний, а также использовать агентные навыки и интерфейс командной строки для управления процессом генерации.Дополнительно, программа поддерживает интеграцию с различными AI-агентами и предоставляет структурированные, готовые к производству инструкции для работы с изображениями.Lang: Python https://github.com/wuyoscar/gpt_image_2_skill https://github.com/wuyoscar/gpt_image_2_skill================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/wuyoscar/gpt_image_2_skill",
+    "tg_link": "https://t.me/open_source_friend/5558",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-11T18:50:51.062015+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5557",
+    "channel": "open_source_friend",
+    "text": "girl-agentЭто программный агент, моделирующий поведение виртуальной девушки с элементами человеческого поведения, такими как сон, настроение, расписание, память, стадии отношений и конфликты.Ключевые функции включают режим userbot через MTProto, позволяющий агенту реагировать, печатать и ставить реакции, а также использование anti-AI промпта для устранения типичных повадок ChatGPT.Агент не является чат-ботом в традиционном смысле, а представляет собой персонажа с собственным состоянием и динамикой.Lang: TypeScript https://github.com/TheSashaDev/girl-agent https://github.com/TheSashaDev/girl-agent================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/TheSashaDev/girl-agent",
+    "tg_link": "https://t.me/open_source_friend/5557",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-11T18:50:51.061961+00:00"
+  },
+  {
     "post_id": "open_source_friend/5556",
     "channel": "open_source_friend",
     "text": "vibra-codeЭто инструмент с открытым исходным кодом для создания мобильных приложений с помощью искусственного интеллекта, позволяющий пользователям описывать желаемый функционал на естественном языке, после чего AI генерирует и собирает приложение.Ключевые функции включают интеграцию с Claude Code, Expo, React Native, Convex и E2B, обеспечивая гибкость и мощность при разработке.Проект вдохновлён такими приложениями, как vibecodeapp, rork, lovable и  http://bolt.new/ bolt.new, но отличается полной открытостью исходного кода.Lang: TypeScript https://github.com/sa4hnd/vibra-code https://github.com/sa4hnd/vibra-code================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
