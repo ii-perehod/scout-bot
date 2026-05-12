@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "AI_for_product_owner/1544",
+    "channel": "AI_for_product_owner",
+    "text": "Как нейросети помогают в работе и бизнесе: 8 способов оптимизировать рутинуЧем дольше я работаю с нейросетями, тем отчетливее понимаю: это уже не просто инструмент, чтобы «текстик написать» или «сгенерить картинку». Это полноценный партнер в стратегии, аналитике и росте. Я бы даже сказал, второй мозг и турбо-кнопка для бизнеса 🧠🚀 Вот для чего я чаще всего использую ИИ 👇1️⃣ Помощь в создании контентаНет, этот канал не пишет нейросеть 😄 Но ИИ очень помогает ускорять работу: набросать структуру поста, подготовить тексты для презентаций, карточек, чек-листов, накидать идеи для контента и рекламы. То, на что раньше уходило несколько часов, сейчас можно собрать в черновик за 15-30 минут и спокойно доработать под себя, добавив смыслы.2️⃣ Генерация фото и видеоНейросети позволяют создавать изображения и ролики без фотографа, студии, дизайнера и долгого монтажа. Я использую их для рекламных креативов, коротких видео для соцсетей и презентаций. В условиях недостатка времени можно даже «на коленк",
+    "link": "https://t.me/AI_for_product_owner/1544",
+    "tg_link": "https://t.me/AI_for_product_owner/1544",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-12T18:50:09.284336+00:00"
+  },
+  {
+    "post_id": "ai_newz/4566",
+    "channel": "ai_newz",
+    "text": "Unitree показали МЕХУНазывается GD01, весит полтонны, а цена стартует с 650 тысяч долларов. Мне особенно понравилось как робот может быть как бипедом, так и квадрипедом, жаль только что кабина пилота не поворачивается. https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz",
+    "tg_link": "https://t.me/ai_newz/4566",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-12T18:50:07.905853+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5563",
+    "channel": "open_source_friend",
+    "text": "rattyRatty — это эмулятор терминала с поддержкой рендеринга 3D-графики, использующий возможности GPU.Он позволяет отображать 3D-объекты непосредственно в окне терминала, обеспечивая плавную и высокопроизводительную графику.Программа поддерживает различные протоколы и конфигурации для интеграции с другими приложениями и системами.Lang: Rust https://github.com/orhun/ratty https://github.com/orhun/ratty================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/orhun/ratty",
+    "tg_link": "https://t.me/open_source_friend/5563",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-12T18:50:07.179782+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5562",
+    "channel": "open_source_friend",
+    "text": "lay-publicЭто утилита для реализации «двойного шифта» (double‑Shift) как триггера переключения раскладки клавиатуры в Linux‑среде GNOME на Wayland.Напечатал слово не в той раскладке? Нажми Shift два раза и продолжай писать. Все написанное исправится как нужно.Lang: Rust https://github.com/radislabus-star/lay-public https://github.com/radislabus-star/lay-publicИзмененный форк для X11 Lang: Rust https://github.com/HelpFreedom/lay-x11 https://github.com/HelpFreedom/lay-x11================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/radislabus-star/lay-public",
+    "tg_link": "https://t.me/open_source_friend/5562",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-12T18:50:07.179713+00:00"
+  },
+  {
     "post_id": "open_source_friend/5560",
     "channel": "open_source_friend",
     "text": "maigretMaigret — это инструмент для сбора информации о человеке по его имени пользователя, проверяя наличие аккаунтов на более чем 3000 сайтах.Он анализирует страницы профилей, извлекает личные данные, ссылки на другие профили и выполняет рекурсивный поиск по новым именам пользователей и идентификаторам, найденным в процессе.Maigret поддерживает поиск по тегам (категории сайтов, страны), обнаружение цензуры и капчи, а также повторные запросы при сбоях.Lang: Python https://github.com/soxoj/maigret https://github.com/soxoj/maigret================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
