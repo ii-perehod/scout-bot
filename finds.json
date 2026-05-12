@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5560",
+    "channel": "open_source_friend",
+    "text": "maigretMaigret — это инструмент для сбора информации о человеке по его имени пользователя, проверяя наличие аккаунтов на более чем 3000 сайтах.Он анализирует страницы профилей, извлекает личные данные, ссылки на другие профили и выполняет рекурсивный поиск по новым именам пользователей и идентификаторам, найденным в процессе.Maigret поддерживает поиск по тегам (категории сайтов, страны), обнаружение цензуры и капчи, а также повторные запросы при сбоях.Lang: Python https://github.com/soxoj/maigret https://github.com/soxoj/maigret================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/soxoj/maigret",
+    "tg_link": "https://t.me/open_source_friend/5560",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-12T07:37:17.111345+00:00"
+  },
+  {
     "post_id": "ai_newz/4564",
     "channel": "ai_newz",
     "text": "Google тестит Gemini OmniПохоже теперь Gemini умеет в видеогенерацию, а моделям Veo, как отдельной линейке, пришёл конец. Логичный шаг, учитывая возможность Gemini выдавать на выход как аудио так и изображения. Модель скорее всего полноценно покажут на следующей неделе, на Google I/O. https://t.me/ai_newz @ai_newz",
