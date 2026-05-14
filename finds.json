@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "AI_for_product_owner/1546",
+    "channel": "AI_for_product_owner",
+    "text": "💌 Пригласительные на свадьбу за 2 минуты и без дизайнераПродолжаем подготовку к свадебному сезону! Love story с помощью нейросетей мы уже «отсняли» (если пропустили пост, то  https://t.me/AI_for_product_owner/1529 вот он), теперь пора звать гостей.И тут обычно начинается 👇 - искать дизайнера - объяснять «хочу нежно, но не банально» - правки, дедлайны, бюджеты…А можно проще!С помощью правильных промптов реально: ✨ создать стильные пригласительные под вашу концепцию ✨ подобрать любые цвета, шрифты, атмосферу ✨ сделать хоть классическую эстетику, хоть дизайн «как в Pinterest» без бесконечных согласований и «а можно чуть по-другому?» ✨ и всё это буквально за пару минут, с экономией денег и без потери в качестве💡 Фишка: сделайте сразу несколько вариантов и вместе выбирайте тот самый, «ваш». Или вовсе удивите гостей разными пригласительными: классика с лебедями для бабули и тети Вали из Перми, трендовый Fine Art или Editorial для друзей.Считаем выгоду: подписка на «Базу» стоит меньше, чем ус",
+    "link": "https://t.me/AI_for_product_owner/1529",
+    "tg_link": "https://t.me/AI_for_product_owner/1546",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-05-14T18:28:38.656904+00:00"
+  },
+  {
+    "post_id": "ai_newz/4572",
+    "channel": "ai_newz",
+    "text": "JavaScript рантайм Bun, который в конце прошлого года купили Anthropic,  https://github.com/oven-sh/bun/pull/30412 переписали с языка Zig на Rust. У лид разработчика, при помощи Claude (вероятно Mythos), на это ушло десять дней с первого коммита. Структура кода осталась той же, так что по сути это тот же код просто на другом языке.За процессом портирования было крайне интересно наблюдать — первый коммит попал на главную страницу Hacker News, в реакцию на что разработчик  https://news.ycombinator.com/item?id=48019226 написал что ветка экспериментальная, а код на Rust вероятно выкинут. Но уже через пару дней Rust версия  https://x.com/jarredsumner/status/2053047748191232310 проходила 99,8% тестов Bun и на пути на помойку оказалась наоборот оригинальная версия на Zig. Пока что переписанная версия находится в статусе Canary, но она заменит Zig версию она уже в следующем релизе. Причина миграции — нестабильность работы Bun, в том числе из-за багов с памятью. У новой версии нет регрессий по ",
+    "link": "https://github.com/oven-sh/bun/pull/30412",
+    "tg_link": "https://t.me/ai_newz/4572",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-14T18:28:37.419493+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5570",
+    "channel": "open_source_friend",
+    "text": "network-management-clientЭто настольное приложение для управления и анализа децентрализованных mesh-сетей, разработанное для проекта Meshtastic.Программа позволяет пользователям развертывать и администрировать ad-hoc mesh-коммуникационные сети в офлайн-режиме.Ключевые функции включают алгоритмический анализ сети и предоставление информации о соединениях для повышения надежности коммуникационной инфраструктуры. Lang: TypeScript https://github.com/meshtastic/network-management-client https://github.com/meshtastic/network-management-client================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/meshtastic/network-management-client",
+    "tg_link": "https://t.me/open_source_friend/5570",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-14T18:28:36.657799+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5569",
+    "channel": "open_source_friend",
+    "text": "StoryGen-AtelierЭто инструмент, использующий искусственный интеллект для автоматической генерации раскадровок и видео на основе текстовых описаний.Он применяет модель Gemini для создания текстов и кадров раскадровки, Vertex AI Veo для генерации переходных клипов и ffmpeg для сборки финального видео.Встроенные функции включают ведение логов и управление галереей созданных материалов.Lang: JavaScript https://github.com/0xsline/StoryGen-Atelier https://github.com/0xsline/StoryGen-Atelier================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/0xsline/StoryGen-Atelier",
+    "tg_link": "https://t.me/open_source_friend/5569",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-14T18:28:36.657748+00:00"
+  },
+  {
     "post_id": "open_source_friend/5567",
     "channel": "open_source_friend",
     "text": "mercury-agentMercury Agent — это автономный AI-агент, предназначенный для автоматизации задач и управления рабочими процессами через командную строку или Telegram.Он поддерживает более 40 встроенных инструментов, включая работу с файловой системой, выполнение shell-команд, интеграцию с GitHub для управления pull request'ами и задачами, а также взаимодействие со Spotify.Агент обладает системой памяти, позволяющей запоминать предпочтения и цели пользователя, и обеспечивает управление разрешениями, требуя подтверждения перед выполнением критических действий.Lang: TypeScript https://github.com/cosmicstack-labs/mercury-agent https://github.com/cosmicstack-labs/mercury-agent================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
