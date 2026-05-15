@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "AI_for_product_owner/1549",
+    "channel": "AI_for_product_owner",
+    "text": "Где реальные фото, а где продукт нейросети?Кажется, нейросети уже слишком хорошо научились генерировать фото 😅 Иногда смотришь на картинку и не понимаешь: это реальная съёмка или работа ИИ?Давайте проверим, насколько легко вас можно запутать 👀Часть из этих фото настоящие, а часть созданы нейросетью.Попробуйте угадать, где реальное фото, а где генерация. Варианты пишите в комментариях. Если сможете объяснить, почему решили именно так, по каким признакам, то будет вообще супер 🔥Будем тренировать нейроинтуицию и насмотренность 😉 Правильный ответ выложу вечером!#угадайка",
+    "link": "https://t.me/AI_for_product_owner/1549",
+    "tg_link": "https://t.me/AI_for_product_owner/1549",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-15T18:16:23.681368+00:00"
+  },
+  {
+    "post_id": "ai_newz/4573",
+    "channel": "ai_newz",
+    "text": "Higgsfield Supercomputer – long-running агент для контент-продакшнаHiggsfield анонсировали Supercomputer – managed long-running агента по типу OpenClaw/Hermes с вертикальной специализацией в контент-продакшн и маркетинг. Как и в случае с coding агентами, в creative контексте всё тоже сводится к Agent = Model + HarnessSupercomputer - это агент построенный на собственно Harness от Higgsfield, который уже сгенерировал 5 млрд+ охватов в соцсетях (Instagram:  http://instagram.com/higgsfield.ai @higgsfield.ai)С помощью Higgsfield Supercomputer даже сделали полнометражный фильм, который будет представлен на 79-ом Каннском фестивале.Под капотом у агента:[0] skill-ы как основной примитив интеграции и расширения[1] persistent context (long-term memory, session memory, artifacts)[2] оркестрационный слой на собственном форке Hermes[3] мульти-модельный роутинг, параллелизация, сабагенты[4] cloud инфра с co-located GPU, sandbox-per-task isolation[5] фронтирные модели (seedance 2.0, gpt image 2, veo,",
+    "link": "http://instagram.com/higgsfield.ai",
+    "tg_link": "https://t.me/ai_newz/4573",
+    "category": "ИИ",
+    "is_free": true,
+    "found_at": "2026-05-15T18:16:22.442227+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5573",
+    "channel": "open_source_friend",
+    "text": "note-genЭто кроссплатформенное приложение для ведения заметок в формате Markdown с интеграцией искусственного интеллекта, предназначенное для организации фрагментированной информации в читаемые записи.Программа поддерживает быструю фиксацию идей и их последующую обработку с помощью AI, а также предоставляет функции синхронизации данных и интеграции с другими инструментами.Отличается легкостью (размер около 25 МБ), отсутствием рекламы и бесплатным доступом ко всем функциям.Lang: TypeScript https://github.com/codexu/note-gen https://github.com/codexu/note-gen================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
+    "link": "https://github.com/codexu/note-gen",
+    "tg_link": "https://t.me/open_source_friend/5573",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-15T18:16:21.663855+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5572",
+    "channel": "open_source_friend",
+    "text": "fingerprint-suiteЭто набор инструментов для генерации и внедрения реалистичных отпечатков браузера, предназначенный для маскировки автоматизированных скраперов и обхода механизмов обнаружения на современных веб-сайтах.Ключевые функции включают генерацию настраиваемых HTTP-заголовков, создание достоверных отпечатков браузера, а также их интеграцию в браузеры, управляемые Playwright или Puppeteer. Lang: TypeScript https://github.com/apify/fingerprint-suite https://github.com/apify/fingerprint-suite================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/apify/fingerprint-suite",
+    "tg_link": "https://t.me/open_source_friend/5572",
+    "category": "Автоматизация",
+    "is_free": true,
+    "found_at": "2026-05-15T18:16:21.663828+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5571",
+    "channel": "open_source_friend",
+    "text": "finitFinit — это быстрая и простая замена стандартных систем инициализации SysV init и systemd, предназначенная для использования в небольших и встроенных системах Linux.Она поддерживает уровни выполнения, мониторинг процессов и запуск сервисов по требованию с помощью встроенного inetd или при срабатывании определённых условий.Finit запускает сервисы параллельно, что ускоряет процесс загрузки системы, и автоматически перезапускает их в случае сбоя.Lang: C https://github.com/finit-project/finit https://github.com/finit-project/finit================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
+    "link": "https://github.com/finit-project/finit",
+    "tg_link": "https://t.me/open_source_friend/5571",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-15T18:16:21.663770+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1546",
     "channel": "AI_for_product_owner",
     "text": "💌 Пригласительные на свадьбу за 2 минуты и без дизайнераПродолжаем подготовку к свадебному сезону! Love story с помощью нейросетей мы уже «отсняли» (если пропустили пост, то  https://t.me/AI_for_product_owner/1529 вот он), теперь пора звать гостей.И тут обычно начинается 👇 - искать дизайнера - объяснять «хочу нежно, но не банально» - правки, дедлайны, бюджеты…А можно проще!С помощью правильных промптов реально: ✨ создать стильные пригласительные под вашу концепцию ✨ подобрать любые цвета, шрифты, атмосферу ✨ сделать хоть классическую эстетику, хоть дизайн «как в Pinterest» без бесконечных согласований и «а можно чуть по-другому?» ✨ и всё это буквально за пару минут, с экономией денег и без потери в качестве💡 Фишка: сделайте сразу несколько вариантов и вместе выбирайте тот самый, «ваш». Или вовсе удивите гостей разными пригласительными: классика с лебедями для бабули и тети Вали из Перми, трендовый Fine Art или Editorial для друзей.Считаем выгоду: подписка на «Базу» стоит меньше, чем ус",
