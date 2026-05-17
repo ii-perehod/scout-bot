@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5580",
+    "channel": "open_source_friend",
+    "text": "visual-explainerЭто инструмент, предназначенный для преобразования сложных терминальных или аналитических данных в структурированные HTML-отчёты, которые легко воспринимаются и удобны для совместного использования.Он позволяет создавать визуальные обзоры, включая диаграммы, обзоры различий, аудиты планов, таблицы данных и сводки проектов.Инструмент особенно полезен в средах, где используются автономные агенты или CI/CD-пайплайны, генерирующие обширные технические данные, требующие наглядного представления.Lang: HTML https://github.com/nicobailon/visual-explainer https://github.com/nicobailon/visual-explainer================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
+    "link": "https://github.com/nicobailon/visual-explainer",
+    "tg_link": "https://t.me/open_source_friend/5580",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-17T17:49:34.490970+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5579",
+    "channel": "open_source_friend",
+    "text": "SurgeSurge — это высокоскоростной менеджер загрузок с текстовым интерфейсом, разработанный на языке Go для опытных пользователей.Он поддерживает два основных режима работы: интерактивный TUI-режим для визуального управления загрузками и серверный режим для работы в фоновом режиме или на серверах.Программа предоставляет возможность управления очередью загрузок, отображения графиков скорости и интеграции с различными системами через API.Lang: Go https://github.com/SurgeDM/Surge https://github.com/SurgeDM/Surge================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
+    "link": "https://github.com/SurgeDM/Surge",
+    "tg_link": "https://t.me/open_source_friend/5579",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-17T17:49:34.490909+00:00"
+  },
+  {
     "post_id": "open_source_friend/5578",
     "channel": "open_source_friend",
     "text": "CatVTONCatVTON — это ИИ модель виртуальной примерки, предназначенная для наложения изображений одежды на фотографии людей.Она обладает легковесной архитектурой с общим количеством параметров 899,06 млн.Для работы с изображениями разрешением 1024x768 пикселей требуется менее 8 ГБ видеопамяти, что упрощает процесс инференса.Модель устраняет необходимость в сложной предварительной обработке, такой как оценка позы или парсинг человека, используя только изображение человека и эталонный образец одежды.Lang: Python https://github.com/Zheng-Chong/CatVTON https://github.com/Zheng-Chong/CatVTON================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
