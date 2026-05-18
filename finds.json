@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5583",
+    "channel": "open_source_friend",
+    "text": "DroidDeskDroidDesk — это инструмент, превращающий Android-смартфон в полноценный Linux-десктоп с доступом к ядру системы.Он позволяет запускать такие приложения, как VS Code, Blender, Metasploit и локальные AI-модели, обеспечивая полноценную рабочую среду.При подключении телефона к монитору устройство функционирует как полноценный Linux-компьютер; при отключении вся настройка сохраняется и остается с вами.Lang: Shell https://github.com/orailnoor/DroidDesk https://github.com/orailnoor/DroidDesk",
+    "link": "https://github.com/orailnoor/DroidDesk",
+    "tg_link": "https://t.me/open_source_friend/5583",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-18T08:39:50.503264+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5582",
+    "channel": "open_source_friend",
+    "text": "Совет на ближайшие годы — изучайте ВАЙБ-КОДИНГИИ уже пишет код, чинит баги, генерирует тесты, документацию и помогает запускать продукты быстрее, чем это делали классические команды разработки. И это уже не \"будущее когда-нибудь\", а реальность, которая меняет рынок уже сегодняИ те, кто научится вайбкодить сейчас, будут увереннее конкурировать на рынке и зарабатывать больше тех, кто по-прежнему делает всё вручную.Стартовать с нуля поможет канал  https://t.me/+QxmpGyhVIU42YzFi Вайб-кодинг. Там ребята круглосуточно мониторят более 320 российских и зарубежных источников и публикуют только главное: релизы, инструменты, гайды, курсы и практические кейсы.Подписывайтесь, нас уже 35 тысяч:  https://t.me/+QxmpGyhVIU42YzFi @vibecoding_tgРеклама. https://ord.vk.com/adv_info?erid=2VtzqueSUs9 О рекламодателе.",
+    "link": "https://t.me/+QxmpGyhVIU42YzFi",
+    "tg_link": "https://t.me/open_source_friend/5582",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-18T08:39:50.503236+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5581",
+    "channel": "open_source_friend",
+    "text": "vibe-drawЭто инструмент, позволяющий преобразовывать простые эскизы в детализированные 3D-модели.Пользователь рисует на 2D-холсте, затем улучшает рисунок с помощью функции \"Improve Drawing\" и преобразует его в 3D-модель с помощью кнопки \"Make 3D\".Готовые 3D-модели можно добавлять в виртуальный мир, редактировать их с помощью эскизов или текстовых подсказок, а также экспортировать в формате .glTF для интеграции с другими инструментами.Lang: TypeScript https://github.com/martin226/vibe-draw https://github.com/martin226/vibe-draw================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/martin226/vibe-draw",
+    "tg_link": "https://t.me/open_source_friend/5581",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-18T08:39:50.503174+00:00"
+  },
+  {
     "post_id": "open_source_friend/5580",
     "channel": "open_source_friend",
     "text": "visual-explainerЭто инструмент, предназначенный для преобразования сложных терминальных или аналитических данных в структурированные HTML-отчёты, которые легко воспринимаются и удобны для совместного использования.Он позволяет создавать визуальные обзоры, включая диаграммы, обзоры различий, аудиты планов, таблицы данных и сводки проектов.Инструмент особенно полезен в средах, где используются автономные агенты или CI/CD-пайплайны, генерирующие обширные технические данные, требующие наглядного представления.Lang: HTML https://github.com/nicobailon/visual-explainer https://github.com/nicobailon/visual-explainer================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
