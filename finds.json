@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "AI_for_product_owner/1555",
+    "channel": "AI_for_product_owner",
+    "text": "Нейросеть – персональный ландшафтный дизайнерВсем привет, на связи Максим!Я уже рассказал вам, как  https://t.me/AI_for_product_owner/1544 нейросети помогают мне в работе и бизнесе, но я также использую ИИ для решения личных и бытовых задач.Недавно мы построили дом, следующим этапом запланировали благоустройство прилегающего участка. Встал вопрос о ландшафтном дизайне. Так как опыта в этом у нас не было, думали, с чего вообще можно начать. Почитали проф. литературу, узнали, что есть разные стили ландшафтного дизайна. Но понимания, как это будет выглядеть в нашем случае, не прибавилось. Хотелось что-то интересное и не слишком сложное, чтобы реализация не встала дороже каменного моста.Решили с помощью ИИ примерить различные стили ландшафтного дизайна на наш участок, визаулизировать решения и сделать выбор. Для этого использовали наш  https://t.me/ainanobot_bot?start=post NanoBot: закинули одну фотку дома с участком – получили несколько результатов.Так мы поняли, что больше всего нам по д",
+    "link": "https://t.me/AI_for_product_owner/1544",
+    "tg_link": "https://t.me/AI_for_product_owner/1555",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-20T19:13:47.289695+00:00"
+  },
+  {
+    "post_id": "ai_newz/4585",
+    "channel": "ai_newz",
+    "text": "Как попасть на работу в Frontier AI LabВышел  https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html хороший пост от чела из DeepMind про то, как попасть в frontier lab сегодня. Автор сейчас lead for Gemini pretraining в GDM, а до этого дропнулся с PhD и пошел в стартап Sisu, где быстро стал Head of ML.Суть поста коротко: если хочешь попасть в топовую AI-лабу, надо прокачивать mathematical maturity, жутко потеть во время универа (причем задрачивать без использования LLM), уметь очень хорошо кодить, и делать работу на “краях” LLM-стека – снизу kernels / inference / systems / quantization, сверху agents / rigorous evals / agentic loops. Не просто “поиграться с агентами”, а делать технически строгие эксперименты и показывать вклад, который реально нужен frontier labs.В целом всё по делу, но мне кажется, что автор упускает несколько важных вещей.Не весь интересный frontier-level research вне топ-лаб ограничивается разработкой кернелов, low-level оптимизациями LLM и на",
+    "link": "https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html",
+    "tg_link": "https://t.me/ai_newz/4585",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-05-20T19:13:45.346021+00:00"
+  },
+  {
+    "post_id": "ai_newz/4584",
+    "channel": "ai_newz",
+    "text": "Mira — AI-агент в Telegram Хорошая альтернатива OpenClaw, которая работает из коробки. Под капотом — саб-агенты, поддержка 1000+ MCP-серверов и работа в групповых чатах. Через  https://t.me/mira?start=paid_channels_magnetto_may_agent_ai_newz Mira можно автоматизировать кучу всего:– Ремайндеры и автономные задачи;– Трейдинг и мониторинг рынков;– Кастомных AI-ботов;– Генерацию и автопостинг контента;– Связки с Gmail, Calendar, Notion, GitHub и другим стеком.Без настройки серверов, API и сложного сетапа.#промо",
+    "link": "https://t.me/mira?start=paid_channels_magnetto_may_agent_ai_newz",
+    "tg_link": "https://t.me/ai_newz/4584",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-20T19:13:45.345920+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5591",
+    "channel": "open_source_friend",
+    "text": "linux-wallpaperengineЭто инструмент, позволяющий использовать анимированные обои из Wallpaper Engine на Linux-системах.Поддерживает работу как в среде Wayland, так и в X11, при условии, что композиторы или среды рабочего стола не перекрывают фон рабочего стола. Lang: C++ https://github.com/Almamu/linux-wallpaperengine https://github.com/Almamu/linux-wallpaperengine================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
+    "link": "https://github.com/Almamu/linux-wallpaperengine",
+    "tg_link": "https://t.me/open_source_friend/5591",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-20T19:13:44.105256+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5590",
+    "channel": "open_source_friend",
+    "text": "viewermetricsЭто расширение для браузера, предназначенное для анализа и отображения статистики просмотров веб-страниц.Оно предоставляет пользователям информацию о количестве просмотров страниц, времени, проведённом на сайте, и других метриках посещаемости.Расширение интегрируется непосредственно в интерфейс браузера, обеспечивая удобный доступ к аналитическим данным без необходимости перехода на сторонние ресурсы.Lang: JavaScript https://github.com/viewermetrics/viewermetrics https://github.com/viewermetrics/viewermetrics================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
+    "link": "https://github.com/viewermetrics/viewermetrics",
+    "tg_link": "https://t.me/open_source_friend/5590",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-20T19:13:44.105205+00:00"
+  },
+  {
     "post_id": "open_source_friend/5589",
     "channel": "open_source_friend",
     "text": "dock-droidЭто инструмент, позволяющий запускать Android x86 и Android ARM в контейнере Docker с использованием QEMU и KVM.Он поддерживает X11 Forwarding, что позволяет отображать графический интерфейс Android на хост-машине.Включает поддержку ADB на порту 5555, а также SSH-доступ через порт 50922.Обеспечивает возможность проброса веб-камеры (/dev/video0), аудио (/dev/snd) и GPU (/dev/dri) в контейнер.Поддерживает различные образы Android, включая BlissOS, пользовательские образы и VDI-файлы.Lang: Dockerfile https://github.com/sickcodes/dock-droid https://github.com/sickcodes/dock-droid================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
