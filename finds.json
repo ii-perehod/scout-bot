@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5608",
+    "channel": "open_source_friend",
+    "text": "CF-HeroCF-Hero — это инструмент разведки, предназначенный для обнаружения реальных IP-адресов веб-приложений, защищенных сервисом Cloudflare. Инструмент интегрирует данные из активного DNS-перебора, поисковых систем Censys и Shodan, а также исторических записей SecurityTrails для выявления потенциальных исходных IP-адресов.Для минимизации ложных срабатываний CF-Hero анализирует ответы от обнаруженных адресов, подтверждая их достоверность.Lang: Go https://github.com/musana/CF-Hero https://github.com/musana/CF-Hero================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/musana/CF-Hero",
+    "tg_link": "https://t.me/open_source_friend/5608",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-23T17:54:41.195517+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5607",
+    "channel": "open_source_friend",
+    "text": "localsendLocalSend — это бесплатное кроссплатформенное приложение с открытым исходным кодом, предназначенное для безопасного обмена файлами и сообщениями между устройствами в локальной сети без необходимости подключения к интернету.Программа поддерживает все основные операционные системы, включая Android, iOS, macOS, Windows и Linux, обеспечивая удобный интерфейс для передачи данных между различными устройствами.LocalSend использует REST API и HTTPS-шифрование для обеспечения безопасности передачи данных, а TLS/SSL-сертификаты генерируются на каждом устройстве динамически.Приложение автоматически обнаруживает другие устройства в локальной сети, что упрощает процесс обмена файлами и делает его быстрым и надежным.Lang: Dart https://github.com/localsend/localsend https://github.com/localsend/localsend================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/localsend/localsend",
+    "tg_link": "https://t.me/open_source_friend/5607",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-23T17:54:41.195485+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5605",
+    "channel": "open_source_friend",
+    "text": "Sketch2MotionЭто инструмент, предназначенный для преобразования статических изображений, таких как наброски или фотографии, в плавные анимации рисования.Он использует библиотеку Manim для создания анимаций, обеспечивая высокое качество визуализации.Процесс включает в себя конвертацию изображения в векторный формат SVG, а затем рендеринг анимации в формате MP4.Lang: Python https://github.com/leeyeel/Sketch2Motion https://github.com/leeyeel/Sketch2Motion================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/leeyeel/Sketch2Motion",
+    "tg_link": "https://t.me/open_source_friend/5605",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-23T17:54:41.195426+00:00"
+  },
+  {
     "post_id": "open_source_friend/5604",
     "channel": "open_source_friend",
     "text": "tiptoptiptop — это инструмент командной строки для мониторинга системы, аналогичный программе top, предназначенный для отображения различных системных показателей и их графического представления.Он работает на всех операционных системах и предоставляет пользователю возможность наблюдать за состоянием системы в реальном времени.Программа использует библиотеку Textual для организации интерфейса и psutil для получения данных о системе. Lang: Python https://github.com/nschloe/tiptop https://github.com/nschloe/tiptop================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
