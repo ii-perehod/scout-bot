@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4588",
+    "channel": "ai_newz",
+    "text": "OpenAI пофиксили баг с кэшем в CodexИз-за него быстро выжирались лимиты, поэтому их снова ресетнули, Anthropic тут стоит поучиться. А ещё Тибо тизерит /slow режим для Codex, что было бы очень круто для несрочных объёмных тасков. https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz",
+    "tg_link": "https://t.me/ai_newz/4588",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-05-24T17:52:28.685293+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5611",
+    "channel": "open_source_friend",
+    "text": "codeburnCodeburn — это инструмент для мониторинга использования токенов ИИ, предоставляющий интерактивную TUI-панель для наблюдения за расходами и производительностью различных ИИ инструментов.Он отслеживает использование токенов, стоимость и производительность в 18 различных AI-кодинговых инструментах, разбивая затраты по типу задачи, модели, инструменту, проекту и провайдеру.Программа работает локально, без необходимости в обертках, прокси или API-ключах, считывая данные сессий непосредственно с диска и оценивая каждую вызов с помощью LiteLLM.Lang: TypeScript https://github.com/getagentseal/codeburn https://github.com/getagentseal/codeburn================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/getagentseal/codeburn",
+    "tg_link": "https://t.me/open_source_friend/5611",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-24T17:52:27.494355+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5610",
+    "channel": "open_source_friend",
+    "text": "open-source-gamesЭтот репозиторий представляет собой обширный список различных видеоигр с открытым исходным кодом, а также ремейков коммерческих игр с открытым исходным кодом.Список организован по жанрам, включая экшн, приключения, стратегии в реальном времени, ролевые игры и другие, что облегчает поиск игр по интересам.Каждая игра сопровождается кратким описанием и ссылкой на исходный код, предоставляя разработчикам и энтузиастам возможность изучать и вносить свой вклад в проекты.Репозиторий регулярно обновляется сообществом, обеспечивая актуальность и расширение списка.Lang: Python https://github.com/bobeff/open-source-games https://github.com/bobeff/open-source-games================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/bobeff/open-source-games",
+    "tg_link": "https://t.me/open_source_friend/5610",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-24T17:52:27.494290+00:00"
+  },
+  {
     "post_id": "open_source_friend/5609",
     "channel": "open_source_friend",
     "text": "OpenGaitOpenGait — это гибкая и расширяемая платформа для распознавания людей по походке.Она поддерживает работу с несколькими датасетами, включая CASIA-B, OUMVLP, SUSTech1K, HID, GREW, Gait3D, CCPG, CASIA-E и GaitLU-1M.  Lang: Python https://github.com/ShiqiYu/OpenGait https://github.com/ShiqiYu/OpenGait================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
