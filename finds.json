@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5609",
+    "channel": "open_source_friend",
+    "text": "OpenGaitOpenGait — это гибкая и расширяемая платформа для распознавания людей по походке.Она поддерживает работу с несколькими датасетами, включая CASIA-B, OUMVLP, SUSTech1K, HID, GREW, Gait3D, CCPG, CASIA-E и GaitLU-1M.  Lang: Python https://github.com/ShiqiYu/OpenGait https://github.com/ShiqiYu/OpenGait================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
+    "link": "https://github.com/ShiqiYu/OpenGait",
+    "tg_link": "https://t.me/open_source_friend/5609",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-24T07:45:22.514672+00:00"
+  },
+  {
     "post_id": "open_source_friend/5608",
     "channel": "open_source_friend",
     "text": "CF-HeroCF-Hero — это инструмент разведки, предназначенный для обнаружения реальных IP-адресов веб-приложений, защищенных сервисом Cloudflare. Инструмент интегрирует данные из активного DNS-перебора, поисковых систем Censys и Shodan, а также исторических записей SecurityTrails для выявления потенциальных исходных IP-адресов.Для минимизации ложных срабатываний CF-Hero анализирует ответы от обнаруженных адресов, подтверждая их достоверность.Lang: Go https://github.com/musana/CF-Hero https://github.com/musana/CF-Hero================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
