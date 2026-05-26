@@ -1,5 +1,65 @@
 [
   {
+    "post_id": "AI_for_product_owner/1577",
+    "channel": "AI_for_product_owner",
+    "text": "О чем мечтают выпускники?Отзвенели последние звонки в школах, на носу выпускные балы. Перед вчерашними учениками и ученицами открываются двери в новую, взрослую, безумно интересную жизнь. О чем думают эти девушки и юноши, о чем мечтают, какие планы на будущее строят? Пятиминутный опрос и наш промпт помогут сделать стильный постер про вашего выпускника.🔸 Открывайте  https://t.me/ainanobot_bot?start=post_graduation_poster бот🔸 Загружайте этот промпт (фото сделано в Gpt image 2)🔸 Добавляйте свой уникальный текст🔸 Памятный подарок на окончание школы готов!Сделай постер для девушки-выпускницы [юноши-выпускника] школы 2026 года. На основе трактования ее [его] переживаний, мыслей, планов, желаний на новую жизнь придумай дизайн, инфографику, текст и надписи на русском языке правильно написанные хорошо читаемые. - мои переживания: [текст]- мои мысли: [текст]- мои желания: [текст]- мои планы: [текст]Фон, позу, эмоции придумай сам. Девушка [юноша] с референсного фото изображен[а] в школьной форме",
+    "link": "https://t.me/ainanobot_bot?start=post_graduation_poster",
+    "tg_link": "https://t.me/AI_for_product_owner/1577",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-26T19:13:05.536816+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5620",
+    "channel": "open_source_friend",
+    "text": "arcadaЭто программное обеспечение для проектирования интерьеров и создания планов этажей, разработанное с использованием React и Pixi.js.Программа позволяет пользователям создавать и редактировать планы помещений с высокой точностью и визуализацией.arcada предоставляет интуитивно понятный интерфейс, что делает процесс планирования более эффективным.Lang: TypeScript https://github.com/mehanix/arcada https://github.com/mehanix/arcada================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/mehanix/arcada",
+    "tg_link": "https://t.me/open_source_friend/5620",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-26T19:13:02.457116+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5619",
+    "channel": "open_source_friend",
+    "text": "Voron-CascadeVoron-Cascade — это проект открытого настольного фрезерного станка с ЧПУ для домашних мастерских.Станок имеет рабочую область 275 × 220 × 90 мм, что делает его компактным и подходящим для размещения на рабочем столе.Конструкция включает алюминиевые профили, 3D-печатные детали и некоторые компоненты для обеспечения необходимой жесткости.Voron-Cascade предназначен для обработки материалов, таких как дерево, пластик и алюминия при использовании осторожных стратегий фрезерования.Проект распространяется с открытым исходным кодом, предоставляя пользователям доступ к чертежам, спецификациям и инструкциям для самостоятельной сборки. https://github.com/VoronDesign/Voron-Cascade https://github.com/VoronDesign/Voron-Cascade================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/VoronDesign/Voron-Cascade",
+    "tg_link": "https://t.me/open_source_friend/5619",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-26T19:13:02.457097+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5618",
+    "channel": "open_source_friend",
+    "text": "net-switchЭто модуль Magisk, предназначенный для изоляции выбранных приложений от доступа к интернету на устройствах Android.Он позволяет пользователям контролировать сетевую активность приложений, предотвращая их соединение с интернетом без необходимости полного отключения сети. Lang: JavaScript https://github.com/Rem01Gaming/net-switch https://github.com/Rem01Gaming/net-switch================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/Rem01Gaming/net-switch",
+    "tg_link": "https://t.me/open_source_friend/5618",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-26T19:13:02.457070+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5617",
+    "channel": "open_source_friend",
+    "text": "openpetsOpenPets — это кроссплатформенное приложение, предоставляющее анимированного питомца на рабочем столе, который отображает состояние работы ИИ-агента в реальном времени.Программа интегрируется с различными ИИ-ассистентами, такими как Claude Code и OpenCode, через протокол Model Context Protocol (MCP), позволяя агентам управлять состоянием питомца и отображать сообщения. Lang: TypeScript https://github.com/alvinunreal/openpets https://github.com/alvinunreal/openpets================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/alvinunreal/openpets",
+    "tg_link": "https://t.me/open_source_friend/5617",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-26T19:13:02.457045+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5616",
+    "channel": "open_source_friend",
+    "text": "🌍 Как оставить свой след в истории ИТ и принести пользу миллионам? Участие в развитии открытого кода — это не только альтруизм. Добавляя свой вклад, вы помогаете коллегам и пользователям по всему миру, а также прокачиваете собственную экспертизу. Тимлид из Яндекс Доставки рассказал о собственном опыте работы с крупными проектами с открытым исходным кодом. Внутри интересны разбор про то:◾️ Как помощь сообществу может помочь вам самим на учёбе и в карьере.◾️ Почему даже при отправке кода нельзя забывать про вежливость.◾️ Как избежать стандартных ошибок и успешно внедрить своё решение.◾️ Как всего несколько строк кода могут оставить свой вклад в истории. Материал круто заряжает мотивацией и напоминает, ради чего мы пишем открытый код. ▶️ Читайте полную статью в  https://4clk.me/fd34b284?erid=2W5zFGKt9iZ блоге Городских сервисов Яндекса",
+    "link": "https://4clk.me/fd34b284?erid=2W5zFGKt9iZ",
+    "tg_link": "https://t.me/open_source_friend/5616",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-26T19:13:02.456987+00:00"
+  },
+  {
     "post_id": "open_source_friend/5615",
     "channel": "open_source_friend",
     "text": "unbrowseUnbrowse — это инструмент, позволяющий AI-агентам напрямую взаимодействовать с любым веб-сайтом на скорости сети, минуя традиционные методы автоматизации браузера.Он «учится» как веб‑сайт используется через обычный браузер, затем превращает повторяющиеся браузерные действия в прямые API‑вызовы и переиспользуемые «скиллы» для агентов, что обеспечивает выполнение задач в 100 раз быстрее и на 80% дешевле по сравнению с обычной автоматизацией браузера.Unbrowse использует Model Context Protocol (MCP) для интеграции с различными AI-платформами, такими как Claude Code.Lang: Shell https://github.com/unbrowse-ai/unbrowse https://github.com/unbrowse-ai/unbrowse================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
