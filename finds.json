@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1590",
+    "channel": "AI_for_product_owner",
+    "text": "Реальная красота или генерация?Ждали пятничную угадайку? Сегодня в объективе природные красоты.Когда на фото нет людей, сложнее или легче определить, где потрудилась нейросеть, а где настоящий профессиональный фотограф ловил свет и ракурс, чтобы создать шедевр? Фокус в том, что природа настолько разнообразна и удивительна, что порой мы не верим собственным глазам, поражаясь этой красоте.Итак, ваши варианты, под какими номерами скрылись картинки, созданные ИИ?Правильный ответ, как и всегда, опубликуем позже, поэтому заходите проверить свою интуицию.#угадайка",
+    "link": "https://t.me/AI_for_product_owner/1590",
+    "tg_link": "https://t.me/AI_for_product_owner/1590",
+    "category": "ИИ",
+    "is_free": true,
+    "found_at": "2026-05-29T19:27:02.140068+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5631",
+    "channel": "open_source_friend",
+    "text": "SysMocapSysMocap — это кроссплатформенная система захвата движений в реальном времени, предназначенная для анимации 3D-виртуальных персонажей в приложениях VTuber, стриминге, дополненной и виртуальной реальности. SysMocap оснащена современным графическим интерфейсом с поддержкой темной темы и позволяет легко импортировать модели с помощью перетаскивания.Система совместима с Windows, macOS (включая Apple Silicon и Intel) и Linux (только исходный код).Она также поддерживает потоковую передачу через OBS и интеграцию с WebXR API для передачи данных захвата движений.Lang: JavaScript https://github.com/xianfei/SysMocap https://github.com/xianfei/SysMocap================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/xianfei/SysMocap",
+    "tg_link": "https://t.me/open_source_friend/5631",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-29T19:27:00.215169+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5630",
+    "channel": "open_source_friend",
+    "text": "SadTalkerSadTalker — это открытый AI-инструмент, позволяющий создавать реалистичные видео говорящих голов из одного изображения и аудиофайла.Он обеспечивает точную синхронизацию губ, естественные выражения лица и контролируемые движения головы, что делает анимацию максимально правдоподобной. SadTalker поддерживает различные языки и предоставляет возможность настройки частоты моргания и стиля движений головы для получения желаемого результата.Lang: Python https://github.com/OpenTalker/SadTalker https://github.com/OpenTalker/SadTalker================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
+    "link": "https://github.com/OpenTalker/SadTalker",
+    "tg_link": "https://t.me/open_source_friend/5630",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-05-29T19:27:00.215111+00:00"
+  },
+  {
     "post_id": "open_source_friend/5628",
     "channel": "open_source_friend",
     "text": "modlyModly — это настольное приложение с открытым исходным кодом, предназначенное для преобразования фотографий в 3D-модели с использованием локальных AI-моделей, работающих непосредственно на вашем GPU.Программа поддерживает расширения для интеграции различных ИИ, таких как Hunyuan3D 2 Mini и Trellis2 GGUF, что позволяет пользователям выбирать наиболее подходящие инструменты для своих задач.Modly доступна для Windows и Linux, а версия для macOS ожидается в ближайшее время.Lang: TypeScript https://github.com/lightningpixel/modly https://github.com/lightningpixel/modly================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
