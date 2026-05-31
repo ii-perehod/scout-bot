@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5637",
+    "channel": "open_source_friend",
+    "text": "DnsServerTechnitium DNS Server — это кроссплатформенный, открытый DNS-сервер, предназначенный для обеспечения конфиденциальности и безопасности при работе в сети.Он поддерживает как авторитативный, так и рекурсивный режимы работы, а также позволяет блокировать рекламу и вредоносные сайты на уровне DNS с помощью списков блокировки.Сервер поддерживает современные протоколы шифрования DNS-трафика, включая DNS-over-TLS, DNS-over-HTTPS и DNS-over-QUIC, обеспечивая защиту от атак типа \"человек посередине\".Удобная веб-консоль позволяет легко настраивать и управлять сервером через любой современный браузер.Сервер работает на Windows, Linux, macOS и Raspberry Pi, а также доступен в виде Docker-образа, что делает его универсальным решением для различных сред.Lang: C# https://github.com/TechnitiumSoftware/DnsServer https://github.com/TechnitiumSoftware/DnsServer================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacke",
+    "link": "https://github.com/TechnitiumSoftware/DnsServer",
+    "tg_link": "https://t.me/open_source_friend/5637",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-31T17:54:02.752976+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5636",
+    "channel": "open_source_friend",
+    "text": "facexЭто полнофункциональный стек для работы с лицами, полностью работающий в браузере.Он включает в себя детекцию лиц, построение 3D-сетки из 576 точек, распознавание, антиспуфинг и определение улыбки.Все функции реализованы на WebAssembly, что позволяет обходиться без серверной части.Lang: C https://github.com/facex-engine/facex https://github.com/facex-engine/facex================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/facex-engine/facex",
+    "tg_link": "https://t.me/open_source_friend/5636",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-05-31T17:54:02.752917+00:00"
+  },
+  {
     "post_id": "open_source_friend/5635",
     "channel": "open_source_friend",
     "text": "claude-blogЭто комплексный инструмент для создания, оптимизации и управления блог-контентом с использованием Claude Code, ориентированный на повышение позиций в Google и цитируемость в AI-платформах.Включает 30 поднавыков, 5 агентов и 12 шаблонов контента, обеспечивая полный цикл работы с блогами — от стратегии и написания до аудита и репурпозинга.Каждая статья проходит через 5-ступенчатый контракт доставки, гарантируя высокое качество контента перед публикацией.Lang: Python https://github.com/AgriciDaniel/claude-blog https://github.com/AgriciDaniel/claude-blog================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
