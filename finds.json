@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1596",
+    "channel": "AI_for_product_owner",
+    "text": "С Международным днем защиты детей! 👦👧Дети – это наше продолжение и напоминание о том, как важно сохранять веру в доброту, безусловную любовь и чудеса. Сегодня отличный день, чтобы обнять своих маленьких (или уже совсем взрослых) супергероев, подарить им тепло и сказать, как сильно вы их любите ❤️Давайте наполним этот день яркими эмоциями! ✨Создайте трогательную поздравительную открытку для своих детей или для семейных/школьных/детсадовских чатов:1️⃣ Переходите в  https://t.me/ainanobot_bot?start=post_june_first NanoBot.2️⃣ Скопируйте один из готовых праздничных промптов, которые мы заботливо собрали для вас для комментариях.3️⃣ Уникальная открытка с вашим ребенком готова!👇 Тестируйте в боте и обязательно делитесь своими результатами прямо здесь – устроим самый добрый флешмоб дня!",
+    "link": "https://t.me/ainanobot_bot?start=post_june_first",
+    "tg_link": "https://t.me/AI_for_product_owner/1596",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-01T10:10:50.763560+00:00"
+  },
+  {
+    "post_id": "ai_newz/4596",
+    "channel": "ai_newz",
+    "text": "MiniMax выпустили M3Миллион токенов контекста и мультимодальность, веса скоро можно будет скачать. Попробовать можно бесплатно в OpenCode.Цена API — $0.6/$2.4 за миллион токенов на запросы до 512к и $1.2/$4.8 на запросы длиннее, первую неделю на запросы до 512к действует скидка 50%. Веса с пейпером обещают через 10 дней. https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz",
+    "tg_link": "https://t.me/ai_newz/4596",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-06-01T10:10:49.572547+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5638",
+    "channel": "open_source_friend",
+    "text": "spritefusion-pixel-snapperЭто инструмент для приведения пикселей к идеальной сетке, предназначенный для исправления неаккуратного и несогласованного пиксель-арта, созданного с помощью ИИ.Он автоматически выравнивает пиксели, обеспечивая точность и согласованность изображения. Lang: Rust https://github.com/Hugo-Dz/spritefusion-pixel-snapper https://github.com/Hugo-Dz/spritefusion-pixel-snapper================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
+    "tg_link": "https://t.me/open_source_friend/5638",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-01T10:10:48.697741+00:00"
+  },
+  {
     "post_id": "open_source_friend/5637",
     "channel": "open_source_friend",
     "text": "DnsServerTechnitium DNS Server — это кроссплатформенный, открытый DNS-сервер, предназначенный для обеспечения конфиденциальности и безопасности при работе в сети.Он поддерживает как авторитативный, так и рекурсивный режимы работы, а также позволяет блокировать рекламу и вредоносные сайты на уровне DNS с помощью списков блокировки.Сервер поддерживает современные протоколы шифрования DNS-трафика, включая DNS-over-TLS, DNS-over-HTTPS и DNS-over-QUIC, обеспечивая защиту от атак типа \"человек посередине\".Удобная веб-консоль позволяет легко настраивать и управлять сервером через любой современный браузер.Сервер работает на Windows, Linux, macOS и Raspberry Pi, а также доступен в виде Docker-образа, что делает его универсальным решением для различных сред.Lang: C# https://github.com/TechnitiumSoftware/DnsServer https://github.com/TechnitiumSoftware/DnsServer================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacke",
