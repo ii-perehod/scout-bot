@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5641",
+    "channel": "open_source_friend",
+    "text": "terminalЭто открытый торговый терминал для Polymarket с интерфейсом в стиле Bloomberg, обеспечивающий доступ к более чем 10 000 рынков.Он предоставляет обновляемый в реальном времени стакан заявок через SSE и полный рейтинг трейдеров с возможностью детального анализа.Пользователи могут осуществлять торговлю без посредников, подписывая ордера с помощью MetaMask, что обеспечивает самодепонирование и отсутствие комиссий.Lang: TypeScript https://github.com/humanplane/terminal https://github.com/humanplane/terminal================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
+    "link": "https://github.com/humanplane/terminal",
+    "tg_link": "https://t.me/open_source_friend/5641",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-02T09:00:48.352238+00:00"
+  },
+  {
     "post_id": "open_source_friend/5640",
     "channel": "open_source_friend",
     "text": "blackcandyBlack Candy — это саморазмещаемый сервер потоковой передачи музыки, позволяющий пользователям организовать личный музыкальный центр для потокового воспроизведения своей коллекции.Он предоставляет современный веб-интерфейс и мобильные приложения, обеспечивая доступ к музыке с различных устройств без необходимости использования коммерческих сервисов.Программа поддерживает использование баз данных SQLite и PostgreSQL, а также интеграцию с API Discogs для получения изображений исполнителей и альбомов.Lang: Ruby https://github.com/blackcandy-org/blackcandy https://github.com/blackcandy-org/blackcandy================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
