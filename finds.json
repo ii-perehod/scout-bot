@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "AI_for_product_owner/1603",
+    "channel": "AI_for_product_owner",
+    "text": "🏠 Кейс от подписчицы: риелтор из Тюмени экономит тысячи рублей на фотографах и создаёт уникальный бренд с помощью ИИМногие до сих пор думают, что нейросети – это игрушка для генерации прикольных картинок. Но наши подписчики используют  https://t.me/ainanobot_bot?start=post NanoBot и «Базу» для решения конкретных бизнес-задач.Сегодня делимся огненным кейсом Елены, профессионального риелтора из Тюмени. Она полностью перевела визуальное оформление своей бизнес-странички в ВК на рельсы искусственного интеллекта.Вот как наш бот и промпты помогают Елене привлекать клиентов и продавать недвижимость:1️⃣ Уникальный маскот вместо дорогого брендинга. Нейросеть создала для эксперта очаровательного домовенка-помощника. Вообще-то маскота два: первого отрисовывал дизайнер за деньги, а второго Елена получила бесплатно. Теперь эти персонажи – основа ее бренда. Они создают в группе уютную, домашнюю, дружескую атмосферу и кочуют из поста в пост, повышая узнаваемость эксперта.2️⃣ Креативный визуал. Елена ",
+    "link": "https://t.me/ainanobot_bot?start=post",
+    "tg_link": "https://t.me/AI_for_product_owner/1603",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-03T20:12:08.192050+00:00"
+  },
+  {
+    "post_id": "ai_newz/4599",
+    "channel": "ai_newz",
+    "text": "Gemma 4 12BПринимает на вход текст, аудио и изображения с видео. Длина видео ограничена 30 секундами, а аудио 60 секундами. Модель ризонер, с 256к контекста и лицензией Apache 2.0.Самое интересное в релизе — то как в нём устроена мультимодальность. Обычно моделям для мультимодальности нужен отдельный энкодер, здесь же они обходятся простыми линейными проекциями, что требует меньше параметров и вычислений. Техрепорта к сожалению нет, так что как они это умудрились натренировать пока непонятно. Надеюсь что его, как и старшую Gemma 4 124B, всё таки когда-то релизнут.  https://huggingface.co/collections/google/gemma-4 Веса https://t.me/ai_newz @ai_newz",
+    "link": "https://huggingface.co/collections/google/gemma-4",
+    "tg_link": "https://t.me/ai_newz/4599",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-06-03T20:12:06.457221+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5651",
+    "channel": "open_source_friend",
+    "text": "deptryЭто инструмент командной строки для проверки проблем с зависимостями в Python-проекте, таких как неиспользуемые или отсутствующие зависимости.Он поддерживает проекты, использующие Poetry, pip, PDM, uv и любые другие, соответствующие спецификации PEP 621.deptry обнаруживает проблемы с зависимостями, сканируя импортированные модули во всех Python-файлах в каталоге и его подкаталогах.Lang: Python https://github.com/osprey-oss/deptry https://github.com/osprey-oss/deptry================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/osprey-oss/deptry",
+    "tg_link": "https://t.me/open_source_friend/5651",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-03T20:12:05.372535+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5650",
+    "channel": "open_source_friend",
+    "text": "termoraTermora — это кроссплатформенный эмулятор терминала и SSH-клиент, доступный для Windows, macOS и Linux.Программа поддерживает встроенный менеджер ключей, X11-перенаправление, интеграцию с SSH-Agent и отображение системной информации.Также доступны функции управления файлами через графический интерфейс с использованием SFTP, мониторинг использования GPU Nvidia и быстрые команды.Дополнительно Termora поддерживает прямую передачу файлов между серверами, рекурсивную передачу папок и одновременное выполнение до шести задач передачи. Lang: Kotlin https://github.com/TermoraDev/termora https://github.com/TermoraDev/termora================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/TermoraDev/termora",
+    "tg_link": "https://t.me/open_source_friend/5650",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-03T20:12:05.372476+00:00"
+  },
+  {
     "post_id": "open_source_friend/5649",
     "channel": "open_source_friend",
     "text": "etchdroidEtchDroid — это приложение с открытым исходным кодом для записи образов операционных систем на USB-накопители с устройств Android без необходимости получения root-прав.Приложение поддерживает запись современных образов GNU/Linux, включая Arch Linux, Ubuntu, Debian, Fedora, а также образов для Raspberry Pi (предварительно распакованных).EtchDroid совместимо с USB-флешками и USB-адаптерами для SD-карт, но не поддерживает USB-жесткие диски, SSD, док-станции, хабы и внутренние слоты для SD-карт.Lang: Kotlin https://github.com/etchdroid/etchdroid https://github.com/etchdroid/etchdroid================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
