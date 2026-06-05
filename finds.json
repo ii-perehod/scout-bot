@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "AI_for_product_owner/1612",
+    "channel": "AI_for_product_owner",
+    "text": "☄️ Голливудский блокбастер за 5 минут: повторяем самый вирусный тренд соцсетей!Вы точно видели эти ролики: пара бурно ссорится на берегу, как вдруг с неба падает горящий астероид. Взрыв, стометровая волна цунами летит прямо на влюбленных... И в эту последнюю секунду они понимают, что все обиды ничтожны, а любовь вечна. Финальный поцелуй, и их накрывает водой. Драма! Кинематограф! 💔🌊Мы решили не оставаться в стороне и сняли свой минифильм-катастрофу с нашими цифровыми персонажами. Как вам такое кино? 👆Хотите собрать тысячи просмотров на этом тренде? Вот пошаговый план:1️⃣ Генерируем идеальную пару. Сначала делаем сетку персонажей (девушки и парня). Модель для генерации фото Nano banana 2, соотношение сторон 16:9. Заходите в  https://t.me/ainanobot_bot?start=post_asteroid_vid NanoBot и используйте наш промпт для создания персонажей с живыми эмоциями.2️⃣ Режиссируем апокалипсис. Готовые сетки отправляем в генератор, где есть Seedance 2.0. Формат 16:9, продолжительность 15 секунд. Загружае",
+    "link": "https://t.me/ainanobot_bot?start=post_asteroid_vid",
+    "tg_link": "https://t.me/AI_for_product_owner/1612",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-05T18:53:51.939517+00:00"
+  },
+  {
+    "post_id": "ai_newz/4600",
+    "channel": "ai_newz",
+    "text": "Microsoft опубликовали подробнейший тех-репорт о том, как они тренировали свою новую фронтир LLM с ризонингом.На арене ее вроде пока нет, но чтиво все равно интересное. Давно таких подробных репортов с техническими деталями никто из Биг Техов не выпускал.MAI-Thinking-1 - это 35B active / 1T total parameter MoE.256k token window (влазит 600-страничный документ)Тренили ее на кластере с 8000 GB200.Упор делали больше на данные и рецепт тренировки, нежели на новшевства в архитектуре.В опенсорс не кладут, но дадут API для файнтюна. https://microsoft.ai/news/introducing-mai-thinking-1/ Блогпост https://microsoft.ai/wp-content/uploads/2026/06/main_20260602_2.pdf Тех-репорт https://t.me/ai_newz @ai_newz",
+    "link": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+    "tg_link": "https://t.me/ai_newz/4600",
+    "category": "ИИ",
+    "is_free": true,
+    "found_at": "2026-06-05T18:53:49.775154+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5658",
+    "channel": "open_source_friend",
+    "text": "DeadReckoningЭто приложение для Android, предназначенное для определения местоположения в реальном времени с использованием инерциальных датчиков смартфона, таких как акселерометр, компас и гироскоп.Оно позволяет отслеживать местоположение без зависимости от GPS, что особенно полезно в местах с ограниченным сигналом, например, в туннелях или внутри зданий. Lang: Java https://github.com/nisargnp/DeadReckoning https://github.com/nisargnp/DeadReckoning================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/nisargnp/DeadReckoning",
+    "tg_link": "https://t.me/open_source_friend/5658",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-05T18:53:48.581596+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5657",
+    "channel": "open_source_friend",
+    "text": "branch-outputЭто плагин для OBS Studio, позволяющий транслировать видео и аудио для каждого источника отдельно с использованием протоколов RTMP, SRT и других.Он предоставляет возможность индивидуальной настройки параметров трансляции для каждого источника, включая выбор кодека, битрейта и разрешения.Плагин поддерживает одновременную передачу нескольких потоков с различными настройками, что полезно для многоплатформенных трансляций.Также предусмотрена функция записи каждого источника в отдельный файл, что облегчает последующий монтаж и анализ контента.Lang: C++ https://github.com/OPENSPHERE-Inc/branch-output https://github.com/OPENSPHERE-Inc/branch-output================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
+    "link": "https://github.com/OPENSPHERE-Inc/branch-output",
+    "tg_link": "https://t.me/open_source_friend/5657",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-05T18:53:48.581536+00:00"
+  },
+  {
     "post_id": "open_source_friend/5656",
     "channel": "open_source_friend",
     "text": "convolutional-handwriting-ganЭто ИИ-инструмент для генерации реалистичного рукописного текста переменной длины обучаясь на рукописных образцах.Репозиторий предоставляет исходный код и необходимые ресурсы для обучения и генерации рукописного текста.Lang: Python https://github.com/amzn/convolutional-handwriting-gan https://github.com/amzn/convolutional-handwriting-gan================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
