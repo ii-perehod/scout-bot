@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4603",
+    "channel": "ai_newz",
+    "text": "У SpaceX новый клиент — GoogleВ эту пятницу у компании IPO, так что лишняя выручка им не помешает. За аренду 110 тысяч видеокарт Blackwell они будут получать по 920 миллионов долларов в месяц, $11,6 за GPU-час. Вместе с контрактом с Anthropic на 1,25 миллиарда в месяц, это означает 26 миллиардов проецируемой выручки в год от сдачи датацентров в аренду.Если честно то это очень дорого в пересчёте на GPU-час даже для B300. Тут как будто то бы за срочность и гигантский объем идет доплата. https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz",
+    "tg_link": "https://t.me/ai_newz/4603",
+    "category": "Другое",
+    "is_free": false,
+    "found_at": "2026-06-06T17:59:32.911672+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5662",
+    "channel": "open_source_friend",
+    "text": "runtipiRuntipi — это персональный оркестратор домашнего сервера, упрощающий управление и запуск множества сервисов на одном сервере.Он основан на Docker и предоставляет простой веб-интерфейс для управления вашими сервисами.Runtipi разработан с акцентом на удобство использования, исключая необходимость в ручной настройке или сложных сетевых конфигурациях. Lang: TypeScript https://github.com/runtipi/runtipi https://github.com/runtipi/runtipi================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/runtipi/runtipi",
+    "tg_link": "https://t.me/open_source_friend/5662",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-06T17:59:32.077524+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5661",
+    "channel": "open_source_friend",
+    "text": "PolyCutPolyCut — это инструмент, предназначенный для импорта файлов SVG и их конвертации в 2D GCode для работы на 3D-принтерах, оснащённых лезвиями, ручками, ножами, фольгированными штампами или другими инструментами.Программа поддерживает прямую загрузку на сетевые 3D-принтеры через Klipper, что упрощает процесс передачи данных.PolyCut может служить альтернативой покупке плоттеров (и подобных устройств) для пользователей, уже имеющих 3D-принтеры.Lang: Visual Basic .NET https://github.com/IridiumIO/PolyCut https://github.com/IridiumIO/PolyCut================У этого канала есть  https://www.youtube.com/@open_source_friend YouTube👁",
+    "link": "https://github.com/IridiumIO/PolyCut",
+    "tg_link": "https://t.me/open_source_friend/5661",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-06T17:59:32.077470+00:00"
+  },
+  {
     "post_id": "open_source_friend/5659",
     "channel": "open_source_friend",
     "text": "youthubЭто консольный клиент для YouTube, предоставляющий TUI-интерфейс для просмотра и воспроизведения видео.Ключевые функции включают сетку TUI, кастомный плеер ffplay-yt, потоковую передачу SABR, интеграцию с SponsorBlock и поддержку видео в разрешении 1080p.Программа позволяет просматривать и воспроизводить контент YouTube без использования графического интерфейса, что делает её удобной для пользователей, предпочитающих работу в терминале.Lang: Python https://github.com/HelpFreedom/youthub https://github.com/HelpFreedom/youthub",
