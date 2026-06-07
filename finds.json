@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5665",
+    "channel": "open_source_friend",
+    "text": "VidBeeVidBee — это современный, открытый видеозагрузчик, позволяющий скачивать видео и аудио с более чем 1000 сайтов по всему миру.Он поддерживает загрузку с таких платформ, как YouTube, TikTok, Twitter и многих других.Программа предоставляет чистый и интуитивно понятный интерфейс с возможностью управления очередью загрузок, а также автоматическую подписку на RSS-каналы для фоновоого скачивания новых видео от любимых авторов.VidBee поддерживает выбор форматов выходных файлов, включая MP4, MKV и WebM, обеспечивая гибкость в сохранении контента.Lang: TypeScript https://github.com/nexmoe/VidBee https://github.com/nexmoe/VidBee================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/nexmoe/VidBee",
+    "tg_link": "https://t.me/open_source_friend/5665",
+    "category": "Open Source",
+    "is_free": false,
+    "found_at": "2026-06-07T17:58:12.150676+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5664",
+    "channel": "open_source_friend",
+    "text": "ai-website-cloner-templateЭто шаблон для обратного проектирования любого веб-сайта в чистый и современный код на Next.js с использованием AI-кодирующих агентов.Он позволяет указать URL-адрес, выполнить команду `/clone-website`, после чего AI-агент проанализирует сайт, извлечет дизайн-токены и ресурсы, создаст спецификации компонентов и параллельно реконструирует каждую секцию.Шаблон поддерживает различные AI-кодирующие агенты, включая Claude Code, Codex CLI, OpenCode и другие.Lang: TypeScript https://github.com/JCodesMore/ai-website-cloner-template https://github.com/JCodesMore/ai-website-cloner-template================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "tg_link": "https://t.me/open_source_friend/5664",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-07T17:58:12.150617+00:00"
+  },
+  {
     "post_id": "open_source_friend/5663",
     "channel": "open_source_friend",
     "text": "autoskillsЭто инструмент командной строки, предназначенный для автоматической интеграции AI-агентных навыков в проекты разработчиков.Он сканирует ваш проект, определяет используемый технологический стек и автоматически устанавливает соответствующие AI-навыки из проверенного реестра.Поддерживает более 46 технологий, включая React, Next.js, Vue, Svelte, TypeScript, Tailwind CSS, Supabase, Cloudflare и другие. Lang: Ruby https://github.com/midudev/autoskills https://github.com/midudev/autoskills================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
