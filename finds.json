@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5663",
+    "channel": "open_source_friend",
+    "text": "autoskillsЭто инструмент командной строки, предназначенный для автоматической интеграции AI-агентных навыков в проекты разработчиков.Он сканирует ваш проект, определяет используемый технологический стек и автоматически устанавливает соответствующие AI-навыки из проверенного реестра.Поддерживает более 46 технологий, включая React, Next.js, Vue, Svelte, TypeScript, Tailwind CSS, Supabase, Cloudflare и другие. Lang: Ruby https://github.com/midudev/autoskills https://github.com/midudev/autoskills================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/midudev/autoskills",
+    "tg_link": "https://t.me/open_source_friend/5663",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-07T08:18:17.076908+00:00"
+  },
+  {
     "post_id": "ai_newz/4603",
     "channel": "ai_newz",
     "text": "У SpaceX новый клиент — GoogleВ эту пятницу у компании IPO, так что лишняя выручка им не помешает. За аренду 110 тысяч видеокарт Blackwell они будут получать по 920 миллионов долларов в месяц, $11,6 за GPU-час. Вместе с контрактом с Anthropic на 1,25 миллиарда в месяц, это означает 26 миллиардов проецируемой выручки в год от сдачи датацентров в аренду.Если честно то это очень дорого в пересчёте на GPU-час даже для B300. Тут как будто то бы за срочность и гигантский объем идет доплата. https://t.me/ai_newz @ai_newz",
