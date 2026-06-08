@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5666",
+    "channel": "open_source_friend",
+    "text": "netwatchЭто инструмент для диагностики сети в реальном времени, работающий в терминале и предоставляющий мгновенную видимость сетевого трафика и состояния соединений.Ключевые функции включают мониторинг интерфейсов с отображением скорости передачи данных и истории в виде спарклайнов, а также анализ активных соединений с указанием процессов, протоколов и адресов.Дополнительно, netwatch предлагает функции захвата пакетов с глубоким анализом протоколов и построение топологии сети.Lang: Rust https://github.com/matthart1983/netwatch https://github.com/matthart1983/netwatch================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/matthart1983/netwatch",
+    "tg_link": "https://t.me/open_source_friend/5666",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-08T09:17:09.778995+00:00"
+  },
+  {
     "post_id": "open_source_friend/5665",
     "channel": "open_source_friend",
     "text": "VidBeeVidBee — это современный, открытый видеозагрузчик, позволяющий скачивать видео и аудио с более чем 1000 сайтов по всему миру.Он поддерживает загрузку с таких платформ, как YouTube, TikTok, Twitter и многих других.Программа предоставляет чистый и интуитивно понятный интерфейс с возможностью управления очередью загрузок, а также автоматическую подписку на RSS-каналы для фоновоого скачивания новых видео от любимых авторов.VidBee поддерживает выбор форматов выходных файлов, включая MP4, MKV и WebM, обеспечивая гибкость в сохранении контента.Lang: TypeScript https://github.com/nexmoe/VidBee https://github.com/nexmoe/VidBee================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
