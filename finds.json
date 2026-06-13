@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5684",
+    "channel": "open_source_friend",
+    "text": "CloudPasteЭто современный сервис для онлайн-обмена текстом и файлами, основанный на Cloudflare, который поддерживает Markdown-редактирование и интеграцию с различными облачными хранилищами.Ключевые функции включают в себя поддержку нескольких синтаксисов Markdown с возможностью рендеринга, самоуничтожающиеся сообщения, агрегацию хранилищ S3, защиту паролем и возможность монтирования в качестве WebDAV.Дополнительно, CloudPaste поддерживает Docker-развертывание, что упрощает его установку и настройку.Lang: JavaScript https://github.com/ling-drag0n/CloudPaste https://github.com/ling-drag0n/CloudPaste================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/ling-drag0n/CloudPaste",
+    "tg_link": "https://t.me/open_source_friend/5684",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-13T18:02:40.011853+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5683",
+    "channel": "open_source_friend",
+    "text": "logo-generator-skillЭто профессиональный генератор SVG-логотипов, интегрированный в Claude Code, предназначенный для быстрого создания высококачественных логотипов на основе характеристик продукта.Он генерирует более шести различных вариантов дизайна, используя геометрические узоры, точечные матрицы и линейные системы, а также создает интерактивные HTML-презентации с эффектами наведения.Программа поддерживает экспорт логотипов в форматы SVG и PNG, а также создание профессиональных презентационных изображений с 12 различными стилями фона.Lang: HTML https://github.com/op7418/logo-generator-skill https://github.com/op7418/logo-generator-skill================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/op7418/logo-generator-skill",
+    "tg_link": "https://t.me/open_source_friend/5683",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-13T18:02:40.011795+00:00"
+  },
+  {
     "post_id": "ai_newz/4615",
     "channel": "ai_newz",
     "text": "Anthropic закрыли доступ к Fable всем пользователямЭто результат требования правительства США закрыть доступ к Fable для всех не-граждан, включая сотрудников Anthropic. Так как у Anthropic нет системы для проверки гражданства, доступ закрыли вообще всем.Причиной послужил частичный джейлбрейк, который позволил использование Fable для поиска уязвимостей. Найденные уязвимости довольно простые и могут быть найдены другими публично доступными моделями.От того удастся ли Anthropic отбиться и насколько серьёзны намерения правительства зависит судьба рынка. https://www.anthropic.com/news/fable-mythos-access https://www.anthropic.com/news/fable-mythos-access https://t.me/ai_newz @ai_newz",
