@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "ai_newz/4615",
+    "channel": "ai_newz",
+    "text": "Anthropic закрыли доступ к Fable всем пользователямЭто результат требования правительства США закрыть доступ к Fable для всех не-граждан, включая сотрудников Anthropic. Так как у Anthropic нет системы для проверки гражданства, доступ закрыли вообще всем.Причиной послужил частичный джейлбрейк, который позволил использование Fable для поиска уязвимостей. Найденные уязвимости довольно простые и могут быть найдены другими публично доступными моделями.От того удастся ли Anthropic отбиться и насколько серьёзны намерения правительства зависит судьба рынка. https://www.anthropic.com/news/fable-mythos-access https://www.anthropic.com/news/fable-mythos-access https://t.me/ai_newz @ai_newz",
+    "link": "https://www.anthropic.com/news/fable-mythos-access",
+    "tg_link": "https://t.me/ai_newz/4615",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-06-13T08:16:02.047353+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5682",
+    "channel": "open_source_friend",
+    "text": "claude-usageЭто локальный инструмент для мониторинга использования токенов, затрат и истории сессий в Claude Code.Он предоставляет дашборд с графиками и оценками стоимости, а также поддерживает планы API, Pro и Max.Программа анализирует локальные журналы использования и отображает данные, недоступные в стандартном интерфейсе Anthropic.Lang: Python https://github.com/phuryn/claude-usage https://github.com/phuryn/claude-usage================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/phuryn/claude-usage",
+    "tg_link": "https://t.me/open_source_friend/5682",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-13T08:16:01.184247+00:00"
+  },
+  {
     "post_id": "ai_newz/4614",
     "channel": "ai_newz",
     "text": "Второй большой открытый релиз за день — MiniMax M3Как оказалось в модели всего 428 миллиардов параметров, при 23B активных, совсем малютка по сравнению с конкурентами. Главная инновация модели — ещё один вариант sparse attention, MSA (MiniMax Sparse Attention), который заметно эффективнее чем GQA на больших контекстах.Кто-то будет третим? https://huggingface.co/MiniMaxAI/MiniMax-M3 Веса https://t.me/ai_newz @ai_newz",
