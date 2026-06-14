@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5687",
+    "channel": "open_source_friend",
+    "text": "docker-pi-holeЭто официальный Docker-образ для Pi-hole, предназначенный для блокировки рекламы на уровне всей сети.Он предоставляет легковесный DNS-сервер, который фильтрует нежелательный контент без необходимости установки клиентского программного обеспечения на устройства.Образ поддерживает функции кэширования DNS-запросов, что ускоряет загрузку веб-страниц, и может работать как DHCP-сервер для автоматической защиты всех устройств в сети.Также доступен веб-интерфейс для мониторинга и управления, предоставляющий подробную статистику и возможность настройки.Lang: Shell https://github.com/pi-hole/docker-pi-hole https://github.com/pi-hole/docker-pi-hole================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/pi-hole/docker-pi-hole",
+    "tg_link": "https://t.me/open_source_friend/5687",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-14T18:06:49.133224+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5686",
+    "channel": "open_source_friend",
+    "text": "mgrepЭто инструмент командной строки для семантического поиска различных типов файлов, включая код, изображения и PDF-документы. Lang: TypeScript https://github.com/mixedbread-ai/mgrep https://github.com/mixedbread-ai/mgrep================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/mixedbread-ai/mgrep",
+    "tg_link": "https://t.me/open_source_friend/5686",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-14T18:06:49.133178+00:00"
+  },
+  {
     "post_id": "open_source_friend/5685",
     "channel": "open_source_friend",
     "text": "video2xЭто инструмент для повышения разрешения видео и интерполяции кадров на основе машинного обучения, разработанный для улучшения качества видео с низким разрешением.Ключевые функции включают поддержку различных моделей, таких как Anime4K v4, Real-ESRGAN, Real-CUGAN и RIFE, а также возможность работы в режимах фильтрации (апскейлинга) и интерполяции кадров.Программа кроссплатформенна и доступна для Windows и Linux, обеспечивая высокую производительность благодаря оптимизированной архитектуре на C/C++.Lang: C++ https://github.com/k4yt3x/video2x https://github.com/k4yt3x/video2x================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
