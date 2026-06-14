@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5685",
+    "channel": "open_source_friend",
+    "text": "video2xЭто инструмент для повышения разрешения видео и интерполяции кадров на основе машинного обучения, разработанный для улучшения качества видео с низким разрешением.Ключевые функции включают поддержку различных моделей, таких как Anime4K v4, Real-ESRGAN, Real-CUGAN и RIFE, а также возможность работы в режимах фильтрации (апскейлинга) и интерполяции кадров.Программа кроссплатформенна и доступна для Windows и Linux, обеспечивая высокую производительность благодаря оптимизированной архитектуре на C/C++.Lang: C++ https://github.com/k4yt3x/video2x https://github.com/k4yt3x/video2x================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/k4yt3x/video2x",
+    "tg_link": "https://t.me/open_source_friend/5685",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-14T08:36:15.437775+00:00"
+  },
+  {
     "post_id": "open_source_friend/5684",
     "channel": "open_source_friend",
     "text": "CloudPasteЭто современный сервис для онлайн-обмена текстом и файлами, основанный на Cloudflare, который поддерживает Markdown-редактирование и интеграцию с различными облачными хранилищами.Ключевые функции включают в себя поддержку нескольких синтаксисов Markdown с возможностью рендеринга, самоуничтожающиеся сообщения, агрегацию хранилищ S3, защиту паролем и возможность монтирования в качестве WebDAV.Дополнительно, CloudPaste поддерживает Docker-развертывание, что упрощает его установку и настройку.Lang: JavaScript https://github.com/ling-drag0n/CloudPaste https://github.com/ling-drag0n/CloudPaste================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
