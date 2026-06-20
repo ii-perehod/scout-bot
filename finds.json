@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5707",
+    "channel": "open_source_friend",
+    "text": "winpodxwinpodx — это инструмент, предназначенный для интеграции Windows-приложений в среду Linux, обеспечивая их запуск в изолированных контейнерах.Он поддерживает работу с различными версиями Windows и позволяет запускать приложения без необходимости установки полной виртуальной машины.winpodx обеспечивает высокую производительность и совместимость, используя технологии контейнеризации для эффективного управления ресурсами.Инструмент предоставляет гибкие настройки для адаптации под различные требования пользователей и сценарии использования.Проект активно развивается и поддерживается сообществом, что гарантирует регулярные обновления и улучшения функциональности.Lang: Python https://github.com/kernalix7/winpodx https://github.com/kernalix7/winpodx================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/kernalix7/winpodx",
+    "tg_link": "https://t.me/open_source_friend/5707",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-20T18:04:57.621993+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5706",
+    "channel": "open_source_friend",
+    "text": "react-bitsЭто обширная коллекция анимированных, интерактивных и полностью настраиваемых React-компонентов, предназначенных для создания запоминающихся веб-сайтов.Библиотека включает более 110 компонентов, таких как текстовые анимации, элементы пользовательского интерфейса и фоны, с минимальными зависимостями и возможностью настройки через props.Каждый компонент доступен в четырех вариантах: JavaScript с CSS, JavaScript с Tailwind CSS, TypeScript с CSS и TypeScript с Tailwind CSS, что обеспечивает гибкость интеграции в различные проекты.Lang: JavaScript https://github.com/DavidHDev/react-bits https://github.com/DavidHDev/react-bits================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/DavidHDev/react-bits",
+    "tg_link": "https://t.me/open_source_friend/5706",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-20T18:04:57.621930+00:00"
+  },
+  {
     "post_id": "open_source_friend/5705",
     "channel": "open_source_friend",
     "text": "koharuЭто инструмент для перевода манги, использующий машинное обучение и написанный на языке программирования Rust.Он поддерживает офлайн-работу с локальными моделями, обеспечивая быстрый и надежный перевод без необходимости подключения к интернету.Программа предоставляет предварительно собранные бинарные файлы для Windows, macOS и Linux, что упрощает ее использование на различных платформах.Lang: Rust https://github.com/mayocream/koharu https://github.com/mayocream/koharu================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
