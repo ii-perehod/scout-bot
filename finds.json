@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5710",
+    "channel": "open_source_friend",
+    "text": "lapLap — это офлайн-менеджер фотографий с открытым исходным кодом, предназначенный для организации и просмотра больших локальных библиотек изображений.Программа поддерживает эффективную навигацию по коллекциям, предоставляет инструменты для сортировки и фильтрации, а также обеспечивает быстрый поиск по метаданным и содержимому изображений.Lap ориентирован на конфиденциальность пользователей, не требуя подключения к интернету и не собирая личные данные.Lang: Vue https://github.com/julyx10/lap https://github.com/julyx10/lap================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/julyx10/lap",
+    "tg_link": "https://t.me/open_source_friend/5710",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-21T18:14:11.754636+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5709",
+    "channel": "open_source_friend",
+    "text": "upscaylUpscayl — это бесплатное и открытое приложение для увеличения разрешения изображений с помощью передовых моделей искусственного интеллекта.Программа поддерживает операционные системы Linux, macOS и Windows, обеспечивая кроссплатформенную совместимость.Основные функции включают пакетную обработку изображений, повышение резкости и возможность использования пользовательских моделей для улучшения качества.Для работы Upscayl требуется GPU, совместимый с Vulkan 1.3.Lang: TypeScript https://github.com/upscayl/upscayl https://github.com/upscayl/upscayl================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/upscayl/upscayl",
+    "tg_link": "https://t.me/open_source_friend/5709",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-21T18:14:11.754583+00:00"
+  },
+  {
     "post_id": "open_source_friend/5708",
     "channel": "open_source_friend",
     "text": "drivebaseDrivebase — это саморазмещаемый файловый менеджер, позволяющий объединить управление файлами из различных облачных и локальных хранилищ в одном интерфейсе.Он поддерживает подключение к таким сервисам, как Google Drive, AWS S3, Dropbox, а также к локальным дискам, предоставляя возможность организовывать и перемещать файлы между ними.Система предлагает виртуальную файловую систему, позволяющую создавать собственную структуру папок независимо от физического расположения файлов.Drivebase обеспечивает полную конфиденциальность и контроль над данными, так как является открытым исходным кодом и разворачивается на собственных серверах пользователя.Lang: TypeScript https://github.com/drivebase/drivebase https://github.com/drivebase/drivebase================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
