@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5708",
+    "channel": "open_source_friend",
+    "text": "drivebaseDrivebase — это саморазмещаемый файловый менеджер, позволяющий объединить управление файлами из различных облачных и локальных хранилищ в одном интерфейсе.Он поддерживает подключение к таким сервисам, как Google Drive, AWS S3, Dropbox, а также к локальным дискам, предоставляя возможность организовывать и перемещать файлы между ними.Система предлагает виртуальную файловую систему, позволяющую создавать собственную структуру папок независимо от физического расположения файлов.Drivebase обеспечивает полную конфиденциальность и контроль над данными, так как является открытым исходным кодом и разворачивается на собственных серверах пользователя.Lang: TypeScript https://github.com/drivebase/drivebase https://github.com/drivebase/drivebase================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/drivebase/drivebase",
+    "tg_link": "https://t.me/open_source_friend/5708",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-21T08:53:32.470047+00:00"
+  },
+  {
     "post_id": "open_source_friend/5707",
     "channel": "open_source_friend",
     "text": "winpodxwinpodx — это инструмент, предназначенный для интеграции Windows-приложений в среду Linux, обеспечивая их запуск в изолированных контейнерах.Он поддерживает работу с различными версиями Windows и позволяет запускать приложения без необходимости установки полной виртуальной машины.winpodx обеспечивает высокую производительность и совместимость, используя технологии контейнеризации для эффективного управления ресурсами.Инструмент предоставляет гибкие настройки для адаптации под различные требования пользователей и сценарии использования.Проект активно развивается и поддерживается сообществом, что гарантирует регулярные обновления и улучшения функциональности.Lang: Python https://github.com/kernalix7/winpodx https://github.com/kernalix7/winpodx================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
