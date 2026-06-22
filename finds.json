@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5711",
+    "channel": "open_source_friend",
+    "text": "claude-desktop-binЭто неофициальный пакет для установки и обновления Claude Desktop для Linux.Пакет предоставляет AppImage, совместимый с различными дистрибутивами, и поддерживает автоматические обновления через appimageupdatetool.Также доступны версии для архитектуры ARM64, включая .deb, .rpm и Nix-пакеты, что позволяет использовать приложение на устройствах, таких как Raspberry Pi 5 и NVIDIA Jetson.Lang: Nim https://github.com/patrickjaja/claude-desktop-bin https://github.com/patrickjaja/claude-desktop-bin================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/patrickjaja/claude-desktop-bin",
+    "tg_link": "https://t.me/open_source_friend/5711",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-22T10:31:53.207444+00:00"
+  },
+  {
     "post_id": "open_source_friend/5710",
     "channel": "open_source_friend",
     "text": "lapLap — это офлайн-менеджер фотографий с открытым исходным кодом, предназначенный для организации и просмотра больших локальных библиотек изображений.Программа поддерживает эффективную навигацию по коллекциям, предоставляет инструменты для сортировки и фильтрации, а также обеспечивает быстрый поиск по метаданным и содержимому изображений.Lap ориентирован на конфиденциальность пользователей, не требуя подключения к интернету и не собирая личные данные.Lang: Vue https://github.com/julyx10/lap https://github.com/julyx10/lap================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
