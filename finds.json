@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4628",
+    "channel": "ai_newz",
+    "text": "OpenAI показали первый собственный чипНазывается Jalapeño и предназначен он исключительно для инференса. Компания заявляет что он уже показывает эффективность заметно лучше чем конкурирующие чипы. Сейчас он находится на стадии тестирования, но так как самая большая запущенная модель это GPT 5.3 Spark, то интеграция чипов в полноценные сервера им ещё только предстоит.Разработали его в сотрудничестве с Broadcom, который делает ИИ чипы для Meta, TPU для Google и Anthropic свои чипы тоже с ними разрабатывает. Процесс разработки просто молниеносный — с начала разработки, до первых произведённых чипов, ушло всего девять месяцев. Детальный репорт будет через несколько месяцев, но не ждите что OpenAI будут их продавать или сдавать в аренду. https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz",
+    "tg_link": "https://t.me/ai_newz/4628",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-24T18:26:52.364094+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5719",
+    "channel": "open_source_friend",
+    "text": "awesome-open-hardwareЭто репозиторий на GitHub, представляющий собой тщательно отобранную коллекцию ресурсов, посвящённых проектам с открытым исходным кодом в области аппаратного обеспечения.Он включает в себя ссылки на различные проекты, вроде Arduino, Prusa3D и OpenBCI, а также на конференции, книги и обучающие программы, связанные с открытым аппаратным обеспечением.Репозиторий предназначен для инженеров, разработчиков и энтузиастов, стремящихся изучать и создавать собственные проекты на основе открытых аппаратных решений. https://github.com/delftopenhardware/awesome-open-hardware https://github.com/delftopenhardware/awesome-open-hardware================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/delftopenhardware/awesome-open-hardware",
+    "tg_link": "https://t.me/open_source_friend/5719",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-24T18:26:51.421825+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5718",
+    "channel": "open_source_friend",
+    "text": "linux-androidЭто скрипт, который позволяет установить и настроить дистрибутив Linux на вашем Android-устройстве с помощью Termux без необходимости получения root-прав.С его помощью можно превратить старый Android-смартфон в полноценный Linux-десктоп или сервер для умного дома, используя только приложение Termux.Скрипт автоматизирует процесс установки, делая его доступным даже для пользователей без глубоких технических знаний.Lang: Shell https://github.com/mayukh4/linux-android https://github.com/mayukh4/linux-android================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/mayukh4/linux-android",
+    "tg_link": "https://t.me/open_source_friend/5718",
+    "category": "Автоматизация",
+    "is_free": true,
+    "found_at": "2026-06-24T18:26:51.421761+00:00"
+  },
+  {
     "post_id": "open_source_friend/5717",
     "channel": "open_source_friend",
     "text": "SigDiggerSigDigger — это цифровой анализатор с графическим интерфейсом, предназначенный для анализа и декодирования неизвестных радиосигналов.Программа поддерживает работу с различными программно-определяемыми радиоприемниками (SDR) и предоставляет инструменты для визуализации спектра, демодуляции и декодирования. Lang: C++ https://github.com/BatchDrake/SigDigger https://github.com/BatchDrake/SigDigger================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
