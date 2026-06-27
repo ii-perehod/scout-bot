@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4630",
+    "channel": "ai_newz",
+    "text": "OpenAI анонсировали GPT 5.6Но по бенчам до  https://t.me/ai_newz/4615 забаненного Fable не дотягивает... Идёт в трёх вариантах: Sol, Terra и Luna. Sol это новый флагман, Terra примерно находится на уровне GPT 5.5, а Luna немного хуже 5.4. Sol стоит $5/$30 за миллион токенов, Terra $2.5/$15 и Luna $1/$6. Кэширование токенов теперь платное, такие промпты на 25% дороже, а скидка на кэшированные токены остаётся 90%.Самая впечатляющая деталь этих моделей — GPT 5.6 Sol запустят на Cerebras в следующем месяце, на скорости в 750 токенов в секунду. Terra и Luna тоже хотелось бы там увидеть, но про них пока что ничего не говорят, как ничего не говорят и про цену.Модель доступна лишь ограниченному количеству партнёров в США, пока OpenAI договариваются с правительством. Общую доступность обещают через несколько недель.  https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz/4615",
+    "tg_link": "https://t.me/ai_newz/4630",
+    "category": "ИИ",
+    "is_free": false,
+    "found_at": "2026-06-27T17:54:51.559679+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5728",
+    "channel": "open_source_friend",
+    "text": "CasaOSCasaOS — это простая и элегантная система с открытым исходным кодом для создания персонального облачного хранилища.Она предоставляет интуитивно понятный веб-интерфейс для управления файлами, приложениями и устройствами в домашней сети.Среди ключевых функций — поддержка установки и управления различными приложениями, интеграция с популярными сервисами и возможность расширения функциональности через плагины.CasaOS поддерживает работу на различных платформах, включая Raspberry Pi и другие устройства на базе ARM.Lang: Go https://github.com/IceWhaleTech/CasaOS https://github.com/IceWhaleTech/CasaOS================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/IceWhaleTech/CasaOS",
+    "tg_link": "https://t.me/open_source_friend/5728",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-27T17:54:50.236067+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5727",
+    "channel": "open_source_friend",
+    "text": "youre-the-osЭто игра, в которой игрок выступает в роли операционной системы компьютера и должен управлять процессами, памятью и событиями ввода-вывода. Игра написана на Python с использованием библиотеки Pygame и доступна для запуска в веб-браузере благодаря WebAssembly.Lang: Python https://github.com/plbrault/youre-the-os https://github.com/plbrault/youre-the-os================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/plbrault/youre-the-os",
+    "tg_link": "https://t.me/open_source_friend/5727",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-06-27T17:54:50.236023+00:00"
+  },
+  {
     "post_id": "open_source_friend/5726",
     "channel": "open_source_friend",
     "text": "awesome-android-rootЭто обширный, регулярно обновляемый каталог, содержащий более 400 инструментов, приложений и модулей для рутирования Android-устройств, а также подробные руководства для пользователей и разработчиков.Репозиторий предлагает экспертные пошаговые инструкции по разблокировке загрузчика, установке кастомных рекавери и выбору методов рутирования, таких как Magisk, KernelSU и APatch.Кроме того, он включает в себя тщательно отобранную коллекцию приложений и модулей, охватывающих области блокировки рекламы, повышения производительности, автоматизации и глубокой кастомизации системы.Lang: Python https://github.com/awesome-android-root/awesome-android-root https://github.com/awesome-android-root/awesome-android-root================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
