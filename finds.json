@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5733",
+    "channel": "open_source_friend",
+    "text": "Когда баз много, администрирование превращается в ручное управление хаосом: серверы, кластеры, бэкапы, мониторинг и диагностика.🐘 Postgres Professional на бесплатном вебинаре покажет, как управлять множеством баз через единый веб-интерфейс Postgres Pro Enterprise Manager.📊 Это графическая платформа для DBA, DevOps, архитекторов и технических лидеров. Она входит во все редакции Postgres Pro и решает задачи администрирования без ручного написания SQL-команд.На вебинаре покажут, как с помощью PPEM:✅ Мониторить инфраструктуру✅ Управлять экземплярами БД✅ Работать с бэкапами✅ Искать проблемы и ускорять диагностику🤖 Отдельно покажут ИИ-ассистента в новой версии платформы: он обращается к документации и помогает быстрее решать типовые задачи.📅 30 июня, вторник, 11:00 по Москве, продолжительность — 2 часа с Q&A. https://tglink.io/bb13f4388b9ead?erid=2W5zFJrH7Ny Регистрируйтесь и приходите посмотреть PPEM в деле. Участие бесплатное.",
+    "link": "https://tglink.io/bb13f4388b9ead?erid=2W5zFJrH7Ny",
+    "tg_link": "https://t.me/open_source_friend/5733",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-29T09:21:33.745275+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5732",
+    "channel": "open_source_friend",
+    "text": "bytechefByteChef — это открытая low-code платформа, предназначенная для интеграции API и автоматизации рабочих процессов, позволяющая организациям легко соединять приложения.Она объединяет оркестрацию AI-агентов и автоматизацию рабочих процессов, обеспечивая автономность и точность в одном решении.Платформа разработана с акцентом на простоту использования и расширяемость, что позволяет адаптировать её под специфические потребности бизнеса.Lang: Java https://github.com/bytechefhq/bytechef https://github.com/bytechefhq/bytechef================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/bytechefhq/bytechef",
+    "tg_link": "https://t.me/open_source_friend/5732",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-06-29T09:21:33.745215+00:00"
+  },
+  {
     "post_id": "open_source_friend/5731",
     "channel": "open_source_friend",
     "text": "PokieTickerЭто инструмент для анализа ценовых движений на финансовых рынках, предоставляющий пользователям возможность понимать причины изменений цен.Ключевые функции включают отображение графиков цен с возможностью выбора тикера и интеграцию новостных событий, связанных с выбранным активом.Дополнительно, при нажатии на точку на графике отображаются соответствующие новости, что помогает в анализе влияния событий на цену актива.Lang: Python https://github.com/owengetinfo-design/PokieTicker https://github.com/owengetinfo-design/PokieTicker================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
