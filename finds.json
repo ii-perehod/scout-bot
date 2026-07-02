@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1663",
+    "channel": "AI_for_product_owner",
+    "text": "🎨 Точный оттенок в ИИ без угадайки: как использовать HEX-коды цветов в NanoBotПишете в промпте «нежно-розовая футболка» или «бирюзовый фон», а нейросеть упорно выдает ядовитую фуксию или банальный синий? 🤦‍♂️Не надейтесь, что ИИ поймет вас с полуслова по описанию оттенка. У нейросетей свое видение «нежности». Если вам нужен строго определенный цвет для бренда, одежды эксперта или товара – говорите с NanoBot на языке дизайнеров. Используйте коды цветов!Нейросети идеально понимают HEX-коды – шестизначные комбинации из цифр и букв с решеткой (например: #FF5733).🔍 Где искать номера оттенков?📌 Палитры PANTONEЗабейте в поисковик «Таблица цветов Пантон с HEX-кодами». ИИ отлично знает эти культовые раскладки.📌 Специальные сайтыИнструменты вроде  http://Coolors.co/ Coolors.co или Adobe Color. Там можно найти тысячи готовых гармоничных сочетаний и сразу скопировать их коды.📌 Дизайнерские программыЕсли вы работаете в Figma, Photoshop или Canva, просто ткните пипеткой в нужный цвет на экране и ско",
+    "link": "http://Coolors.co/",
+    "tg_link": "https://t.me/AI_for_product_owner/1663",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-02T18:21:45.503990+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5745",
+    "channel": "open_source_friend",
+    "text": "polarisPolaris — это приложение для потоковой передачи музыки, позволяющее наслаждаться вашей музыкальной коллекцией с любого компьютера или мобильного устройства.Программа предоставляет веб-интерфейс для доступа к вашей музыке через браузер, а также поддерживает протокол Subsonic для совместимости с различными клиентами.Polaris автоматически индексирует вашу музыкальную библиотеку, обеспечивая быстрый поиск и удобную навигацию по альбомам, исполнителям и жанрам.Приложение поддерживает воспроизведение различных аудиоформатов и предоставляет функции создания и управления плейлистами.Lang: Rust https://github.com/agersant/polaris https://github.com/agersant/polaris================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/agersant/polaris",
+    "tg_link": "https://t.me/open_source_friend/5745",
+    "category": "SEO",
+    "is_free": true,
+    "found_at": "2026-07-02T18:21:42.580295+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5744",
+    "channel": "open_source_friend",
+    "text": "dlmanЭто бесплатный и быстрый современный менеджер загрузок, доступный для Windows, Mac и Linux.Программа поддерживает многопоточные загрузки, что позволяет значительно ускорить процесс скачивания файлов.Интерфейс dlman интуитивно понятен и удобен, обеспечивая легкость в использовании даже для начинающих пользователей. Lang: TypeScript https://github.com/novincode/dlman https://github.com/novincode/dlman================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/novincode/dlman",
+    "tg_link": "https://t.me/open_source_friend/5744",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-02T18:21:42.580237+00:00"
+  },
+  {
     "post_id": "ai_newz/4638",
     "channel": "ai_newz",
     "text": "Anthropic, как и обещали, вернули доступ к Fable 5 https://t.me/ai_newz @ai_newz",
