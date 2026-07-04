@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5751",
+    "channel": "open_source_friend",
+    "text": "ImageGlassImageGlass — это легковесный и универсальный просмотрщик изображений, предназначенный для быстрого и удобного просмотра фотографий на различных платформах.Программа поддерживает более 90 распространённых форматов изображений, включая WEBP, GIF, SVG, AVIF, JXL и HEIC, обеспечивая широкую совместимость с различными типами файлов.Благодаря интуитивно понятному интерфейсу и высокой скорости работы, ImageGlass подходит как для обычных пользователей, так и для дизайнеров, повышая эффективность рабочего процесса.Lang: C# https://github.com/d2phap/ImageGlass https://github.com/d2phap/ImageGlass================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/d2phap/ImageGlass",
+    "tg_link": "https://t.me/open_source_friend/5751",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-04T17:56:09.293756+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5750",
+    "channel": "open_source_friend",
+    "text": "Berkeley-Humanoid-LiteBerkeley Humanoid Lite — это открытый проект по созданию доступного человекоподобного робота стоимостью менее $5000, оснащённого модульными 3D-печатными редукторами и широко доступными компонентами, предназначенного для демократизации и продвижения исследований в области человекоподобной робототехники.Ключевые функции включают в себя обучение политик управления, валидацию в симуляции, развертывание в реальном мире, захват движения и управление манипуляцией в режиме телеприсутствия.Проект построен на принципах открытости, доступности и кастомизации, и находится в постоянном развитии, приветствуя обратную связь и вклад сообщества.Lang: Python https://github.com/HybridRobotics/Berkeley-Humanoid-Lite https://github.com/HybridRobotics/Berkeley-Humanoid-Lite================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/HybridRobotics/Berkeley-Humanoid-Lite",
+    "tg_link": "https://t.me/open_source_friend/5750",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-07-04T17:56:09.293702+00:00"
+  },
+  {
     "post_id": "open_source_friend/5749",
     "channel": "open_source_friend",
     "text": "GenReconGenRecon — это инструмент для реконструкции 3D-сцен, который использует генеративные модели для восстановления геометрии и текстур объектов.Он позволяет преобразовывать фрагментированные данные в целостные 3D-модели, обеспечивая высокую точность и реалистичность.Программа поддерживает различные форматы входных данных и интегрируется с популярными библиотеками машинного обучения.Lang: Python https://github.com/kasothaphie/GenRecon https://github.com/kasothaphie/GenRecon================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
