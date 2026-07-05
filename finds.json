@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5752",
+    "channel": "open_source_friend",
+    "text": "meetilyЭто инструмент для проведения встреч с акцентом на конфиденциальность, обеспечивающий локальную обработку данных без необходимости подключения к облаку.Он предлагает функции живой транскрипции с использованием Parakeet/Whisper, диаризацию говорящих и суммаризацию с помощью Ollama, обеспечивая высокую скорость и точность.Программа полностью написана на языке Rust и поддерживает работу на macOS и Windows.Lang: Rust https://github.com/Zackriya-Solutions/meetily https://github.com/Zackriya-Solutions/meetily================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/Zackriya-Solutions/meetily",
+    "tg_link": "https://t.me/open_source_friend/5752",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-05T07:51:37.836799+00:00"
+  },
+  {
     "post_id": "open_source_friend/5751",
     "channel": "open_source_friend",
     "text": "ImageGlassImageGlass — это легковесный и универсальный просмотрщик изображений, предназначенный для быстрого и удобного просмотра фотографий на различных платформах.Программа поддерживает более 90 распространённых форматов изображений, включая WEBP, GIF, SVG, AVIF, JXL и HEIC, обеспечивая широкую совместимость с различными типами файлов.Благодаря интуитивно понятному интерфейсу и высокой скорости работы, ImageGlass подходит как для обычных пользователей, так и для дизайнеров, повышая эффективность рабочего процесса.Lang: C# https://github.com/d2phap/ImageGlass https://github.com/d2phap/ImageGlass================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
