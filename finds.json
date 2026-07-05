@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5754",
+    "channel": "open_source_friend",
+    "text": "pxpipeЭто инструмент, предназначенный для снижения использования токенов в Fable 5 путем преобразования текстового контекста в изображения. Это особенно полезно при работе с моделями, где количество токенов ограничено, и требуется оптимизация их использования.Lang: TypeScript https://github.com/teamchong/pxpipe https://github.com/teamchong/pxpipe================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/teamchong/pxpipe",
+    "tg_link": "https://t.me/open_source_friend/5754",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-05T17:55:46.075812+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5753",
+    "channel": "open_source_friend",
+    "text": "rommRomM — это мощный и красивый самохостинг-менеджер и проигрыватель ROM-файлов, предназначенный для организации и запуска коллекций игр через эмуляторы.Программа поддерживает множество платформ и различных схем наименования, позволяя сканировать библиотеку игр, обогащать её метаданными из таких источников, как IGDB, Screenscraper и MobyGames, а также загружать пользовательские обложки с SteamGridDB.RomM предоставляет возможность играть в игры прямо из браузера с помощью встроенных эмуляторов, таких как EmulatorJS и RuffleRS, и отображает достижения из Retroachievements.Пользователи могут делиться своей библиотекой с друзьями, предоставляя ограниченный доступ и права, а также управлять играми через современные веб-браузеры или официальные приложения для Playnite, Android и кастомных прошивок.Lang: Python https://github.com/rommapp/romm https://github.com/rommapp/romm================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru",
+    "link": "https://github.com/rommapp/romm",
+    "tg_link": "https://t.me/open_source_friend/5753",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-05T17:55:46.075761+00:00"
+  },
+  {
     "post_id": "open_source_friend/5752",
     "channel": "open_source_friend",
     "text": "meetilyЭто инструмент для проведения встреч с акцентом на конфиденциальность, обеспечивающий локальную обработку данных без необходимости подключения к облаку.Он предлагает функции живой транскрипции с использованием Parakeet/Whisper, диаризацию говорящих и суммаризацию с помощью Ollama, обеспечивая высокую скорость и точность.Программа полностью написана на языке Rust и поддерживает работу на macOS и Windows.Lang: Rust https://github.com/Zackriya-Solutions/meetily https://github.com/Zackriya-Solutions/meetily================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
