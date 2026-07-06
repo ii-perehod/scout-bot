@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5755",
+    "channel": "open_source_friend",
+    "text": "StegoForgeStegoForge — это комплексный инструмент для стеганографии и цифровой криминалистики, предназначенный для скрытия и извлечения данных в различных носителях, таких как изображения, аудио, видео, документы и сетевые пакеты.Он поддерживает 11 продвинутых механизмов обнаружения, позволяющих выявлять скрытые данные в указанных типах файлов.Программа предоставляет как интерфейс командной строки (CLI), так и графический интерфейс (GUI), обеспечивая удобство использования для различных категорий пользователей.Lang: Python https://github.com/Nour833/StegoForge https://github.com/Nour833/StegoForge================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Nour833/StegoForge",
+    "tg_link": "https://t.me/open_source_friend/5755",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-06T08:54:03.947363+00:00"
+  },
+  {
     "post_id": "open_source_friend/5754",
     "channel": "open_source_friend",
     "text": "pxpipeЭто инструмент, предназначенный для снижения использования токенов в Fable 5 путем преобразования текстового контекста в изображения. Это особенно полезно при работе с моделями, где количество токенов ограничено, и требуется оптимизация их использования.Lang: TypeScript https://github.com/teamchong/pxpipe https://github.com/teamchong/pxpipe================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
