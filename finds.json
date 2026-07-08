@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5765",
+    "channel": "open_source_friend",
+    "text": "microrealestateЭто открытая платформа для управления недвижимостью, предназначенная для помощи арендодателям в эффективном управлении их объектами и арендаторами.Система предоставляет централизованное хранилище информации о недвижимости и арендаторах, поддерживает создание аренды с настраиваемыми шаблонами, отслеживание платежей и генерацию пользовательских документов.Платформа поддерживает многопользовательский режим, что позволяет командам совместно работать над управлением недвижимостью.Lang: JavaScript https://github.com/microrealestate/microrealestate https://github.com/microrealestate/microrealestate================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/microrealestate/microrealestate",
+    "tg_link": "https://t.me/open_source_friend/5765",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-08T18:12:38.047837+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5764",
+    "channel": "open_source_friend",
+    "text": "dangerzoneЭто открытое приложение, предназначенное для безопасной работы с потенциально опасными файлами, такими как PDF, офисные документы и изображения, путем их преобразования в безопасные PDF-файлы.Программа работает в изолированной среде (песочнице), где конвертирует исходный документ в изображение, а затем воссоздает его в виде нового PDF-файла, содержащего только пиксельные данные, что исключает возможность скрытого вредоносного кода.Dangerzone поддерживает различные форматы файлов, включая PDF, Microsoft Word, Excel, PowerPoint, ODF-документы и распространенные форматы изображений, обеспечивая широкую совместимость.Приложение доступно для Windows, macOS и Linux, что делает его универсальным инструментом для пользователей различных операционных систем.Lang: Python https://github.com/freedomofpress/dangerzone https://github.com/freedomofpress/dangerzone================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpre",
+    "link": "https://github.com/freedomofpress/dangerzone",
+    "tg_link": "https://t.me/open_source_friend/5764",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-08T18:12:38.047794+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5763",
+    "channel": "open_source_friend",
+    "text": "Kuber Community Day возвращается 30 июля в Москве все неравнодушные к технологии встречаются на инженерной конференции Kuber Community Day.На сцене выступят практики из Ænix, MWS, «Райффайзенбанка», «СберЗдоровья», «Лаборатории Числитель», «Почтатех», «Инфосистемы Джет», Hilbert Team и других компаний.Что вас ждет:◾доклады без маркетинга: 30 спикеров расскажут об использовании ИИ в Kubernetes, мониторинге контейнеров, обзоре инструментов экосистемы, получении сертификаций и пр.;◾мастер-класс по созданию Kubernetes-оператора: в конце все участники задеплоят его в кластер Yandex Managed Kubernetes;◾arch dating: короткие встречи с опытными специалистами, где можно обсудить технические и карьерные вопросы;◾научпоп: рассказ о кибернетическом подходе к управлению сложностью от Александра Нозика, директора центра научного программирования.Форматы: офлайн и онлайн.Участие бесплатное,  https://tglink.io/14449ea8ada00d?erid=2W5zFJ1fKub регистрация обязательна.",
+    "link": "https://tglink.io/14449ea8ada00d?erid=2W5zFJ1fKub",
+    "tg_link": "https://t.me/open_source_friend/5763",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-07-08T18:12:38.047408+00:00"
+  },
+  {
     "post_id": "ai_newz/4643",
     "channel": "ai_newz",
     "text": "Fable 5 оставили в Claude Code до 12го июля  Это я что, зря всю ночь его гонял тратя лимиты вместо сна 👤  Видимо релиз 5.6 Sol совсем скоро",
