@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5773",
+    "channel": "open_source_friend",
+    "text": "voicetyprЭто инструмент для преобразования речи в текст с поддержкой искусственного интеллекта, работающий в автономном режиме на macOS и Windows.Ключевые функции включают мгновенную транскрипцию с помощью системной горячей клавиши, автоматическую вставку текста в позицию курсора и поддержку более 99 языков.Программа полностью работает офлайн, обеспечивая конфиденциальность данных, и использует аппаратное ускорение для высокой производительности.Lang: Rust https://github.com/moinulmoin/voicetypr https://github.com/moinulmoin/voicetypr================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/moinulmoin/voicetypr",
+    "tg_link": "https://t.me/open_source_friend/5773",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-12T07:23:51.977241+00:00"
+  },
+  {
     "post_id": "open_source_friend/5772",
     "channel": "open_source_friend",
     "text": "commonformsЭто инструмент для автоматического преобразования PDF-документов в заполняемые формы.Он предоставляет как интерфейс командной строки, так и API для обработки PDF-файлов.В основе работы лежат модели FFDNet-S и FFDNet-L, разработанные для задачи обнаружения полей форм.Lang: Python https://github.com/jbarrow/commonforms https://github.com/jbarrow/commonforms================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
