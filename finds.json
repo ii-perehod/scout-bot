@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4648",
+    "channel": "ai_newz",
+    "text": "Anthropic продлили доступ к Fable 5 ещё на неделюКроме этого продлили увеличение лимитов на 50% на ту же неделю. Вот что конкуренция животворящая делает. Интересно, сколько ещё раз они будут проворачивать этот трюк. https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz",
+    "tg_link": "https://t.me/ai_newz/4648",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-07-12T17:50:55.385953+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5775",
+    "channel": "open_source_friend",
+    "text": "GameNativeЭто приложение позволяет запускать игры, приобретённые в Steam, Epic Games Store, GOG и Amazon, непосредственно на устройствах Android.Оно поддерживает облачные сохранения, обеспечивая синхронизацию игрового прогресса между различными устройствами.Приложение находится на ранней стадии разработки, поэтому некоторые игры могут работать нестабильно или требовать дополнительных настроек.Lang: Kotlin https://github.com/utkarshdalal/GameNative https://github.com/utkarshdalal/GameNative================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/utkarshdalal/GameNative",
+    "tg_link": "https://t.me/open_source_friend/5775",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-12T17:50:54.324262+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5774",
+    "channel": "open_source_friend",
+    "text": "macshotЭто нативное приложение для macOS, предназначенное для создания скриншотов и записи экрана с расширенными возможностями.Программа позволяет аннотировать изображения, автоматически скрывать личную информацию, записывать GIF-анимации, выполнять оптическое распознавание символов (OCR) с последующим переводом, а также делать прокручиваемые снимки и улучшать внешний вид скриншотов.macshot разработан без использования Electron и не требует подписки, что делает его легким и доступным инструментом для пользователей macOS.Lang: Swift https://github.com/sw33tLie/macshot https://github.com/sw33tLie/macshot================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/sw33tLie/macshot",
+    "tg_link": "https://t.me/open_source_friend/5774",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-07-12T17:50:54.324212+00:00"
+  },
+  {
     "post_id": "open_source_friend/5773",
     "channel": "open_source_friend",
     "text": "voicetyprЭто инструмент для преобразования речи в текст с поддержкой искусственного интеллекта, работающий в автономном режиме на macOS и Windows.Ключевые функции включают мгновенную транскрипцию с помощью системной горячей клавиши, автоматическую вставку текста в позицию курсора и поддержку более 99 языков.Программа полностью работает офлайн, обеспечивая конфиденциальность данных, и использует аппаратное ускорение для высокой производительности.Lang: Rust https://github.com/moinulmoin/voicetypr https://github.com/moinulmoin/voicetypr================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
