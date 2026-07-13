@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5776",
+    "channel": "open_source_friend",
+    "text": "mini-qrЭто инструмент для создания и сканирования QR-кодов с привлекательным дизайном.Он позволяет легко генерировать и распознавать QR-коды, обеспечивая удобный пользовательский интерфейс.Программа поддерживает локализацию с использованием vue-i18n-next и интеграцию с Crowdin и DeepL для перевода.Разработана с использованием Vue 3 и Vite, что обеспечивает высокую производительность и современный стек технологий.Lang: TypeScript https://github.com/lyqht/mini-qr https://github.com/lyqht/mini-qr================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/lyqht/mini-qr",
+    "tg_link": "https://t.me/open_source_friend/5776",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-13T08:09:16.422275+00:00"
+  },
+  {
     "post_id": "ai_newz/4648",
     "channel": "ai_newz",
     "text": "Anthropic продлили доступ к Fable 5 ещё на неделюКроме этого продлили увеличение лимитов на 50% на ту же неделю. Вот что конкуренция животворящая делает. Интересно, сколько ещё раз они будут проворачивать этот трюк. https://t.me/ai_newz @ai_newz",
