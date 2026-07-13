@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1676",
+    "channel": "AI_for_product_owner",
+    "text": "❓ Что конкретно делает наш ИИ-агент для создания карточек товаров?Вы просили – мы рассказываем. Сегодня по шагам разберем, чем занимается наш ИИ-агент по созданию карточек товаров в едином стиле, освобождая вам время:✅ Проводит коммерческий аудит товара: агент выявляет скрытые страхи и главные возражения покупателей (почему они сомневаются), а также находит главный триггер – то, ради какого реального результата человек покупает вещь.✅ Собирает умное SEO-ядро: он не просто находит популярные запросы на Wildberries или Ozon, а грамотно распределяет их по слайдам. Высокочастотные ключи идут на обложку, а низкочастотные – вглубь карусели, чтобы карточка органично поднималась в поиске без переспама.✅ Шпионит за конкурентами: агент анализирует чужие карточки, находит их слабые места и придумывает сильную стратегию: что именно нужно показать, чтобы выделиться на их фоне в поисковой выдаче.✅ Проектирует смысловую воронку слайдов: он превращает карусель в сериал, где каждый слайд – это четкий о",
+    "link": "https://t.me/Aiforproduct_bot?start=dl-176673617894cf772dc042",
+    "tg_link": "https://t.me/AI_for_product_owner/1676",
+    "category": "SEO",
+    "is_free": false,
+    "found_at": "2026-07-13T18:26:05.390984+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5778",
+    "channel": "open_source_friend",
+    "text": "docker-mailserverЭто полнофункциональный почтовый сервер, работающий в контейнере, обеспечивающий поддержку SMTP, IMAP, LDAP, а также функций антиспама и антивируса.Он включает в себя Postfix для обработки SMTP, Dovecot для IMAP и POP3, Rspamd для фильтрации спама, ClamAV для антивирусной защиты и другие компоненты.Сервер поддерживает аутентификацию через LDAP, DKIM и DMARC для обеспечения безопасности электронной почты, а также интеграцию с Let's Encrypt для управления сертификатами.Проект ориентирован на простоту настройки и обновления, используя только конфигурационные файлы без необходимости в SQL-базе данных.Lang: Shell https://github.com/docker-mailserver/docker-mailserver https://github.com/docker-mailserver/docker-mailserver================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/docker-mailserver/docker-mailserver",
+    "tg_link": "https://t.me/open_source_friend/5778",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-13T18:26:02.185045+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5777",
+    "channel": "open_source_friend",
+    "text": "defaceЭто инструмент командной строки для автоматической анонимизации лиц на видео и фотографиях.Он обнаруживает все человеческие лица в каждом кадре видео или на изображении и применяет к ним фильтр анонимизации, такой как размытие или наложение черных прямоугольников.Все аудиодорожки также удаляются для обеспечения полной анонимности.Инструмент поддерживает работу на всех распространенных операционных системах, включая Linux, Windows и macOS.Lang: Python https://github.com/ORB-HD/deface https://github.com/ORB-HD/deface================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/ORB-HD/deface",
+    "tg_link": "https://t.me/open_source_friend/5777",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-13T18:26:02.184993+00:00"
+  },
+  {
     "post_id": "open_source_friend/5776",
     "channel": "open_source_friend",
     "text": "mini-qrЭто инструмент для создания и сканирования QR-кодов с привлекательным дизайном.Он позволяет легко генерировать и распознавать QR-коды, обеспечивая удобный пользовательский интерфейс.Программа поддерживает локализацию с использованием vue-i18n-next и интеграцию с Crowdin и DeepL для перевода.Разработана с использованием Vue 3 и Vite, что обеспечивает высокую производительность и современный стек технологий.Lang: TypeScript https://github.com/lyqht/mini-qr https://github.com/lyqht/mini-qr================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
