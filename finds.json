@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "AI_for_product_owner/1684",
+    "channel": "AI_for_product_owner",
+    "text": "🌴 Дорогой визуал для туризма: создаем уникальный рекламный креатив с «Базой промптов»Лето в разгаре, сезон отпусков на пике, а это значит, что у турагентов и авторов собственных туров сейчас самая жара – ежедневная битва за клиентов. 🌊🍹Но посмотрите на большинство каналов и рекламных баннеров в этой нише: везде одни и те же заезженные фото с бесплатных фотостоков. Как выделиться в пестром полотне отпускных картинок и гарантированно привлечь внимание аудитории?В нашей закрытой «Базе промптов» в  https://t.me/Aiforproduct_bot?start=dl-176673617894cf772dc042 папке «Тренды» уже собралась большая подборка сочных кадров для тревел-тематики и промптов для создания премиального визуала. Здесь вы найдете и эстетичную классику, по-прежнему работающую «на ура» (фото у бассейна, летящие платья на фоне пальм, манящие коктейли и экзотические фрукты, модели в лучах закатного солнца и т.д.), и креативные коллажи, и волшебную ИИ-графику, цепляющую взгляд своими необычными сюжетами.Больше не нужно часам",
+    "link": "https://t.me/Aiforproduct_bot?start=dl-176673617894cf772dc042",
+    "tg_link": "https://t.me/AI_for_product_owner/1684",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-16T17:58:11.979496+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5788",
+    "channel": "open_source_friend",
+    "text": "builderFrappe Builder — это инструмент с низким порогом кода, предназначенный для быстрого и простого создания веб-сайтов с помощью интуитивно понятного визуального редактора.Он предлагает функции, такие как интеграция с Frappe CMS для создания динамических страниц, возможность написания клиентских и глобальных скриптов, а также мгновенную публикацию созданных сайтов в один клик.Дополнительно, Frappe Builder обеспечивает высокую производительность без лишних скриптов и стилей, что подтверждается высокими оценками в тестах Google Lighthouse.Lang: Vue https://github.com/frappe/builder https://github.com/frappe/builder================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/frappe/builder",
+    "tg_link": "https://t.me/open_source_friend/5788",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-16T17:58:09.649659+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5787",
+    "channel": "open_source_friend",
+    "text": "Чек-лист по безопасности ИИ в разработке«Лаборатория Касперского» выпустила бесплатный  https://lp.kaspersky.com/ru/ai?utm_campaign=check-ii-list&amp;utm_source=tg-opensource&amp;utm_medium=paidsocial&amp;utm_term=post&amp;utm_content=5637461148/?erid=2W5zFHc5Fn9 чек-лист для оценки того, насколько безопасно в компании внедрены ИИ-инструменты.Документ основан на практическом опыте внедрения LLM во внутренние процессы компании.Он помогает проверить защиту рабочих мест разработчиков, организацию доступа к LLM и корпоративным данным, учёт рисков промпт-инъекций и безопасность MCP-серверов и цепочек поставок. 🔻Для доступа достаточно заполнить короткую форму. 🔗 Скачать чек-лист можно  https://lp.kaspersky.com/ru/ai?utm_campaign=check-ii-list&amp;utm_source=tg-opensource&amp;utm_medium=paidsocial&amp;utm_term=post&amp;utm_content=5637461148/?erid=2W5zFHc5Fn9 по ссылке.",
+    "link": "https://lp.kaspersky.com/ru/ai?utm_campaign=check-ii-list&amp;utm_source=tg-opensource&amp;utm_medium=paidsocial&amp;utm_term=post&amp;utm_content=5637461148/?erid=2W5zFHc5Fn9",
+    "tg_link": "https://t.me/open_source_friend/5787",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-16T17:58:09.649621+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5786",
+    "channel": "open_source_friend",
+    "text": "WatchYourLANWatchYourLAN — это легковесный сетевой IP-сканер с веб-интерфейсом, предназначенный для мониторинга устройств, подключенных к локальной сети.Программа предоставляет уведомления при обнаружении новых хостов, ведёт историю их активности и позволяет экспортировать данные в Grafana через InfluxDB2 или Prometheus.Она поддерживает светлую и тёмную темы оформления, а также различные варианты развертывания, включая Docker.Lang: Go https://github.com/aceberg/WatchYourLAN https://github.com/aceberg/WatchYourLAN================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/aceberg/WatchYourLAN",
+    "tg_link": "https://t.me/open_source_friend/5786",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-16T17:58:09.649565+00:00"
+  },
+  {
     "post_id": "open_source_friend/5785",
     "channel": "open_source_friend",
     "text": "filebrowserFileBrowser Quantum — это самохостируемый веб-интерфейс для управления файлами, позволяющий пользователям легко получать доступ к своим файлам и управлять ими через браузер.Он поддерживает множественные источники данных с возможностью настройки правил включения и исключения, аутентификацию через OIDC, LDAP, JWT, пароли с двухфакторной аутентификацией и прокси, а также предоставляет настраиваемый и отзывчивый пользовательский интерфейс.Дополнительные функции включают в себя эффективную индексацию с использованием Sqlite для мгновенного поиска, расширенные возможности просмотра и управления файлами, включая поддержку миниатюр для различных типов файлов, и гибкие параметры совместного использования с настройками доступа и сроками действия.Lang: Go https://github.com/gtsteffaniak/filebrowser https://github.com/gtsteffaniak/filebrowser================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
