@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "ai_newz/4659",
+    "channel": "ai_newz",
+    "text": "Anthropic оставляют Fable 5  в подпискеС 20 июля модель будет включена в планах Max ($100/$200) и Team Premium ($125), на них Fable по прежнему можно будет использовать до половины лимитов. Планам Pro и Team разово выдадут по $100 кредитов.В целом, как и ожидалось. Вот что конкуренция делает с людьми.😁Я так привык к Fable, что уже неохотно переключаюсь на Opus. https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz",
+    "tg_link": "https://t.me/ai_newz/4659",
+    "category": "Другое",
+    "is_free": false,
+    "found_at": "2026-07-18T17:46:11.983099+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5794",
+    "channel": "open_source_friend",
+    "text": "opentrashmailЭто автономное решение с открытым исходным кодом для временной электронной почты, включающее собственный почтовый сервер.Программа позволяет получать электронные письма через веб-интерфейс, JSON API и RSS-ленту.Поддерживает настройку доменов, портов, TLS и других параметров через файл конфигурации.Обеспечивает возможность интеграции с другими проектами с помощью вебхуков.Lang: PHP https://github.com/HaschekSolutions/opentrashmail https://github.com/HaschekSolutions/opentrashmail================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/HaschekSolutions/opentrashmail",
+    "tg_link": "https://t.me/open_source_friend/5794",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-18T17:46:10.731386+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5793",
+    "channel": "open_source_friend",
+    "text": "DIY-CNC-machineЭто проект, предоставляющий подробное руководство по самостоятельной сборке станка с числовым программным управлением (ЧПУ) с нуля.В репозитории содержатся 3D-модели деталей в форматах STL и OBJ, а также файлы для Fusion 360, необходимые для изготовления компонентов станка.Проект ориентирован на использование доступных материалов и компонентов, что делает его реализацию возможной для широкого круга энтузиастов. https://github.com/maxvfischer/DIY-CNC-machine https://github.com/maxvfischer/DIY-CNC-machine================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/maxvfischer/DIY-CNC-machine",
+    "tg_link": "https://t.me/open_source_friend/5793",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-18T17:46:10.731353+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5792",
+    "channel": "open_source_friend",
+    "text": "rebrowse-appЭто инструмент для записи и воспроизведения пользовательских сессий в веб-браузере, предназначенный для анализа поведения пользователей на веб-сайтах.Он позволяет записывать действия пользователей, такие как клики, прокрутки и ввод текста, а затем воспроизводить их для детального изучения.Программа предоставляет возможность фильтрации и поиска по записанным сессиям, что облегчает анализ конкретных взаимодействий.Также поддерживается интеграция с различными аналитическими инструментами для более глубокого понимания пользовательского опыта.Lang: TypeScript https://github.com/zk1tty/rebrowse-app https://github.com/zk1tty/rebrowse-app================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/zk1tty/rebrowse-app",
+    "tg_link": "https://t.me/open_source_friend/5792",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-18T17:46:10.731295+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1692",
     "channel": "AI_for_product_owner",
     "text": "🤔 Хорошо в деревне летом: нейросеть или реальное фото?Хорошей пятницы, друзья! Сегодня пристально рассматриваем красивых девушек на фоне безмятежной деревенской пасторали. И пытаемся угадать, какие из них – реальные модели, а какие – продукт ИИ.Я снова провалилась... А у вас как с интуицией? Ответы собираем в комментариях, интригу раскроем завтра утром 😉#угадайка",
