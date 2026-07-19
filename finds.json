@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4660",
+    "channel": "ai_newz",
+    "text": "Нейродайджест за неделю (#123)LLM-  https://t.me/ai_newz/4659 Fable 5 — Anthropic оставляет топовую модель в подписках Max и Team Premium. Пользователям Pro и Team разово выдадут $100 кредитов.-  https://t.me/ai_newz/4654 Kimi K3 — Moonshot выпустили новый претрейн на 2,8 трлн параметров, обгоняющий Opus 4.8. Доступен в API, веса откроют до 27 июля.-  https://t.me/ai_newz/4656 T-Search — экономный агентнвй ретривер на базе Qwen3.6. MoE-модель умещается на одной GPU и обходит открытые гиганты вроде Qwen3.5-397B.-  https://t.me/ai_newz/4650 GigaChat Audio — опенсорс мультиязычный стек для распознавания речи GigaAM Multilingual и audio-native LLM с окном контекста до 2 часов.Генеративные модели-  https://t.me/ai_newz/4657 Слив Suno — Масштабная утечка исходников подтвердила использование миллионов треков с YouTube Music и других площадок для обучения генератора.-  https://t.me/ai_newz/4651 MIRA — World model с мультиплеером от kyutai и Epic Games. Это нейронная версия Rocket League, подде",
+    "link": "https://t.me/ai_newz/4659",
+    "tg_link": "https://t.me/ai_newz/4660",
+    "category": "ИИ",
+    "is_free": false,
+    "found_at": "2026-07-19T17:48:53.623566+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5797",
+    "channel": "open_source_friend",
+    "text": "headwayHeadway — это самодостаточный картографический стек, позволяющий пользователям развернуть собственную систему карт на основе данных OpenStreetMap.Он включает в себя фронтенд, базовую карту, геокодер и движок маршрутизации, поддерживающий режимы вождения, велопоездок и пеших прогулок.Система способна обрабатывать данные от небольших районов до всей планеты, предоставляя гибкость в выборе области покрытия. Lang: Rust https://github.com/headwaymaps/headway https://github.com/headwaymaps/headway================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/headwaymaps/headway",
+    "tg_link": "https://t.me/open_source_friend/5797",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-19T17:48:52.615622+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5796",
+    "channel": "open_source_friend",
+    "text": "colotaColota — это приложение для Android, предназначенное для самостоятельного отслеживания GPS-координат и передачи данных на собственный сервер пользователя.Приложение поддерживает работу в офлайн-режиме, позволяет загружать офлайн-карты, создавать геозоны для приостановки записи, а также предоставляет гибкие профили отслеживания, которые автоматически настраивают параметры GPS в зависимости от условий, таких как зарядка устройства или обнаружение движения.Colota совместимо с различными серверными решениями, включая Dawarich, GeoPulse, Home Assistant, OwnTracks, PhoneTrack, Reitti и Traccar, а также может быть интегрировано с пользовательскими бэкендами.Lang: TypeScript https://github.com/dietrichmax/colota https://github.com/dietrichmax/colota================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/dietrichmax/colota",
+    "tg_link": "https://t.me/open_source_friend/5796",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-19T17:48:52.615559+00:00"
+  },
+  {
     "post_id": "open_source_friend/5795",
     "channel": "open_source_friend",
     "text": "FrostyЭто продвинутый модуль для Magisk, KernelSU и APatch, предназначенный для улучшения энергосбережения на устройствах Android.Основная функция модуля — заморозка сервисов Google Mobile Services (GMS), что позволяет снизить их активность и уменьшить расход заряда батареи.Модуль поддерживает различные платформы, обеспечивая гибкость в установке и использовании.Lang: Shell https://github.com/Drsexo/Frosty https://github.com/Drsexo/Frosty================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
