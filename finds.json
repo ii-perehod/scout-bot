@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5800",
+    "channel": "open_source_friend",
+    "text": "PolyUploaderЭто инструмент для одновременной загрузки файлов на более чем 130 различных хостинговых сервисов.Ключевые функции включают возможность загрузки файлов с локального хранилища или по URL, интеграцию собственных API-ключей для совместимых хостов, ведение детальной истории загрузок с указанием срока действия и кнопками удаления, а также создание и управление профилями загрузки для автоматизации частых задач.Дополнительно, PolyUploader позволяет генерировать единый ссылочный адрес для объединения нескольких ссылок на хосты, не требует регистрации, полностью открыт, быстр и бесплатен, а также построен с акцентом на скорость и безопасность с использованием бэкенда на Rust.Lang: JavaScript https://github.com/spel987/PolyUploader https://github.com/spel987/PolyUploader================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/spel987/PolyUploader",
+    "tg_link": "https://t.me/open_source_friend/5800",
+    "category": "Автоматизация",
+    "is_free": true,
+    "found_at": "2026-07-20T18:47:49.857881+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5799",
+    "channel": "open_source_friend",
+    "text": "ESP32-PaxcounterESP32-Paxcounter — это устройство на базе микроконтроллера ESP32, предназначенное для подсчёта количества людей в реальном времени путём обнаружения сигналов Wi-Fi и Bluetooth от мобильных устройств. Собранные данные могут передаваться через сети LoRaWAN, MQTT по TCP/IP, интерфейс SPI на локальный хост или сохраняться на SD-карту.Устройство поддерживает работу от батареи с использованием режима глубокого сна ESP32, что позволяет достичь длительного времени работы на одном элементе питания.Lang: C++ https://github.com/cyberman54/ESP32-Paxcounter https://github.com/cyberman54/ESP32-Paxcounter================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/cyberman54/ESP32-Paxcounter",
+    "tg_link": "https://t.me/open_source_friend/5799",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-20T18:47:49.857786+00:00"
+  },
+  {
     "post_id": "open_source_friend/5798",
     "channel": "open_source_friend",
     "text": "Antibot-DetectorЭто расширение для браузера Chrome, предназначенное для обнаружения антибот-систем, CAPTCHA и технологий отпечатков браузера на веб-сайтах.Оно анализирует различные элементы страницы, включая cookies, заголовки, URL, содержимое DOM и сетевые запросы, для выявления защитных механизмов.Поддерживает обнаружение более 26 различных антибот-систем, таких как Cloudflare, Akamai, DataDome, reCAPTCHA и hCaptcha.Обеспечивает отображение количества обнаруженных защитных механизмов в реальном времени и позволяет экспортировать результаты анализа.Расширение доступно для установки через Chrome Web Store и является бесплатным инструментом для исследователей веб-безопасности и разработчиков.Lang: JavaScript https://github.com/scrapfly/Antibot-Detector https://github.com/scrapfly/Antibot-Detector================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/",
