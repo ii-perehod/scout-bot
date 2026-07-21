@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5801",
+    "channel": "open_source_friend",
+    "text": "jcorp-nomadЭто портативный офлайн медиа-сервер, выполненный в форм-факторе флеш-накопителя и основанный на микроконтроллере ESP32-S3.Устройство позволяет транслировать фильмы, музыку, книги и телепередачи без необходимости подключения к интернету через wi-fi. Lang: HTML https://github.com/Jstudner/jcorp-nomad https://github.com/Jstudner/jcorp-nomad================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Jstudner/jcorp-nomad",
+    "tg_link": "https://t.me/open_source_friend/5801",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-21T07:26:57.984066+00:00"
+  },
+  {
     "post_id": "open_source_friend/5800",
     "channel": "open_source_friend",
     "text": "PolyUploaderЭто инструмент для одновременной загрузки файлов на более чем 130 различных хостинговых сервисов.Ключевые функции включают возможность загрузки файлов с локального хранилища или по URL, интеграцию собственных API-ключей для совместимых хостов, ведение детальной истории загрузок с указанием срока действия и кнопками удаления, а также создание и управление профилями загрузки для автоматизации частых задач.Дополнительно, PolyUploader позволяет генерировать единый ссылочный адрес для объединения нескольких ссылок на хосты, не требует регистрации, полностью открыт, быстр и бесплатен, а также построен с акцентом на скорость и безопасность с использованием бэкенда на Rust.Lang: JavaScript https://github.com/spel987/PolyUploader https://github.com/spel987/PolyUploader================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
