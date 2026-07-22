@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "AI_for_product_owner/1701",
+    "channel": "AI_for_product_owner",
+    "text": "🌳 Нейрофото на улице: как менять освещение и делать цветокоррекцию с помощью промптов?✨ Часто именно обработка отделяет обычную генерацию от изображения, которое выглядит как дорогая профессиональная съемка. И то, что в жизни можно получить благодаря дорогостоящей технике и прокаченным навыкам обработки фото, в мире нейросетей обеспечит правильный промпт.В «Базе промптов» собрали для вас 7 готовых блоков для настройки света и колористики на уличных нейрофото. Они помогут быстро изменить атмосферу, глубину, палитру и общее настроение кадра.💡 Всё, что вам нужно сделать, – вставить один из готовых пресетов в любой ваш промпт для нейрофото. Он автоматически задаст правильную световую схему и глубину, сделав визуал более дорогим, объемным и выразительным.🎨 Базовый шаблон промпта и 7 текстовых блоков с разными вариантами освещения и цветокоррекции доступны по подписке. Их можно добавлять практически в любую графику уличного фото, чтобы быстро менять атмосферу в кадре.📸 Комбинация грамотно по",
+    "link": "https://t.me/ainanobot_bot?start=post",
+    "tg_link": "https://t.me/AI_for_product_owner/1701",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-07-22T18:01:48.306049+00:00"
+  },
+  {
+    "post_id": "ai_newz/4663",
+    "channel": "ai_newz",
+    "text": "Clean Plate IC-LoRA для LTX-2.3Редко выходят модели для серьезного прода и постобработки. И вот Lightricks выкатили ин-контекст модель Clean Plate для своей 22B видеомодели LTX-2.3. Нейросеть удаляет из видео людей, пешеходов и транспорт, автоматически восстанавливая чистый задний план за ними.Все работает в режиме video-to-video LoRA и интегрируется в стандартные воркфлоу ComfyUI. Не хватает только готового плагина для Premier или DaVinci. https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate Веса  https://t.me/ai_newz @ai_newz",
+    "link": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate",
+    "tg_link": "https://t.me/ai_newz/4663",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-22T18:01:46.399271+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5806",
+    "channel": "open_source_friend",
+    "text": "claude-ide.nvimЭто плагин для Neovim, превращающий редактор в интегрированную среду разработки (IDE), тесно интегрированную с Claude Code, работающим в отдельном терминале.Плагин предоставляет дерево файлов с правой стороны и код с левой, поддерживая навигацию с помощью мыши и клавиатуры.Он отображает значки изменений в дереве файлов в реальном времени, позволяя отслеживать изменения в проекте.Плагин также поддерживает встроенные диффы с предыдущим кодом, облегчая сравнение и анализ изменений.Дополнительно, он автоматически создает снимки проекта, которые можно просматривать как страницы книги, обеспечивая удобный доступ к истории изменений.Lang: Lua https://github.com/HelpFreedom/claude-ide.nvim https://github.com/HelpFreedom/claude-ide.nvim================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/HelpFreedom/claude-ide.nvim",
+    "tg_link": "https://t.me/open_source_friend/5806",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-22T18:01:45.263951+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5805",
+    "channel": "open_source_friend",
+    "text": "face_lookerЭто инструмент для генерации изображений лиц с отслеживанием взгляда на основе ИИ и создания интерактивных React-компонентов, которые следуют за курсором.  Lang: Python https://github.com/kylan02/face_looker https://github.com/kylan02/face_looker================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/kylan02/face_looker",
+    "tg_link": "https://t.me/open_source_friend/5805",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-22T18:01:45.263897+00:00"
+  },
+  {
     "post_id": "open_source_friend/5804",
     "channel": "open_source_friend",
     "text": "muxcardЭто полностью функционирующий компьютер размером с кредитную карту, оснащённый микроконтроллером ESP32-C3, дисплеем ePaper и модулем NFC.Устройство поддерживает Wi-Fi и Bluetooth, имеет акселерометр и  толщину всего 1 мм.Текущий прототип включает перезаряжаемую литий-полимерную батарею ёмкостью 30 мАч и предназначен для хранения QR-кодов, NFC-ключей, билетов и посадочных талонов. https://github.com/krauseler/muxcard https://github.com/krauseler/muxcard================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
