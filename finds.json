@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4665",
+    "channel": "ai_newz",
+    "text": "Вышел Opus 5Модель обгоняет Fable 5 сразу на нескольких бенчмарках (5.1 уже не за горами видно). Уже доступна подписчикам и по API, цена остаётся прежней.   https://www.anthropic.com/news/claude-opus-5 Блогпост https://t.me/ai_newz @ai_newz",
+    "link": "https://www.anthropic.com/news/claude-opus-5",
+    "tg_link": "https://t.me/ai_newz/4665",
+    "category": "ИИ",
+    "is_free": true,
+    "found_at": "2026-07-24T18:10:39.139844+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5812",
+    "channel": "open_source_friend",
+    "text": "awesome-certificatesЭто тщательно подобранный список из более чем 200 бесплатных курсов с сертификатами в областях ИТ, компьютерных наук, дизайна и бизнеса.Репозиторий предлагает более 20 000 часов учебных материалов, охватывающих различные темы и уровни сложности.Курсы включают в себя как вводные, так и продвинутые программы, позволяя пользователям выбрать наиболее подходящий для себя вариант обучения. https://github.com/PanXProject/awesome-certificates https://github.com/PanXProject/awesome-certificates================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/PanXProject/awesome-certificates",
+    "tg_link": "https://t.me/open_source_friend/5812",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-24T18:10:38.015496+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5811",
+    "channel": "open_source_friend",
+    "text": "anotherЭто настольное приложение для зеркалирования и управления Android-устройствами через USB.Программа позволяет отображать экран Android-устройства на компьютере и управлять им с помощью мыши и клавиатуры.Разработана с использованием Tauri, React и Rust, что обеспечивает высокую производительность и кроссплатформенность.Lang: TypeScript https://github.com/Zfinix/another https://github.com/Zfinix/another================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Zfinix/another",
+    "tg_link": "https://t.me/open_source_friend/5811",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-24T18:10:38.015463+00:00"
+  },
+  {
     "post_id": "open_source_friend/5810",
     "channel": "open_source_friend",
     "text": "awesome-android-rootЭто сообщественно-курируемый ресурс, предоставляющий обширный каталог приложений, модулей и руководств для пользователей Android, желающих получить полный контроль над своими устройствами через рутинг и глубокую кастомизацию.Содержит более 400 проверенных инструментов, включая приложения для блокировки рекламы, повышения производительности, обеспечения конфиденциальности и автоматизации, а также мощные модули Magisk и LSPosed.Предоставляет подробные пошаговые руководства по рутингу различных устройств и использованию кастомных прошивок, что делает его ценным ресурсом как для начинающих, так и для опытных пользователей.Lang: Python https://github.com/awesome-android-root/awesome-android-root https://github.com/awesome-android-root/awesome-android-root================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
