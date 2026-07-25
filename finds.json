@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5815",
+    "channel": "open_source_friend",
+    "text": "material-makerMaterial Maker — это инструмент для создания процедурных текстур и рисования 3D-моделей, основанный на игровом движке Godot.Он предоставляет интерфейс на основе узловой системы GraphEdit, где текстуры и кисти описываются как взаимосвязанные узлы.Программа поддерживает экспорт созданных материалов в различные форматы, совместимые с популярными игровыми движками и 3D-редакторами.Lang: GDScript https://github.com/RodZill4/material-maker https://github.com/RodZill4/material-maker================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/RodZill4/material-maker",
+    "tg_link": "https://t.me/open_source_friend/5815",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-25T17:50:27.589271+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5814",
+    "channel": "open_source_friend",
+    "text": "ConvertXЭто саморазмещаемый онлайн-конвертер файлов, поддерживающий более 1000 форматов, включая документы, изображения, видео, аудио, электронные книги и 3D-модели.Программа предоставляет веб-интерфейс для загрузки файлов, выбора целевого формата и последующей загрузки результатов, а также поддерживает пакетную обработку нескольких файлов одновременно.ConvertX поддерживает многопользовательские аккаунты с аутентификацией на основе JWT и возможность защиты паролем.Приложение построено с использованием TypeScript, Bun и фреймворка Elysia, а также интегрирует более 20 специализированных инструментов, таких как FFmpeg, ImageMagick, LibreOffice и Pandoc, для обеспечения широких возможностей конвертации.Lang: TypeScript https://github.com/C4illin/ConvertX https://github.com/C4illin/ConvertX================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/C4illin/ConvertX",
+    "tg_link": "https://t.me/open_source_friend/5814",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-25T17:50:27.589217+00:00"
+  },
+  {
     "post_id": "open_source_friend/5813",
     "channel": "open_source_friend",
     "text": "model-traderЭто фреймворк для создания алгоритмических торговых ботов на основе записанных размышлений реальных трейдеров.Он позволяет преобразовывать контент трейдера в исполняемый скринер и симулятор торговли.Фреймворк анализирует мышление трейдера и автоматизирует процесс принятия решений в торговле.Lang: Python https://github.com/tonbistudio/model-trader https://github.com/tonbistudio/model-trader",
