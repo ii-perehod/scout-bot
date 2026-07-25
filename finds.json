@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5813",
+    "channel": "open_source_friend",
+    "text": "model-traderЭто фреймворк для создания алгоритмических торговых ботов на основе записанных размышлений реальных трейдеров.Он позволяет преобразовывать контент трейдера в исполняемый скринер и симулятор торговли.Фреймворк анализирует мышление трейдера и автоматизирует процесс принятия решений в торговле.Lang: Python https://github.com/tonbistudio/model-trader https://github.com/tonbistudio/model-trader",
+    "link": "https://github.com/tonbistudio/model-trader",
+    "tg_link": "https://t.me/open_source_friend/5813",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-25T07:09:28.297272+00:00"
+  },
+  {
     "post_id": "ai_newz/4665",
     "channel": "ai_newz",
     "text": "Вышел Opus 5Модель обгоняет Fable 5 сразу на нескольких бенчмарках (5.1 уже не за горами видно). Уже доступна подписчикам и по API, цена остаётся прежней.   https://www.anthropic.com/news/claude-opus-5 Блогпост https://t.me/ai_newz @ai_newz",
