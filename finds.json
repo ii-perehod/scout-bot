@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5818",
+    "channel": "open_source_friend",
+    "text": "batearЭто ультра-дешёвый автономный акустический детектор дронов, использующий микрофон для защиты воздушного пространства.Программа выполняет обработку звука на устройстве (edge computing), что позволяет обнаруживать дроны без необходимости подключения к сети.Благодаря низкой стоимости и автономности, batear подходит для использования в удалённых или ограниченных ресурсами местах.Lang: C https://github.com/batear-io/batear https://github.com/batear-io/batear================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/batear-io/batear",
+    "tg_link": "https://t.me/open_source_friend/5818",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-07-26T17:53:46.553311+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5817",
+    "channel": "open_source_friend",
+    "text": "trippyTrippy — это инструмент диагностики сети, предназначенный для анализа и визуализации сетевых маршрутов.Он предоставляет детальную информацию о каждом узле на пути к целевому хосту, включая задержки и потери пакетов.Программа поддерживает различные протоколы, такие как ICMP, UDP и TCP, для гибкости в тестировании.Trippy также предлагает графическое представление данных, что упрощает интерпретацию результатов.Lang: Rust https://github.com/fujiapple852/trippy https://github.com/fujiapple852/trippy================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/fujiapple852/trippy",
+    "tg_link": "https://t.me/open_source_friend/5817",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-26T17:53:46.553264+00:00"
+  },
+  {
     "post_id": "ai_newz/4666",
     "channel": "ai_newz",
     "text": "Ищу Founding GTM Lead к нам в GenPeach AI https://jobs.ashbyhq.com/genpeach/02ee06b2-8a64-4b25-b584-81aeb78ee4d5 .Через пару лет (да, куда уж - это будет гораздо раньше!) каждый рекламный ролик и любой контент с человеком в кадре будет генерить нейросеть. Мы уже  https://t.me/ai_newz/4398 строим модели, которые заставляют людей переспрашивать \"это точно не съёмка?\". Нужен человек, который построит GTM вокруг этого с нуля.Мы: маленькая, очень сильная команда - экс-Meta, операторы с exit на $100M, ангелы и топ-менеджеры из DeepMind, OpenAI, Top-Tier VC за спиной. Пока стелс - подробнее расскажу на звонке.Роль: пайплайн с нуля, сам закрываешь сделки, сам пишешь плейбук - без маркетинга и SDR за спиной. В связке со мной и CPO.Твой профиль:— full-cycle sales на серьёзный чек, соло— строишь CRM и воронку сам(а), понимаешь в pipeline metrics— AI-native — Claude/Codex в рабочем процессе, чтобы строить GTM engine, а не для галочки— сам(а) себе задаешь повестку, лидируешь процесс, продаёшь то, ч",
