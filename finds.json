@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "AI_for_product_owner/1715",
+    "channel": "AI_for_product_owner",
+    "text": "🎥 Ракурсы и положение камеры: как управлять виртуальным объективом в нейрофото?📸 Часто именно точка съемки отделяет обычную генерацию от кадра, который выглядит как работа профессионального оператора. Одно и то же лицо и сюжет могут восприниматься естественно, динамично, масштабно или кинематографично – для этого достаточно заменить только блок с ракурсом.В «Базе промптов» мы собрали для вас 10 готовых блоков расположения камеры для нейрофото. Их можно добавлять практически в любую графику и использовать в любом вашем промпте, чтобы быстро менять восприятие кадра, не переписывая всю сцену заново. Правильно подобранный угол обзора способен полностью преобразить даже простой портрет, заметно повышая визуальную стоимость и глубину графики.✨ Все, что вам нужно сделать, – вставить один из готовых пресетов в любой ваш промпт для нейрофото. Он автоматически задаст правильный угол обзора и масштаб кадра, сделав визуал более дорогим, объемным и выразительным.Базовый шаблон промпта и 10 текстовы",
+    "link": "https://t.me/Aiforproduct_bot?start=dl-176673617894cf772dc042",
+    "tg_link": "https://t.me/AI_for_product_owner/1715",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-07-27T18:17:23.537121+00:00"
+  },
+  {
+    "post_id": "ai_newz/4668",
+    "channel": "ai_newz",
+    "text": "Moonshot выпустили веса Kimi K3Это самая большая открытая модель, причём с заметным отрывом — 2.8T параметров, при 104B активных. Теперь её может запустить любой желающий владелец DGX B300 или схожей системы с 2 терабайтами памяти. Ну а простые смертные получат API быстрее чем 20 токенов в секунду плюс неплохой пейпер. https://huggingface.co/moonshotai/Kimi-K3 Веса https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf Пейпер https://t.me/ai_newz @ai_newz",
+    "link": "https://huggingface.co/moonshotai/Kimi-K3",
+    "tg_link": "https://t.me/ai_newz/4668",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-27T18:17:21.810631+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5821",
+    "channel": "open_source_friend",
+    "text": "linux-cameraПростое и аккуратное приложение камеры для Linux, предоставляющее функции живого просмотра, цифрового зума и кадрирования.Позволяет делать фотографии в формате JPG и записывать видео в формате MP4.Имеет настройки изображения и поддерживает ночной режим для улучшения качества съемки при низкой освещенности.Lang: Python https://github.com/HelpFreedom/linux-camera https://github.com/HelpFreedom/linux-camera================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/HelpFreedom/linux-camera",
+    "tg_link": "https://t.me/open_source_friend/5821",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-27T18:17:20.670320+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5820",
+    "channel": "open_source_friend",
+    "text": "kuduKudu — это бесплатный кроссплатформенный инструмент для очистки и сканирования систем на Windows, Mac и Linux. Программа поддерживает множество языков и регулярно обновляется для обеспечения безопасности и эффективности.Lang: TypeScript https://github.com/AdventDevInc/kudu https://github.com/AdventDevInc/kudu================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/AdventDevInc/kudu",
+    "tg_link": "https://t.me/open_source_friend/5820",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-27T18:17:20.670284+00:00"
+  },
+  {
+    "post_id": "maya_pro/1340",
+    "channel": "maya_pro",
+    "text": "Вебинар: AI агенты для нарезки видео на Reels/shorts/другое, с автовыкладкой + как делать автовыкладку00:00:00 Старт и план вебинара00:01:59 Hyperion: что это00:05:06 Установка в Cursor/Codex00:07:52 Whisper и сканирование ПК00:11:16 FFmpeg и локальный монтаж00:14:48 UI и режимы нарезки00:20:30 Передача видео директору00:23:54 Схема субагентов00:27:20 Транскрипт и отбор моментов00:31:28 Хайлайты без обрыва мысли00:33:33 Субтитры, мета, Fixic00:38:14 Рендер и обложки01:01:39 Результаты: клипы и обложки01:07:37 Публикация на 4 площадки01:11:12 Playwright и автологин01:21:08 Запись сценария публикации01:31:10 Тест выкладки в Нельзяграм01:35:35 Боевая публикация01:41:57 Итог: Hyperion + Нельзяграм01:44:06 Кастомные режимы и Q&A📎 ГИПЕРИОН  https://github.com/Horosheff/hyperion-reels https://github.com/Horosheff/hyperion-reels✅  https://kv-ai.ru/obuchenie-po-make  Обучение автоматизациям с помощью Make и субагентов",
+    "link": "https://github.com/Horosheff/hyperion-reels",
+    "tg_link": "https://t.me/maya_pro/1340",
+    "category": "Автоматизация",
+    "is_free": true,
+    "found_at": "2026-07-27T18:17:19.625067+00:00"
+  },
+  {
     "post_id": "ai_newz/4667",
     "channel": "ai_newz",
     "text": "Нейродайджест за неделю (#124)LLM-  https://t.me/ai_newz/4665 Opus 5 — Новая модель Anthropic обгоняет Fable 5 на нескольких бенчмарках. Доступна по API за $5/$25 — вдвое дешевле Fable.-  https://t.me/ai_newz/4661 Gemini 3.6 Flash — Минорный апдейт от Google: чуть дешевле ($7.5 вместо $9 за выход), а Flash Lite наоборот подорожал вдвое по стоимости за таск.Генеративные модели-  https://t.me/ai_newz/4664 FLUX 3 — Black Forest Labs наконец анонсировали видеомодель. Одна модель на картинки, видео и аудио.-  https://t.me/ai_newz/4663 Clean Plate для LTX-2.3 — Lightricks выкатили LoRA, которая вычищает людей и транспорт из видео.Прочее-  https://t.me/ai_newz/4666 GTM Lead в GenPeach AI — Ищу founding sales-лида для AI-видеогенерации.>  https://t.me/ai_newz/4660 Читать дайджест #123#дайджест https://t.me/+X5srjjqJXc84ZDJi @ai_newz",
