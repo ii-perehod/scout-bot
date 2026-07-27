@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "ai_newz/4667",
+    "channel": "ai_newz",
+    "text": "Нейродайджест за неделю (#124)LLM-  https://t.me/ai_newz/4665 Opus 5 — Новая модель Anthropic обгоняет Fable 5 на нескольких бенчмарках. Доступна по API за $5/$25 — вдвое дешевле Fable.-  https://t.me/ai_newz/4661 Gemini 3.6 Flash — Минорный апдейт от Google: чуть дешевле ($7.5 вместо $9 за выход), а Flash Lite наоборот подорожал вдвое по стоимости за таск.Генеративные модели-  https://t.me/ai_newz/4664 FLUX 3 — Black Forest Labs наконец анонсировали видеомодель. Одна модель на картинки, видео и аудио.-  https://t.me/ai_newz/4663 Clean Plate для LTX-2.3 — Lightricks выкатили LoRA, которая вычищает людей и транспорт из видео.Прочее-  https://t.me/ai_newz/4666 GTM Lead в GenPeach AI — Ищу founding sales-лида для AI-видеогенерации.>  https://t.me/ai_newz/4660 Читать дайджест #123#дайджест https://t.me/+X5srjjqJXc84ZDJi @ai_newz",
+    "link": "https://t.me/ai_newz/4665",
+    "tg_link": "https://t.me/ai_newz/4667",
+    "category": "ИИ",
+    "is_free": false,
+    "found_at": "2026-07-27T08:21:29.741539+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5819",
+    "channel": "open_source_friend",
+    "text": "playtranslateЭто приложение для Android, предназначенное для перевода текста в реальном времени во время игры, что делает его полезным как для изучающих языки, так и для обычных геймеров.Оно позволяет мгновенно переводить текст, отображаемый в играх, без необходимости прерывать игровой процесс.Приложение поддерживает широкий спектр языков и интегрируется с различными игровыми платформами.Lang: Kotlin https://github.com/dominostars/playtranslate https://github.com/dominostars/playtranslate================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/dominostars/playtranslate",
+    "tg_link": "https://t.me/open_source_friend/5819",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-27T08:21:28.845309+00:00"
+  },
+  {
     "post_id": "open_source_friend/5818",
     "channel": "open_source_friend",
     "text": "batearЭто ультра-дешёвый автономный акустический детектор дронов, использующий микрофон для защиты воздушного пространства.Программа выполняет обработку звука на устройстве (edge computing), что позволяет обнаруживать дроны без необходимости подключения к сети.Благодаря низкой стоимости и автономности, batear подходит для использования в удалённых или ограниченных ресурсами местах.Lang: C https://github.com/batear-io/batear https://github.com/batear-io/batear================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
