@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "AI_for_product_owner/1726",
+    "channel": "AI_for_product_owner",
+    "text": "🚀 Революция в Telegram: мессенджер официально превращается в полноценную блог-платформу!Telegram выкатил масштабное обновление текстового редактора – и это самое крупное изменение формата постов за последние годы. Для тех, кто постоянно делает контент, правила игры кардинально меняются. Смахивайте пыль со своих лонгридов! 😉Раньше мы были зажаты в жесткие рамки: короткий лимит по символам, картинки шли дружным табуном сверху поста, никакого форматирования, кроме курсива, болда и крупного заголовка. Теперь же Telegram – это настоящая взрослая редакция.🛠 Что изменилось: разбираем супер-фишки нового редактора✅ Посты больше не ограничены 4 096 знаками! 💥Новый лимит – более 32 000 символов. Это полноценная огромная статья, гайд или лонгрид, который раньше приходилось препарировать на части или высылать на сторонние сайты. Теперь у авторов только одна головная боль – чтобы читателю было интересно и он не стух на середине текстового полотна. Зато если уж вы его зацепили, то он никуда не уходит",
+    "link": "https://t.me/AI_for_product_owner/1726",
+    "tg_link": "https://t.me/AI_for_product_owner/1726",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-07-29T18:01:06.414174+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5827",
+    "channel": "open_source_friend",
+    "text": "fast-plate-ocrЭто легковесный и быстрый фреймворк для распознавания текста на автомобильных номерных знаках.Он поддерживает бэкенды Keras 3, включая TensorFlow, JAX и PyTorch, и обеспечивает эффективное выполнение с помощью ONNX Runtime.Фреймворк предоставляет удобный интерфейс командной строки для обучения и валидации моделей OCR. Lang: Python https://github.com/ankandrew/fast-plate-ocr https://github.com/ankandrew/fast-plate-ocr================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/ankandrew/fast-plate-ocr",
+    "tg_link": "https://t.me/open_source_friend/5827",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-29T18:01:03.174733+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5826",
+    "channel": "open_source_friend",
+    "text": "VCamdroidЭто приложение позволяет использовать Android-смартфон в качестве виртуальной веб-камеры для Windows-компьютера.Программа передает видеопоток с камеры телефона на ПК, обеспечивая высокое качество изображения и низкую задержку.Поддерживается подключение через USB и Wi-Fi, что обеспечивает гибкость в использовании.Приложение совместимо с различными программами для видеоконференций и стриминга на Windows.Lang: C++ https://github.com/darusc/VCamdroid https://github.com/darusc/VCamdroid================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/darusc/VCamdroid",
+    "tg_link": "https://t.me/open_source_friend/5826",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-07-29T18:01:03.174679+00:00"
+  },
+  {
+    "post_id": "maya_pro/1343",
+    "channel": "maya_pro",
+    "text": "Зверюгу завезли в Cursor AI  - пошёл тестировать. Посмотрим обоснован ли хайп🥳глава Антропик в бешенстве и выдаёт такую фразу в своём обращение : строят модели мощнее американских и получают перманентное военное превосходство или инструменты тотальной репрессии.",
+    "link": "https://t.me/maya_pro/1343",
+    "tg_link": "https://t.me/maya_pro/1343",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-07-29T18:01:02.021574+00:00"
+  },
+  {
     "post_id": "open_source_friend/5825",
     "channel": "open_source_friend",
     "text": "iprangesЭто инструмент для получения и обновления списков IP-адресов различных сервисов и компаний, таких как Google, Bing, Amazon, Microsoft, Oracle, GitHub, OpenAI и других.Он автоматически собирает и обновляет данные о диапазонах IP-адресов, предоставляя актуальную информацию для администраторов и разработчиков.Программа поддерживает ежедневные обновления, обеспечивая своевременное получение изменений в IP-диапазонах.Lang: Shell https://github.com/lord-alfred/ipranges https://github.com/lord-alfred/ipranges================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
