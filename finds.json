@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "ai_newz/4672",
+    "channel": "ai_newz",
+    "text": "Модель Astra от OpenAI решила десять сложных открытых математических задачБольшинство из этих задач оставались недоказанными в течении десятков лет. Новая мультиагентная модель Astra смогла доказать их и формализировать доказательства при помощи Lean. Эту модель на этой неделе Сэм Альтман представил в Вашингтоне, это будет первая модель которая пройдёт через новый процесс государственного одобрения на релиз.Самое впечатляющее — на решение всех десяти задач суммарно ушло токенов меньше чем на $2000, по расценкам Sol. OpenAI пытались решить и другие сложные задачи, пока что безуспешно, но потенциал масштабирования здесь огромный. https://openai.com/index/ten-advances-in-mathematics/ Блогпост https://github.com/openai/ten-proofs Lean код доказательств https://t.me/ai_newz @ai_newz",
+    "link": "https://openai.com/index/ten-advances-in-mathematics/",
+    "tg_link": "https://t.me/ai_newz/4672",
+    "category": "Open Source",
+    "is_free": false,
+    "found_at": "2026-08-01T17:52:22.521353+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5837",
+    "channel": "open_source_friend",
+    "text": "cockpitCockpit — это веб-интерфейс для управления серверами, предоставляющий удобный и интуитивно понятный способ мониторинга и настройки систем.Он позволяет просматривать журналы системы, управлять пользователями, настраивать сеть и брандмауэр, а также контролировать службы systemd.Интерфейс поддерживает управление несколькими серверами одновременно, обеспечивая централизованный контроль.Cockpit интегрируется с существующими инструментами и не требует дополнительной настройки для работы с ними.Lang: JavaScript https://github.com/cockpit-project/cockpit https://github.com/cockpit-project/cockpit================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/cockpit-project/cockpit",
+    "tg_link": "https://t.me/open_source_friend/5837",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-01T17:52:21.416848+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5836",
+    "channel": "open_source_friend",
+    "text": "screenshot-studioЭто бесплатный браузерный редактор для создания профессиональных скриншотов и визуалов без необходимости регистрации и без водяных знаков.Ключевые функции включают более 100 фонов (градиенты, сплошные цвета, изображения), макеты браузеров Safari и Chrome с реалистичными панелями инструментов, рамки устройств, 3D-эффекты, анимации и экспорт видео в форматах MP4, WebM и GIF.Дополнительно поддерживаются инструменты разметки (стрелки, фигуры, размытие областей, текстовые наложения), импорт твитов и создание изображений с фрагментами кода.Lang: TypeScript https://github.com/KartikLabhshetwar/screenshot-studio https://github.com/KartikLabhshetwar/screenshot-studio================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/KartikLabhshetwar/screenshot-studio",
+    "tg_link": "https://t.me/open_source_friend/5836",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-01T17:52:21.416817+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5835",
+    "channel": "open_source_friend",
+    "text": "Открыт приём заявок на  https://scale.yandex.cloud/?utm_source=tg&amp;utm_medium=seeds&amp;utm_campaign=t:post;gl:lgen;a:scale2026_open_source_friend_photopost Yandex Scale 2026Yandex Cloud давно вырос из простого облака — это уже платформа, на которой можно собирать IT-продукты хоть в облаке, хоть on-premises, хоть в гибридной инфраструктуре, одним и тем же набором инструментов.24 сентября — четыре офлайн-трека (AI, Hybrid Infrastructure & DevOps, Data, Security): продуктовые анонсы, воркшопы по ИИ и живое общение с экспертами сообщества.А в онлайне — отдельный трек DeepTech: новости про SourceCraft, реальные воркшопы, в которых можно принять участие и возможность влиять на ход эфира. Кроме того — виртуальный стенд VibeCraft, где можно вживую попробовать вайбкодинг. Плюс отдельная онлайн-студия с интерактивной программой где можно:🔴 оценить юмор на Лиге IT-шуток;🔴 задать вопросы СТО Yandex Cloud;🔴 послушать известных научпоп-спикеров и задать им свои вопросы;Зрители голосуют и в реаль",
+    "link": "https://scale.yandex.cloud/?utm_source=tg&amp;utm_medium=seeds&amp;utm_campaign=t:post;gl:lgen;a:scale2026_open_source_friend_photopost",
+    "tg_link": "https://t.me/open_source_friend/5835",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-08-01T17:52:21.416760+00:00"
+  },
+  {
     "post_id": "open_source_friend/5834",
     "channel": "open_source_friend",
     "text": "claude-bridgeЭто инструмент, позволяющий зеркалировать и управлять сессиями Claude Code со смартфона без использования облачных сервисов или сторонних серверов.Он обеспечивает прямую связь между телефоном и компьютером через локальную сеть или одноранговый туннель, используя протокол iroh.Программа поддерживает управление сессиями в реальном времени, включая просмотр и редактирование кода, а также выполнение команд.Для обеспечения безопасности и конфиденциальности все данные передаются напрямую между устройствами.Lang: Java https://github.com/HelpFreedom/claude-bridge https://github.com/HelpFreedom/claude-bridge================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
