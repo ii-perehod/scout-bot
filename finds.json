@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5840",
+    "channel": "open_source_friend",
+    "text": "authpassAuthPass — это кроссплатформенный менеджер паролей, совместимый с форматами Keepass 2.x (KDBX 3 и KDBX 4), предназначенный для безопасного хранения и управления паролями на различных устройствах.Приложение поддерживает работу на Android, iOS, Windows, Linux, macOS и в веб-браузерах, обеспечивая синхронизацию данных между платформами.AuthPass разработан на основе Flutter, что обеспечивает единый пользовательский интерфейс и производительность на всех поддерживаемых системах.Lang: Dart https://github.com/authpass/authpass https://github.com/authpass/authpass================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/authpass/authpass",
+    "tg_link": "https://t.me/open_source_friend/5840",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-02T17:53:04.488250+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5839",
+    "channel": "open_source_friend",
+    "text": "skalesSkales — это локальный AI-агент для настольных компьютеров, работающий на Windows, macOS и Linux, предназначенный для автономного выполнения различных задач на вашем устройстве.Он поддерживает более 15 AI-провайдеров, включая OpenAI, Anthropic, Google и других, а также интегрируется с локальными моделями через Ollama и LM Studio.Среди ключевых функций Skales — автономное кодирование, создание изображений и видео, управление рабочим столом, организация многопользовательских команд и автоматизация повседневных задач.Программа не требует установки Docker или использования терминала, обеспечивая простую установку и минимальное потребление оперативной памяти.Skales ориентирован на конфиденциальность: все данные хранятся локально, не требуется регистрация или учетная запись, а API-ключи сохраняются в зашифрованном виде.Lang: TypeScript https://github.com/skalesapp/skales https://github.com/skalesapp/skales================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open",
+    "link": "https://github.com/skalesapp/skales",
+    "tg_link": "https://t.me/open_source_friend/5839",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-02T17:53:04.488186+00:00"
+  },
+  {
     "post_id": "open_source_friend/5838",
     "channel": "open_source_friend",
     "text": "NomadNetЭто текстовый инструмент для коммуникации и обмена информацией, работающий без необходимости подключения к интернету или использования центральной инфраструктуры.Он поддерживает зашифрованные сообщения, просмотр страниц и обмен файлами через различные каналы связи, включая LoRa, пакетное радио, Wi-Fi и интернет.NomadNet построен на основе Reticulum и LXMF, обеспечивая криптографическую сетевую функциональность и маршрутизацию сообщений между узлами.Программа предназначена для создания частных и устойчивых коммуникационных платформ, находящихся под полным контролем пользователей, без регистрации, соглашений или передачи данных третьим сторонам.Lang: Python https://github.com/markqvist/NomadNet https://github.com/markqvist/NomadNet================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
