@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "ai_newz/4673",
+    "channel": "ai_newz",
+    "text": "Нейродайджест за неделю (#125)LLM-  https://t.me/ai_newz/4668 Веса Kimi K3 — Moonshot выложили веса крупнейшей открытой модели на 2.8T параметров (104B активных). Для локального запуска потребуется система с 2 ТБ памяти.-  https://t.me/ai_newz/4669 Снижение цен на GPT 5.6 — OpenAI уронили цены: Luna подешевела в 5 раз ($0.2/$1.2), Terra — на 20%. Для флагмана Sol запустили Fast-режим (в 2.5 раза быстрее за 2x прайс).-  https://t.me/ai_newz/4670 DeepSeek V4 Flash — Свежая версия 0731 в API обходит GLM 5.2 и совместима с Codex, оставаясь дешевле Luna и по токенам и в пересчете на таск. Релиз V4 Pro ждут в начале августа.-  https://t.me/ai_newz/4672 Astra от OpenAI — Новая мультиагентная модель доказала 10 открытых математических задач при помощи Lean, потратив менее $2000 на токены по расценкам Sol.Генеративные модели-  https://t.me/ai_newz/4671 Seedance 2.5 — Генератор видео от ByteDance научился делать ролики до 180 секунд, получил интеграцию с Blender и точечное редактирование, но ста",
+    "link": "https://t.me/ai_newz/4668",
+    "tg_link": "https://t.me/ai_newz/4673",
+    "category": "ИИ",
+    "is_free": false,
+    "found_at": "2026-08-03T08:20:17.229610+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5841",
+    "channel": "open_source_friend",
+    "text": "tracktorЭто система управления отслеживанием транспортных средств, предназначенная для мониторинга и управления автопарком.Она предоставляет функции отслеживания местоположения транспортных средств в реальном времени, управления маршрутами и анализа данных о поездках.Система поддерживает интеграцию с различными устройствами GPS и предлагает веб-интерфейс для удобного доступа к информации.Lang: Svelte https://github.com/javedh-dev/tracktor https://github.com/javedh-dev/tracktor================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/javedh-dev/tracktor",
+    "tg_link": "https://t.me/open_source_friend/5841",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-03T08:20:15.919690+00:00"
+  },
+  {
     "post_id": "open_source_friend/5840",
     "channel": "open_source_friend",
     "text": "authpassAuthPass — это кроссплатформенный менеджер паролей, совместимый с форматами Keepass 2.x (KDBX 3 и KDBX 4), предназначенный для безопасного хранения и управления паролями на различных устройствах.Приложение поддерживает работу на Android, iOS, Windows, Linux, macOS и в веб-браузерах, обеспечивая синхронизацию данных между платформами.AuthPass разработан на основе Flutter, что обеспечивает единый пользовательский интерфейс и производительность на всех поддерживаемых системах.Lang: Dart https://github.com/authpass/authpass https://github.com/authpass/authpass================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
