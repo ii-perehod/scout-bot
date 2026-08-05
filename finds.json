@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1745",
+    "channel": "AI_for_product_owner",
+    "text": "🔖 Промпт дня: крутые стикеры с эмоциями по вашему фотоКак совместить милые мультяшные стикеры, которые все просто обожают, с персонажем, похожим на вас? Очень просто, если знаешь секретный промпт! Сегодня делимся с вами этой волшебной формулой, так что скорее бегите в NanoBot и генерируйте собственный эксклюзивный эмозди стикерпак 👉  https://t.me/ainanobot_bot?start=post_stikerpak жмать сюдаФото сделано в Gpt image 2Промпт:## Основная концепцияВысококачественный набор 3D мультяшных стикеров с персонажем с референсного изображения.Сохранить точные черты лица, тон кожи, форму и цвет волос, а также общее сходство с фото-референсом.Рендер в милой пиксар-стилистике 3D мультфильма.## Внешний вид персонажаПерсонаж одет в красную толстовку (худи).Сохранять единую идентичность лица и причёску на всех панелях сетки.Соответствие референсу по: гендерной презентации, форме лица, форме и цвету глаз, причёске.## Эмоции и реакции (сетка)- Шок — рука у рта, текстовый пузырь «OMG!»- Злость — красная отм",
+    "link": "https://t.me/ainanobot_bot?start=post_stikerpak",
+    "tg_link": "https://t.me/AI_for_product_owner/1745",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-05T18:14:16.435738+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5850",
+    "channel": "open_source_friend",
+    "text": "browsrbrowsr — это удобный файловый менеджер для терминала, позволяющий просматривать содержимое локальных и удалённых файловых систем с помощью клавиатуры или мыши.Программа поддерживает работу с локальными директориями, а также с удалёнными хранилищами, такими как GitHub, SSH, AWS S3, Google Cloud Storage и Azure Blob Storage.browsr предоставляет функции просмотра файлов с подсветкой синтаксиса для кода, форматирования JSON, отображения изображений и преобразования данных в интерактивные таблицы. Lang: Python https://github.com/juftin/browsr https://github.com/juftin/browsr================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/juftin/browsr",
+    "tg_link": "https://t.me/open_source_friend/5850",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-05T18:14:13.577928+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5849",
+    "channel": "open_source_friend",
+    "text": "AirGuardAirGuard — это приложение, предназначенное для защиты пользователей от несанкционированного отслеживания с помощью устройств Apple AirTag и других аксессуаров, использующих сеть \"Find My\".Приложение автоматически сканирует окружающую среду на наличие неизвестных трекеров и уведомляет пользователя при их обнаружении.AirGuard поддерживает обнаружение различных типов трекеров, включая AirTag, Tile, Chipolo и других, обеспечивая всестороннюю защиту. Lang: Kotlin https://github.com/seemoo-lab/AirGuard https://github.com/seemoo-lab/AirGuard================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/seemoo-lab/AirGuard",
+    "tg_link": "https://t.me/open_source_friend/5849",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-05T18:14:13.577873+00:00"
+  },
+  {
     "post_id": "ai_newz/4674",
     "channel": "ai_newz",
     "text": "Lift4D — 4D-реконструкция динамических объектов по одному видеоФреймворк восстанавливает полную 360° геометрию, текстуры и нежёсткие деформации движущихся объектов по обычному видео с камеры, достраивая даже невидимые ракурсы.Зачем лично мне такая турбофича пока непонятно, но выглядит очень интересно, на Project Page можно самому покрутить руками. https://lift4d.github.io/ Project Page https://arxiv.org/abs/2606.23688 arXiv https://github.com/yehonathanlitman/Lift4D Код https://t.me/ai_newz @ai_newz",
