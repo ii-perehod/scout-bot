@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5861",
+    "channel": "open_source_friend",
+    "text": "FlopperZiroFlopperZiro — это открытый, самодельный и экономичный мультитул, вдохновленный Flipper Zero, предназначенный для энтузиастов электроники, исследователей и любителей для изучения аппаратных протоколов и беспроводной связи.Он построен на основе экосистемы Arduino и использует микроконтроллер STM32-L432KC, RF-передатчик FS1000A (433 МГц), RF-приемник RXB12 (433 МГц) и контроллер NFC/RFID PN532.Проект разработан в образовательных и экспериментальных целях и не предназначен для замены профессионального диагностического оборудования.Lang: C++ https://github.com/lraton/FlopperZiro https://github.com/lraton/FlopperZiro================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/lraton/FlopperZiro",
+    "tg_link": "https://t.me/open_source_friend/5861",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-08T17:20:19.826937+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5860",
+    "channel": "open_source_friend",
+    "text": "skill-forgeSkill Forge — это инструмент для создания, тестирования и публикации высококачественных навыков для Claude Code, соответствующих открытому стандарту Agent Skills.Он предоставляет функции для планирования, проектирования архитектуры, автоматической генерации кода, тестирования и эволюции навыков.Skill Forge поддерживает различные уровни сложности навыков (от 1 до 4) и интегрируется с существующими агентами и инструментами.Lang: Python https://github.com/AgriciDaniel/skill-forge https://github.com/AgriciDaniel/skill-forge================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/AgriciDaniel/skill-forge",
+    "tg_link": "https://t.me/open_source_friend/5860",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-08T17:20:19.826906+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5858",
+    "channel": "open_source_friend",
+    "text": "TrinotifyTrinotify — это интеллектуальный фильтр уведомлений и звонков для Android, не требующий root-прав.Приложение перехватывает все уведомления и входящие звонки, принимая решение о том, пропустить их со звуком, показать беззвучно или полностью заблокировать.Настройки позволяют индивидуально управлять поведением для каждого приложения или отправителя, а также использовать локальный классификатор, обучающийся на основе пользовательской разметки.Все функции работают офлайн, без необходимости подключения к сети.Lang: Kotlin https://github.com/HelpFreedom/Trinotify https://github.com/HelpFreedom/Trinotify================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/HelpFreedom/Trinotify",
+    "tg_link": "https://t.me/open_source_friend/5858",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-08T17:20:19.826853+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1747",
     "channel": "AI_for_product_owner",
     "text": "🤫 Секретные промпты для выхода вашей нейросети на новый уровень понимания задачи«Ты же ИИ-креатор, наверняка знаешь секретные промпты, с которыми нейросеть выдает суперский результат…»Тем временем я и мои «секретные промпты»… 👆",
