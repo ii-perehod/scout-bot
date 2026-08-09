@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5864",
+    "channel": "open_source_friend",
+    "text": "flipoffЭто бесплатное веб-приложение с открытым исходным кодом, эмулирующее механическое табло с откидными буквами, как в аэропортах и на вокзалах.Приложение работает в полноэкранном режиме в любом браузере, превращая телевизор или большой монитор в ретро-дисплей.Оно предлагает реалистичную анимацию с цветными переходами, аутентичные механические звуки и автоматически сменяющиеся вдохновляющие цитаты.Приложение полностью автономно, не требует подключения к интернету и не имеет внешних зависимостей.Lang: JavaScript https://github.com/magnum6actual/flipoff https://github.com/magnum6actual/flipoff================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/magnum6actual/flipoff",
+    "tg_link": "https://t.me/open_source_friend/5864",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-09T17:21:22.070601+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5863",
+    "channel": "open_source_friend",
+    "text": "awesome-quantum-softwareЭто тщательно подобранный список проектов с открытым исходным кодом в области квантового программного обеспечения.Он охватывает различные категории, включая полнофункциональные квантовые библиотеки, симуляторы, компиляторы, алгоритмы и инструменты для квантовой криптографии.Репозиторий регулярно обновляется и предоставляет ссылки на соответствующие проекты, что облегчает разработчикам и исследователям доступ к необходимым ресурсам. https://github.com/qosf/awesome-quantum-software https://github.com/qosf/awesome-quantum-software================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/qosf/awesome-quantum-software",
+    "tg_link": "https://t.me/open_source_friend/5863",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-09T17:21:22.070573+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5862",
+    "channel": "open_source_friend",
+    "text": "teleopЭто программное обеспечение, позволяющее использовать смартфон или VR-гарнитуру для удаленного управления роботизированной рукой с помощью технологии WebXR.Ключевые функции включают поддержку WebXR для точного отслеживания движений, совместимость с ROS 2 и различными платформами роботизированных рук, а также возможность работы с устройствами, поддерживающими WebXR API.Дополнительно, teleop предоставляет утилиты для интеграции с различными роботизированными системами и поддерживает разработку пользовательских интерфейсов для управления роботами.Lang: Python https://github.com/SpesRobotics/teleop https://github.com/SpesRobotics/teleop================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/SpesRobotics/teleop",
+    "tg_link": "https://t.me/open_source_friend/5862",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-09T17:21:22.070515+00:00"
+  },
+  {
     "post_id": "open_source_friend/5861",
     "channel": "open_source_friend",
     "text": "FlopperZiroFlopperZiro — это открытый, самодельный и экономичный мультитул, вдохновленный Flipper Zero, предназначенный для энтузиастов электроники, исследователей и любителей для изучения аппаратных протоколов и беспроводной связи.Он построен на основе экосистемы Arduino и использует микроконтроллер STM32-L432KC, RF-передатчик FS1000A (433 МГц), RF-приемник RXB12 (433 МГц) и контроллер NFC/RFID PN532.Проект разработан в образовательных и экспериментальных целях и не предназначен для замены профессионального диагностического оборудования.Lang: C++ https://github.com/lraton/FlopperZiro https://github.com/lraton/FlopperZiro================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
