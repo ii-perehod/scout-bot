@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "ai_newz/4676",
+    "channel": "ai_newz",
+    "text": "Meta выпустила Muse Glimmer и пообещала открыть веса Muse Spark 1.2Muse Glimmer это 30B мультимодальная модель, которая обходит по бенчам и Qwen 3.6 27B и Gemma 4 31B. Это первый заметный открытый LLM релиз от Meta с апреля 2025 года, ну а в такой весовой категории, модели компании не выпускались аж с Code Llama 34B в августе 2023.Архитектурно это dense модель с относительно большим perception encoder. Главный очевидный минус — длина контекста всего 131к, что меньше чем у конкурентов.Вместе с моделью выпустили официальные квантизации, так что модель влезает в 24 гигабайта VRAM. Вышла и официальная драфт модель, благодаря этому Muse Glimmer запускается на одной 5090 на скорости в 230 токенов в секунду. https://huggingface.co/meta-models/Muse-Glimmer-30B Веса модели https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF Официальные квантизации https://t.me/ai_newz @ai_newz",
+    "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+    "tg_link": "https://t.me/ai_newz/4676",
+    "category": "ИИ",
+    "is_free": true,
+    "found_at": "2026-08-10T17:42:38.207686+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5867",
+    "channel": "open_source_friend",
+    "text": "perfectPixelЭто инструмент для автоматического обнаружения и исправления искажений в пиксельных изображениях, созданных с помощью ИИ.Он автоматически определяет оптимальный размер сетки и выравнивает изображение по идеально ровным пикселям.Инструмент легко интегрируется в существующие рабочие процессы и поддерживает различные бэкенды для гибкости в установке.Lang: Python https://github.com/theamusing/perfectPixel https://github.com/theamusing/perfectPixel================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/theamusing/perfectPixel",
+    "tg_link": "https://t.me/open_source_friend/5867",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-10T17:42:36.843073+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5866",
+    "channel": "open_source_friend",
+    "text": "vigil-tuiЭто высокоточный терминальный монитор, отображающий в реальном времени потребляемую мощность, температуру, тактовые частоты и эффективность основных компонентов системы, таких как CPU, GPU, RAM и сеть.Программа напрямую считывает данные с аппаратных сенсоров (hwmon, RAPL, LibreHardwareMonitor, NVML) и обновляет информацию в реальном времени без необходимости использования браузера или фоновых сервисов.vigil-tui работает из командной строки, обеспечивая удобный доступ к детальной информации о состоянии системы без лишних зависимостей.Lang: Python https://github.com/GIN-SYSTEMS/vigil-tui https://github.com/GIN-SYSTEMS/vigil-tui================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/GIN-SYSTEMS/vigil-tui",
+    "tg_link": "https://t.me/open_source_friend/5866",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-10T17:42:36.843038+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5865",
+    "channel": "open_source_friend",
+    "text": "homeboxHomebox — это система инвентаризации и организации, предназначенная для домашних пользователей, позволяющая каталогизировать и управлять личными вещами через веб-интерфейс.Ключевые функции включают организацию предметов по категориям, местоположениям и тегам, мощный поиск, загрузку изображений, отслеживание документов и гарантий, а также учет покупок и графиков обслуживания.Программа написана на языке Go, что обеспечивает высокую скорость работы и низкое потребление ресурсов, с использованием SQLite и встроенного веб-интерфейса для упрощения развертывания и резервного копирования.Lang: Go https://github.com/sysadminsmedia/homebox https://github.com/sysadminsmedia/homebox================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/sysadminsmedia/homebox",
+    "tg_link": "https://t.me/open_source_friend/5865",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-10T17:42:36.842982+00:00"
+  },
+  {
     "post_id": "open_source_friend/5864",
     "channel": "open_source_friend",
     "text": "flipoffЭто бесплатное веб-приложение с открытым исходным кодом, эмулирующее механическое табло с откидными буквами, как в аэропортах и на вокзалах.Приложение работает в полноэкранном режиме в любом браузере, превращая телевизор или большой монитор в ретро-дисплей.Оно предлагает реалистичную анимацию с цветными переходами, аутентичные механические звуки и автоматически сменяющиеся вдохновляющие цитаты.Приложение полностью автономно, не требует подключения к интернету и не имеет внешних зависимостей.Lang: JavaScript https://github.com/magnum6actual/flipoff https://github.com/magnum6actual/flipoff================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
