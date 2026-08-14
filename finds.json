@@ -1,5 +1,75 @@
 [
   {
+    "post_id": "AI_for_product_owner/1764",
+    "channel": "AI_for_product_owner",
+    "text": "Когда написал нейросети «Сходство с референсом 100%»Если серьезно, то это частая история – ИИ все равно искажает черты лица, старит и всячески издевается над исходником. На следующей неделе опубликуем материал, как еще можно попытаться укротить капризную нейросеть и добиться от нее схожести при генерации по фото. Следите за обновлениями!А пока всем хороших выходных от Дженнифер и Игги 😜",
+    "link": "https://t.me/AI_for_product_owner/1764",
+    "tg_link": "https://t.me/AI_for_product_owner/1764",
+    "category": "ИИ",
+    "is_free": true,
+    "found_at": "2026-08-14T17:43:53.349766+00:00"
+  },
+  {
+    "post_id": "ai_newz/4687",
+    "channel": "ai_newz",
+    "text": "Qwen 3.8 27B релизнулсяНа этой неделе у любителей локальных моделей праздник. Сначала Muse Glimmer, сейчас Qwen 3.8 27B, плюс релизы моделей побольше. https://huggingface.co/collections/Qwen/qwen38 Веса https://t.me/ai_newz @ai_newz",
+    "link": "https://huggingface.co/collections/Qwen/qwen38",
+    "tg_link": "https://t.me/ai_newz/4687",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-08-14T17:43:51.639791+00:00"
+  },
+  {
+    "post_id": "ai_newz/4686",
+    "channel": "ai_newz",
+    "text": "SpaceX завершили поглощение CursorАкционеры Cursor получили $60 миллиардов акциями SpaceX.Как думаете, во что Маск переименует Cursor, если XCode и Codex уже заняты? https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz",
+    "tg_link": "https://t.me/ai_newz/4686",
+    "category": "Другое",
+    "is_free": false,
+    "found_at": "2026-08-14T17:43:51.639749+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5883",
+    "channel": "open_source_friend",
+    "text": "LAN-OrangutanLAN-Orangutan — это легковесный инструмент для обнаружения устройств в локальной сети, предназначенный для энтузиастов домашних серверов с поддержкой Tailscale.Он автоматически сканирует сети с помощью nmap, обнаруживает устройства, позволяет присваивать им метки, группировать и добавлять заметки через современный веб-интерфейс или командную строку.Программа поддерживает несколько сетей, интеграцию с Tailscale для автоматического обнаружения пиров, а также предоставляет возможность отслеживать прогресс сканирования в реальном времени с возможностью отмены.LAN-Orangutan кроссплатформенна (Linux, macOS, Windows), не требует зависимостей и поставляется в виде единственного бинарного файла.Для обеспечения безопасности доступ к веб-интерфейсу защищен паролем, который устанавливается при первом запуске.Lang: Go https://github.com/291-Group/LAN-Orangutan https://github.com/291-Group/LAN-Orangutan================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_",
+    "link": "https://github.com/291-Group/LAN-Orangutan",
+    "tg_link": "https://t.me/open_source_friend/5883",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-14T17:43:50.632027+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5882",
+    "channel": "open_source_friend",
+    "text": "SearchPhoneЭто инструмент OSINT для поиска информации, связанной с телефонными номерами, с использованием нескольких API.Он выполняет валидацию и форматирование номеров, осуществляет поиск в Google, DuckDuckGo, GitHub и Reddit, а также предоставляет данные об операторе и местоположении через Numverify API.Дополнительно, он проверяет, был ли номер скомпрометирован вредоносным ПО, используя Hudson Rock Cavalier API, и автоматически генерирует отчёты в формате JSON и PDF.Lang: Python https://github.com/HackUnderway/SearchPhone https://github.com/HackUnderway/SearchPhone================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/HackUnderway/SearchPhone",
+    "tg_link": "https://t.me/open_source_friend/5882",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-14T17:43:50.631992+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5881",
+    "channel": "open_source_friend",
+    "text": "🎮 Хотите в геймдев, кино или анимацию, но портфолио пока не дотягивает до студийных требований?Вакансии в CG стали жёстче: работодателям нужны не «знаю Blender», а специалисты, понимающие полный 3D-пайплайн и работающие по индустриальным стандартам.После программы  https://telegram.me/HDScg_bot/?start=start_3d_pro_27516 \"3Д-художник\" от Home Digital School у вас будет:✅ 6 качественных проектов в портфолио, которые можно показывать работодателям и заказчикам✅ Опыт создания персонажей, окружения и hard-surface моделей✅ Понимание полного пайплайна — от первых форм до финального рендера✅ Навыки работы в Blender, ZBrush, Substance Painter, Marmoset, Unity и Unreal Engine✅ Карьерный модуль — как искать первые проекты и выходить на рынокВместо разрозненных уроков — готовая база для старта в геймдеве, кино или анимации. И всё это с поддержкой наставника из индустрии.🔥 Сейчас на обучение скидка 50% + планшет в подарок:  https://telegram.me/HDScg_bot/?start=start_3d_pro_27516 ССЫЛКА#реклама http",
+    "link": "https://telegram.me/HDScg_bot/?start=start_3d_pro_27516",
+    "tg_link": "https://t.me/open_source_friend/5881",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-14T17:43:50.631961+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5880",
+    "channel": "open_source_friend",
+    "text": "KrawlKrawl — это настраиваемый, легковесный, облачно-ориентированный сервер веб-дезинформации и анти-краулер, создающий фальшивые веб-приложения с уязвимостями и реалистичными, случайно сгенерированными ложными данными.Он поддерживает генерацию страниц дезинформации с использованием локально размещённых языковых моделей, таких как llama.cpp и Ollama, что позволяет создавать обманные страницы без зависимости от облачных провайдеров.В последней версии Krawl включает библиотеку из более чем 1200 шаблонов дезинформации, основанных на реальных атаках, а также предоставляет метрики и мониторинг через Prometheus, кастомные HTML-шаблоны и возможность массового импорта/экспорта страниц дезинформации.Lang: Python https://github.com/BlessedRebuS/Krawl https://github.com/BlessedRebuS/Krawl================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/BlessedRebuS/Krawl",
+    "tg_link": "https://t.me/open_source_friend/5880",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-14T17:43:50.631876+00:00"
+  },
+  {
     "post_id": "ai_newz/4683",
     "channel": "ai_newz",
     "text": "Вышла Gemini 3.7 FlashПо бенчам Flash выросла выше Sonnet 5. На модель временно скинули цену, на этот раз в два раза, до $0.75/$3.75. Такая цена будет актуальна до конца 2026, после чего её опять поднимут. Использование токенов снова выросло, на тестах Artificial Analysis у модели уходит на 50% больше токенов. https://t.me/ai_newz @ai_newz",
