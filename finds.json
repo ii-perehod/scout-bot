@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5888",
+    "channel": "open_source_friend",
+    "text": "ShizuWallShizuWall — это легковесное приложение для Android, предоставляющее функции брандмауэра без использования VPN, предназначенное для устройств с Android 11 и выше.Оно позволяет контролировать сетевую активность отдельных приложений, используя системные команды Android через Shizuku, локальный ADB-демон или root-доступ.Приложение ориентировано на конфиденциальность: оно работает локально, без сбора аналитики, телеметрии или отслеживания.ShizuWall поддерживает автоматизацию через команды `adb broadcast`, что позволяет интегрировать его в различные сценарии и задачи.Lang: Kotlin https://github.com/AhmetCanArslan/ShizuWall https://github.com/AhmetCanArslan/ShizuWall================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/AhmetCanArslan/ShizuWall",
+    "tg_link": "https://t.me/open_source_friend/5888",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-16T17:10:55.690813+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5887",
+    "channel": "open_source_friend",
+    "text": "Final2xЭто кроссплатформенный инструмент для суперразрешения изображений, позволяющий увеличивать их разрешение с сохранением и улучшением деталей.Программа поддерживает различные модели суперразрешения, включая RealESRGAN, RealCUGAN, EDSR, SwinIR, SCUNet и DAT, что обеспечивает гибкость в выборе алгоритмов обработки.Final2x предоставляет удобный графический интерфейс с функцией перетаскивания файлов, а также поддерживает пакетную обработку изображений, что повышает эффективность работы с большими наборами данных.Lang: TypeScript https://github.com/EutropicAI/Final2x https://github.com/EutropicAI/Final2x================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/EutropicAI/Final2x",
+    "tg_link": "https://t.me/open_source_friend/5887",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-16T17:10:55.690784+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5886",
+    "channel": "open_source_friend",
+    "text": "skitter-creek-bath-saltsЭто инструмент для манипуляции контроллером DRAM с целью изменения физических адресов памяти.Он позволяет получить доступ к защищённым областям памяти, включая Platform Security Processor (PSP), System Management Mode (SMM), C6 DRAM и микрокод процессора.Инструмент разработан и протестирован на процессорах AMD семейства 16h.Lang: C https://github.com/xoreaxeaxeax/skitter-creek-bath-salts https://github.com/xoreaxeaxeax/skitter-creek-bath-salts================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+    "tg_link": "https://t.me/open_source_friend/5886",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-16T17:10:55.690739+00:00"
+  },
+  {
     "post_id": "open_source_friend/5885",
     "channel": "open_source_friend",
     "text": "just-the-browserЭто инструмент, предназначенный для удаления нежелательных функций из популярных веб-браузеров, таких как Google Chrome, Microsoft Edge, Mozilla Firefox и Brave, с целью предоставить пользователю чистый и минималистичный интерфейс.Он отключает интеграции с искусственным интеллектом, телеметрию, спонсируемый контент, встроенные покупки и другие навязчивые элементы, используя скрытые настройки, предназначенные для корпоративных пользователей.Программа поддерживает операционные системы Windows, macOS и Linux, предоставляя конфигурационные файлы и скрипты для быстрой настройки браузеров.Lang: Shell https://github.com/corbindavenport/just-the-browser https://github.com/corbindavenport/just-the-browser================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
