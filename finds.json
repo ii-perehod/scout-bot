@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/5910",
+    "channel": "open_source_friend",
+    "text": "collab-publicCollaborator — это среда для разработки с использованием агентов.Она предоставляет бесконечное полотно, на котором терминалы, контекстные файлы и выполняемый код расположены в одном месте, устраняя необходимость переключения между вкладками.Приложение поддерживает нативные версии для macOS, Windows и Linux, а на Windows позволяет запускать сессии как в PowerShell, так и в WSL2.Lang: TypeScript https://github.com/collaborator-ai/collab-public https://github.com/collaborator-ai/collab-public================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/collaborator-ai/collab-public",
+    "tg_link": "https://t.me/open_source_friend/5910",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-23T17:11:49.052187+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5909",
+    "channel": "open_source_friend",
+    "text": "cosmic-uiЭто коллекция компонентов и элементов дизайна в стиле научной фантастики для современных веб-приложений.Ключевые функции включают архитектуру, основанную на SVG, интеграцию с zag.js для управления состоянием и полную совместимость с фреймворками React, Vue и Solid.Дополнительно, cosmic-ui предоставляет готовые формы, рамки и макеты, оптимизированные для футуристических интерфейсов, а также встроенную поддержку доступности через zag.js.Lang: TypeScript https://github.com/rizkimuhammada/cosmic-ui https://github.com/rizkimuhammada/cosmic-ui================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/rizkimuhammada/cosmic-ui",
+    "tg_link": "https://t.me/open_source_friend/5909",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-23T17:11:49.052159+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5908",
+    "channel": "open_source_friend",
+    "text": "ai-telephony-demoЭтот проект представляет собой AI-телефонию, позволяющую создавать голосового агента для обработки входящих и исходящих звонков.Основные функции включают интеграцию с VideoSDK для управления звонками, использование модели Gemini от Google для генерации ответов и поддержку SIP-транков для подключения к телефонной сети.Проект написан на Python и требует наличия учетных данных VideoSDK и Google API для полноценной работы.Lang: Python https://github.com/videosdk-community/ai-telephony-demo https://github.com/videosdk-community/ai-telephony-demo================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/videosdk-community/ai-telephony-demo",
+    "tg_link": "https://t.me/open_source_friend/5908",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-23T17:11:49.052096+00:00"
+  },
+  {
     "post_id": "ai_newz/4710",
     "channel": "ai_newz",
     "text": "BFL выпустили FLUX Video UpscaleВ BFL выкатили апскейлер для видео. При этом в отличие от  https://t.me/ai_newz/4438 Magnific, который улучшал картинку покадрово, это полноценная видеомодель на базе свежего FLUX 3. На вход принимается видео до 20 сек и 2560x1440, кап на выходе около 14.4 мегапикселей.Доступно два режима. Precise на 4 шага, который меньше крутит картинку, быстрее и немного дешевле, и Creative на 8 шагов, галлюцинирующий больше деталей в кадре, что обычно лучше, но не подойдет, если вы хотите избежать изменения лиц или важных объектов в кадре. Модель, конечно, будет работать лучше всего с генерациями Flux 3.Оплата идет за мегапиксель-секунду. Секунда готового видео в FullHD выйдет в ~$0.14 за Precise и ~$0.20 за Creative. Для 4K ценник вырастает до ~$0.55 и ~$0.79.  https://bfl.ai/blog/flux-video-upscale Блогпост https://docs.bfl.ai/flux_tools/flux_video_upscale Документация https://dashboard.bfl.ai/playground?model=flux-3-upscale Playground https://t.me/ai_newz @ai_newz",
