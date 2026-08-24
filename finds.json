@@ -1,5 +1,65 @@
 [
   {
+    "post_id": "AI_for_product_owner/1775",
+    "channel": "AI_for_product_owner",
+    "text": "📸 Как одной командой раскрасить старые черно-белые фотографии из семейного архиваУ каждого из нас дома хранится тот самый заветный альбом с пожелтевшими от времени, потертыми и поцарапанными черно-белыми снимками бабушек и дедушек. А еще есть кадры из нашего собственного далекого детства, когда еще не было цветной пленки, а каждое фото было на вес золота. Время безжалостно к бумаге, и с каждым годом родные лица на фото тускнеют, покрываясь мелкими дефектами...Раньше, чтобы спасти такие памятные кадры, приходилось отдавать их профессиональным ретушерам и платить приличные деньги за каждый снимок. Сегодня ChatGPT делает это за секунды и абсолютно бесплатно! 🙌В новой видеоинструкции мы наглядно показываем, как работает секретная команда /oldphoto4Kcolorrestore.Вам не нужно вручную ковыряться в Фотошопе и угадывать настройки. Вы просто загружаете в чат отсканированное или даже аккуратно переснятое на телефон старое фото, вбиваете этот промпт, и нейросеть запускает настоящую магию реставрац",
+    "link": "https://t.me/AI_for_product_owner/1775",
+    "tg_link": "https://t.me/AI_for_product_owner/1775",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-24T17:21:50.254410+00:00"
+  },
+  {
+    "post_id": "ai_newz/4714",
+    "channel": "ai_newz",
+    "text": "Индустрия перепродажи подписок на нейросетиНа площадке ggsel можно взять доступы к разным сервисам с хорошим дисконтом. Сразу стоит понимать суть схемы. Это не белый сервис, а продажа \"серых\" аккаунтов от частных селлеров. Достаются они различными способами: через ботов, автореги и пр. По отзывам подписчиков, из-за такой подозрительной активности подписка может слететь в любой момент.Но низкий прайс с лихвой перекрывает риски, будь то условный Gemini PRO или Adobe. Из плюсов - спокойно проходит оплата по ру-картам.Тема отлично спасает, если нужно много учёток для массового прожигания токенов, например в Codex, но не хочется руками регистрировать новые почты.При таких копеечных затратах зачастую проще поднять новый аккаунт, чем пытаться выбить замену у продавца.Но я ни в коем случае не агитирую пользоваться серыми схемами, т.к. это нарушает Terms of Use. Пишу этот пост чисто для информации.  https://ggsel.net/catalog/artificial-intelligence?utm_source=pr&amp;utm_medium=telegram&amp;utm_",
+    "link": "https://ggsel.net/catalog/artificial-intelligence?utm_source=pr&amp;utm_medium=telegram&amp;utm_campaign=ai_newz",
+    "tg_link": "https://t.me/ai_newz/4714",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-08-24T17:21:47.743191+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5914",
+    "channel": "open_source_friend",
+    "text": "matrix-rain-saverЭто скринсейвер и блокировщик экрана для X11, отображающий эффект «матричного дождя» с возможностью декодирования заголовков новостей прямо в падающем коде.Потоки символов текут горизонтально, слева направо, постепенно формируя текст заголовка, при этом перед появляющимися буквами отображается мерцающий матричный скрэмбл.Для отображения кириллических символов используется собственный шрифт, стилизованный под «матричный» код, с монолинейными штрихами и квадратными терминалами.Рендеринг осуществляется с использованием GPGPU-пайплайна, обеспечивая плавную анимацию и эффект свечения (bloom).Lang: Python https://github.com/HelpFreedom/matrix-rain-saver https://github.com/HelpFreedom/matrix-rain-saver================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/HelpFreedom/matrix-rain-saver",
+    "tg_link": "https://t.me/open_source_friend/5914",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-24T17:21:46.698129+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5913",
+    "channel": "open_source_friend",
+    "text": "MagicMirrorMagicMirror — это открытая модульная платформа для создания «умного» зеркала, превращающая обычное зеркало в персонального ассистента.Она поддерживает установку различных модулей, таких как отображение времени, погоды, новостей и других данных, что позволяет адаптировать функциональность под индивидуальные потребности.Платформа использует Electron в качестве оболочки приложения, что устраняет необходимость в установке веб-сервера или браузера.Lang: JavaScript https://github.com/MagicMirrorOrg/MagicMirror https://github.com/MagicMirrorOrg/MagicMirror================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/MagicMirrorOrg/MagicMirror",
+    "tg_link": "https://t.me/open_source_friend/5913",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-24T17:21:46.698093+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5912",
+    "channel": "open_source_friend",
+    "text": "В каталоге  https://tglink.io/e67e33cab75fac?erid=2W5zFHCQAVX Immers Foundation Models доступны публичные эндпоинты для тестирования open-source моделей без оплаты:•  https://tglink.io/8298f6ade777c0?erid=2W5zFHCQAVX DeepSeek-V4-Flash-0731 https://tglink.io/63e52f6a5c868f?erid=2W5zFHCQAVX • Unlimited-OCR•  https://tglink.io/a99ea332f90fbf?erid=2W5zFHCQAVX gemma-4-26B-A4B-it•  https://tglink.io/95e14fca9ac94e?erid=2W5zFHCQAVX Qwen3.5-35B-A3B• и другие моделиЗапросы отправляются в чате или напрямую через API — оплата за токены не взимается. Это позволяет оценить качество ответов модели, корректность вызова инструментов и создавать прототипы своих проектов до запуска приватного инстанса.Для приватных эндпоинтов Foundation Models предоставляет готовые конфигурации для развертывания гораздо большего количества моделей на выделенных GPU-серверах в РФ. При работе с приватными эндпоинтами оплата только за время работы сервера, а не за объем генерируемых токенов.Подходит для разработчиков, иссл",
+    "link": "https://tglink.io/e67e33cab75fac?erid=2W5zFHCQAVX",
+    "tg_link": "https://t.me/open_source_friend/5912",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-24T17:21:46.698058+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5911",
+    "channel": "open_source_friend",
+    "text": "chuchuЭто современный нативный SSH-клиент для Android, основанный на libghostty, с поддержкой стандартных SSH и Tailscale SSH.Программа поддерживает аутентификацию по паролю и ключу, отображение изображений с использованием протокола kitty, более 400 тем оформления, настраиваемые дополнительные клавиши и пользовательские действия в терминале.Также доступны автоматические действия после подключения для каждого хоста и зашифрованный локальный импорт/экспорт резервных копий SSH-ключей и профилей серверов.Lang: Kotlin https://github.com/jossephus/chuchu https://github.com/jossephus/chuchu================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/jossephus/chuchu",
+    "tg_link": "https://t.me/open_source_friend/5911",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-24T17:21:46.697990+00:00"
+  },
+  {
     "post_id": "open_source_friend/5910",
     "channel": "open_source_friend",
     "text": "collab-publicCollaborator — это среда для разработки с использованием агентов.Она предоставляет бесконечное полотно, на котором терминалы, контекстные файлы и выполняемый код расположены в одном месте, устраняя необходимость переключения между вкладками.Приложение поддерживает нативные версии для macOS, Windows и Linux, а на Windows позволяет запускать сессии как в PowerShell, так и в WSL2.Lang: TypeScript https://github.com/collaborator-ai/collab-public https://github.com/collaborator-ai/collab-public================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
