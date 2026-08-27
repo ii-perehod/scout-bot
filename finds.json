@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "ai_newz/4728",
+    "channel": "ai_newz",
+    "text": "А тем временем HuggingFace 🤗 выпускает робо-утку за $399 https://pollen-robotics.com/microduck/ https://pollen-robotics.com/microduck/ https://t.me/ai_newz @ai_newz",
+    "link": "https://pollen-robotics.com/microduck/",
+    "tg_link": "https://t.me/ai_newz/4728",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-08-27T15:59:10.042519+00:00"
+  },
+  {
+    "post_id": "ai_newz/4727",
+    "channel": "ai_newz",
+    "text": "Nvidia покупает 🤗HuggingFaceНе прошло и недели с начала слухов о покупке, а на HuggingFace уже  https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion нашёлся покупатель в лице Nvidia. Компания заплатит $12,9 миллиардов за покупку.В принципе это лучший возможный сценарий, у HuggingFace всё было не идеально с выручкой — всего $150 миллионов в год. А Nvidia, как компания, кровно заинтересована в развитии открытых моделей, так что HuggingFace продолжит развиваться. https://t.me/ai_newz @ai_newz",
+    "link": "https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion",
+    "tg_link": "https://t.me/ai_newz/4727",
+    "category": "Другое",
+    "is_free": false,
+    "found_at": "2026-08-27T15:59:10.042480+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5923",
+    "channel": "open_source_friend",
+    "text": "SketchForge-3DЭто локальный браузерный 3D-редактор, предназначенный для быстрого создания, редактирования и экспорта 3D-моделей без необходимости регистрации или установки сложного CAD-программного обеспечения.Программа позволяет создавать и модифицировать примитивные формы, вырезать отверстия, группировать элементы, импортировать файлы STL и экспортировать готовые модели в форматах STL, OBJ и STEP.Все проекты сохраняются локально в хранилище браузера, обеспечивая автономную работу без привязки к облачным сервисам.Lang: TypeScript https://github.com/Formsmith746/SketchForge-3D https://github.com/Formsmith746/SketchForge-3D================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Formsmith746/SketchForge-3D",
+    "tg_link": "https://t.me/open_source_friend/5923",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-27T15:59:08.805893+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5922",
+    "channel": "open_source_friend",
+    "text": "pgrokЭто персональная альтернатива ngrok, позволяющая открывать локальные порты в интернет через ваш собственный VPS.Программа автоматически настраивает HTTPS-соединения, предоставляет интерактивную TUI-панель управления и позволяет инспектировать HTTP-запросы.Для работы требуется VPS с открытыми портами 80 и 443, установленными Docker и Docker Compose, а также доменное имя, управляемое пользователем.Lang: TypeScript https://github.com/R44VC0RP/pgrok https://github.com/R44VC0RP/pgrok================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/R44VC0RP/pgrok",
+    "tg_link": "https://t.me/open_source_friend/5922",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-27T15:59:08.805858+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5921",
+    "channel": "open_source_friend",
+    "text": "ProxyBridgeProxyBridge — это легковесный, кроссплатформенный универсальный прокси-клиент с открытым исходным кодом, предназначенный для прозрачной маршрутизации трафика приложений на Windows, macOS и Linux через SOCKS5 или HTTP-прокси.Он позволяет перенаправлять TCP и UDP трафик от конкретных процессов, а также предоставляет возможность маршрутизировать, блокировать или разрешать трафик на уровне отдельных приложений.ProxyBridge работает на системном уровне, обеспечивая совместимость с приложениями, не поддерживающими прокси, без необходимости вносить изменения в их конфигурацию.Lang: C https://github.com/InterceptSuite/ProxyBridge https://github.com/InterceptSuite/ProxyBridge================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/InterceptSuite/ProxyBridge",
+    "tg_link": "https://t.me/open_source_friend/5921",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-27T15:59:08.805807+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1779",
     "channel": "AI_for_product_owner",
     "text": "😤 «Я же хотела просто поменять одежду, а ИИ поменял все!»: зачем играть в ИИ-рулетку, если готовые решения давно лежат под рукой?Мы регулярно заглядываем в чат поддержки нашего комьюнити, смотрим на ваши вопросы и понимаем: проблемы у всех повторяются из раза в раз. Изо дня в день фрилансеры, селлеры и блогеры наступают на одни и те же самые грабли. Вы пытаетесь переодеть модель, а ИИ меняет ей лицо. Хотите убрать стакан со стола, а бот сносит половину комнаты. 🤪Вы тратите время, перебираете слова, злитесь и пачками сливаете токены на пустые эксперименты. Хотя велосипед уже давно изобретен, протестирован, смазан и ждет вас в «Базе промптов»!Пока вы играете в угадайку с промптами из головы, мы разложили по полочкам кучу полезных практических приемов в том самом легендарном видеоуроке по модели Nano Banana с разбором 13 задач, наиболее востребованных у ИИ-креаторов и дизайнеров. Это не абстрактная теория, а готовые текстовые формулы-шаблоны. Вы просто копируете их, подставляете свое фото",
