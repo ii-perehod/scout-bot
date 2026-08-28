@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "ai_newz/4730",
+    "channel": "ai_newz",
+    "text": "H3 Max генерирует видео быстрее реального времениfal обучили H3 Max поверх открытого MiniMax H3 на новых данных. Заявляют какие-то нереальные пять секунд видео менее чем за три секунды генерации. Это около 35x по throughput относительно официального эндпоинта и уже быстрее реалтайма.Инференс оптимизировали параллельно с моделью и отбрасывали ускорения, если они портили результат. По заявлению fal, H3 Max в итоге стала лучше оригинала по пониманию промпта и качеству картинки. В лидерборде Artificial Analysis модель сейчас первая в image-to-video с аудио, обгоняя Seedance 2.0, оригинальный H3 и Gemini Omni Flash (старый, о новом в следующем посте). Seedance 2.5 в этом рейтинге пока нет.Пока действует скидка, пять секунд в 768p стоят $0.20. После 1 сентября будет $0.40. https://fal.ai/learn/devs/introducing-h3-max-by-fal Анонс https://t.me/ai_newz @ai_newz",
+    "link": "https://fal.ai/learn/devs/introducing-h3-max-by-fal",
+    "tg_link": "https://t.me/ai_newz/4730",
+    "category": "ИИ",
+    "is_free": false,
+    "found_at": "2026-08-28T16:59:17.745970+00:00"
+  },
+  {
+    "post_id": "ai_newz/4729",
+    "channel": "ai_newz",
+    "text": "3 сентября поговорим про AI в проде43;Tech собирает в Санкт-Петербурге AI Meetup про то, что происходит после красивого демо. Без абстрактных прогнозов, с кейсами, архитектурой и опытом работы с AI в проде.В программе:- Как вырастить мультиагентную платформу внутри компании- Какие связки LoRA, RAG и DSL действительно дожили до прода и дали измеримый результат- Почему с генеративным ИИ ценность смещается от написания кода к качеству спецификацииСтарт 3 сентября в 18:00. Можно прийти в офис в Санкт-Петербурге или подключиться онлайн. Участие бесплатное, ссылку на трансляцию пришлют накануне. https://career.crpt.ru/events/43-tech-ai-meetup Регистрация и программа https://t.me/team_43tech Информационный канал https://t.me/+DjULrhD_j_tjMDgy Чат и нетворкинг#промо",
+    "link": "https://career.crpt.ru/events/43-tech-ai-meetup",
+    "tg_link": "https://t.me/ai_newz/4729",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-28T16:59:17.745900+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5926",
+    "channel": "open_source_friend",
+    "text": "android-sms-gatewayЭто приложение превращает Android-смартфон в SMS-шлюз, позволяя отправлять и получать SMS-сообщения через API.Программа поддерживает два режима работы: локальный сервер, работающий непосредственно на устройстве, и облачный сервер, обеспечивающий доступ через интернет.В локальном режиме приложение запускает встроенный сервер Ktor на устройстве, что идеально для интеграций в локальной сети с повышенными требованиями к конфиденциальности.В облачном режиме устройство подключается к серверу  http://api.sms-gate.app/ api.sms-gate.app или его частной инстанции, используя Server-Sent Events (SSE) или Firebase Cloud Messaging (FCM).Lang: Kotlin https://github.com/capcom6/android-sms-gateway https://github.com/capcom6/android-sms-gateway================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "http://api.sms-gate.app/",
+    "tg_link": "https://t.me/open_source_friend/5926",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-28T16:59:16.645343+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5925",
+    "channel": "open_source_friend",
+    "text": "ClovaLinkClovaLink — это современная платформа управления файлами, разработанная на языке Rust, предназначенная для организаций, которым необходимы корпоративные функции без привязки к поставщику.Она поддерживает совместимость с хранилищами, совместимыми с S3 (такими как AWS, Wasabi, MinIO, B2), обеспечивает репликацию для отказоустойчивости, встроенное антивирусное сканирование (ClamAV), дедупликацию файлов без копирования, версионирование, мягкое удаление и восстановление, а также безопасный обмен файлами с истекающими ссылками.Архитектура ClovaLink ориентирована на многопользовательскую среду с ролевым управлением доступом и журналами аудита, что делает ее идеальной для самостоятельного размещения в корпоративных условиях.Lang: TypeScript https://github.com/ClovaLink/ClovaLink https://github.com/ClovaLink/ClovaLink================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/ClovaLink/ClovaLink",
+    "tg_link": "https://t.me/open_source_friend/5925",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-28T16:59:16.645307+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5924",
+    "channel": "open_source_friend",
+    "text": "ESP32-Bit-PirateESP32-Bit-Pirate — это прошивка с открытым исходным кодом, превращающая устройство на базе  https://t.me/AliExpress_Hacker/2270 ESP32 в многофункциональный инструмент для разработки и анализа различных протоколов, вдохновленный оригинальным Bus Pirate.Она поддерживает перехват, отправку, скриптование и взаимодействие с различными цифровыми протоколами, такими как I2C, UART, 1-Wire, SPI, а также с радиопротоколами, включая Bluetooth, Wi-Fi, Sub-GHz и RFID.Управление осуществляется через последовательный терминал или веб-интерфейс командной строки, что обеспечивает гибкость в использовании.Проект предоставляет официальный сайт, где можно установить прошивку, воспользоваться веб-инструментами, ознакомиться с руководствами по оборудованию и документацией.Lang: C++ https://github.com/geo-tp/ESP32-Bit-Pirate https://github.com/geo-tp/ESP32-Bit-Pirate================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Ha",
+    "link": "https://t.me/AliExpress_Hacker/2270",
+    "tg_link": "https://t.me/open_source_friend/5924",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-28T16:59:16.645251+00:00"
+  },
+  {
     "post_id": "ai_newz/4728",
     "channel": "ai_newz",
     "text": "А тем временем HuggingFace 🤗 выпускает робо-утку за $399 https://pollen-robotics.com/microduck/ https://pollen-robotics.com/microduck/ https://t.me/ai_newz @ai_newz",
