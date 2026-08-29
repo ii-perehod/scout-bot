@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5928",
+    "channel": "open_source_friend",
+    "text": "AIUsageЭто инструмент для управления подписками на различные AI-сервисы, позволяющий отслеживать квоты, расходы и учетные записи в одном месте.Ключевые функции включают мониторинг использования сервисов Claude Code и Codex, анализ вызовов инструментов и управление прокси-серверами.Дополнительно AIUsage предоставляет возможность выявлять неиспользуемые навыки и серверы, а также поддерживает интеграцию с CPA Gateway для расширенной функциональности.Lang: Swift https://github.com/sylearn/AIUsage https://github.com/sylearn/AIUsage================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/sylearn/AIUsage",
+    "tg_link": "https://t.me/open_source_friend/5928",
+    "category": "Open Source",
+    "is_free": false,
+    "found_at": "2026-08-29T11:24:34.316067+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5927",
+    "channel": "open_source_friend",
+    "text": "SILENTCHAINЭто расширение для Burp Suite, использующее искусственный интеллект для пассивного анализа уязвимостей веб-приложений.Оно поддерживает несколько провайдеров ИИ, включая Ollama, OpenAI, Claude и Gemini, что обеспечивает гибкость в выборе моделей для анализа.Инструмент интегрируется с Burp Suite, предоставляя пользователям возможность автоматизировать процесс выявления уязвимостей без активного вмешательства.Lang: Java https://github.com/silentchainai/SILENTCHAIN https://github.com/silentchainai/SILENTCHAIN================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/silentchainai/SILENTCHAIN",
+    "tg_link": "https://t.me/open_source_friend/5927",
+    "category": "Автоматизация",
+    "is_free": true,
+    "found_at": "2026-08-29T11:24:34.316012+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1786",
     "channel": "AI_for_product_owner",
     "text": "Если серьезно, то ИИ может стать вашим хорошим бытовым помощником. В понедельник расскажем вам о 7 крутых фишках для ChatGPT, а самое классное в том, что запросы к нейросети мы будем сопровождать реальными фото из вашей повседневной жизни. ИИ дает советы, просто посмотрев на то, как вы живете. Заинтригованы?Просто приходите в понедельник за новыми лайфхаками, а сейчас начинайте наслаждаться последними летними выходными!",
