@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4732",
+    "channel": "ai_newz",
+    "text": "Нейродайджест за две недели (#128)LLM-  https://t.me/ai_newz/4726 GLM 5.3 Flash — Бывшая Ox Alpha оказалась открытой мультимодальной моделью 320B-A18B. В API стоит $0,15/$0,5 за миллион токенов.-  https://t.me/ai_newz/4724 Qwen 3.8 Flash Next — 125B-A6B плюс 51B N-gram-параметров на архитектуре Qwen 4. Веса уже поддерживают vLLM и SGLang.-  https://t.me/ai_newz/4716 GigaEmbeddings — Три открытые MIT-модели от 480M до 10B для RAG и семантического поиска.-  https://t.me/ai_newz/4708 GPT 5.6 Sol подешевела — На три месяца цену снизили до $4/$20 за миллион токенов при контексте до 272K.Генеративные модели-  https://t.me/ai_newz/4730 MiniMax H3 Max от fal — Версия от fal генерирует пятисекундное видео примерно за три секунды и лидирует в рейтинге Artificial Analysis по image-to-video.-  https://t.me/ai_newz/4710 FLUX Video Upscale — Видеомодель нативно апскейлит ролики до 4K в точном или более креативном режиме.-  https://t.me/ai_newz/4701 Тест MAI-Image 2.6 — Четыре запуска дали почти один",
+    "link": "https://t.me/ai_newz/4726",
+    "tg_link": "https://t.me/ai_newz/4732",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-08-31T11:13:36.984819+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5934",
+    "channel": "open_source_friend",
+    "text": "discussion-downloaderЭто расширение для браузера Chrome, предназначенное для сохранения диалогов с  http://claude.ai/ claude.ai в формате Markdown одним кликом.Оно позволяет экспортировать всю переписку, включая заголовки с метаданными, реплики с указанием авторов, блоки кода, списки и таблицы, сохраняя оригинальную разметку.Таким образом, пользователи могут легко архивировать и просматривать свои диалоги в удобном текстовом формате.Lang: JavaScript https://github.com/HelpFreedom/discussion-downloader https://github.com/HelpFreedom/discussion-downloader================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "http://claude.ai/",
+    "tg_link": "https://t.me/open_source_friend/5934",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-08-31T11:13:35.881738+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5933",
+    "channel": "open_source_friend",
+    "text": "nullframeЭто интерактивная панель телеметрии, отображающая в реальном времени различные показатели системы в стиле дизайна компании Nothing.Ключевые функции включают отображение частоты кадров, использования памяти, состояния батареи, сетевых параметров и активности ввода пользователя.Панель использует единственный цикл requestAnimationFrame для управления всеми виджетами, обеспечивая эффективную работу и минимальную нагрузку на систему.Lang: TypeScript https://github.com/m1ckc3s/nullframe https://github.com/m1ckc3s/nullframe================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/m1ckc3s/nullframe",
+    "tg_link": "https://t.me/open_source_friend/5933",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-08-31T11:13:35.881689+00:00"
+  },
+  {
     "post_id": "ai_newz/4731",
     "channel": "ai_newz",
     "text": "Google выпустили Gemini Omni 1.1 FlashOmni Flash наконец довели до GA и добавили нормальные инструменты для сборки длинных роликов. Превью версия модели скоро станет  недоступна. Теперь видео можно продолжать кусками по 10 секунд до общей длины 40 секунд. При продлении модель смотрит на последние 10 секунд исходника, а не только на финальную секунду, как раньше.Появился черновой режим 360p. Он быстрее и стоит $0.03 за секунду против $0.10 у 720p. При этом 1080p и 4K стоят $0.15 и $0.30 за секунду, но оба варианта апскейл, а не нативная генерация.Бета-версия долго держалась в топе арены, но, честно говоря, не понимаю, как. Даже старый Сиденс 2.0, как по мне, был симпатичнее. https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/ Блогпост https://ai.google.dev/gemini-api/docs/omni Документация https://t.me/ai_newz @ai_newz",
