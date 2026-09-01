@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "AI_for_product_owner/1796",
+    "channel": "AI_for_product_owner",
+    "text": "«Толпа народа испортила фото с линейки!» 😤 Как удалить лишних людей с фото и сделать красивый кадр для семейного архива?С этой болью сталкиваются все родители каждое 1 сентября: невозможно нормально сфотографировать ребенка на линейке! Вокруг все ходят, народу – тьма, дети быстро устают от позирования и не смотрят в кадр… Ваша последняя нервная клетка висит на волоске, а надежды на красивое фото тают с каждой минутой. 😩Спокойно! Просто сфотографируйтесь как получится, а остальное поправит NanoBot! Сегодня подготовили для вас промпт-выручалочку – он уберет всех неугодных из кадра в один клик. Можете удалить пару человек, а можете вообще всех людей на фоне. Адаптируйте промпт под себя. 😉Фото сделано в GPT Image 2Промпт:Прикреплённое изображение — базовое изображение. Удали только [ЧЕЛОВЕКА / РУКУ / НОГУ] в [ТОЧНОЕ ПОЛОЖЕНИЕ В КАДРЕ]. Полностью восстанови перекрытый фон: [СТЕНА / ДОРОГА / ТРАВА / ДРУГОЙ ОБЪЕКТ]. Удали также только принадлежащие этому человеку тень и отражение. Сохрани без",
+    "link": "https://t.me/ainanobot_bot?start=post_lineyka",
+    "tg_link": "https://t.me/AI_for_product_owner/1796",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-09-01T19:40:56.347859+00:00"
+  },
+  {
+    "post_id": "ai_newz/4733",
+    "channel": "ai_newz",
+    "text": "Встречайте Claude Fable 5.1По бенчам заметно впереди и Fable 5 и Opus 5, За счёт снижения цены на кэшированные токены в 4 раза (теперь cache read $0.25 за миллион токенов) она в среднем на 25% дешевле чем Fable 5. Причём количество токенов ризонинга, похоже, выросло. Доступ к модели уже раскатывают. https://www.anthropic.com/claude-fable-and-mythos-5-1 Блогпост https://t.me/ai_newz @ai_newz",
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "tg_link": "https://t.me/ai_newz/4733",
+    "category": "ИИ",
+    "is_free": false,
+    "found_at": "2026-09-01T19:40:54.906604+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5938",
+    "channel": "open_source_friend",
+    "text": "vps-auditЭто легковесный Bash-скрипт для аудита безопасности и производительности виртуальных частных серверов (VPS).Он выполняет проверки конфигурации SSH, состояния брандмауэра, настройки систем предотвращения вторжений (Fail2ban/CrowdSec), анализирует неудачные попытки входа, статус обновлений системы, запущенные сервисы, открытые порты, конфигурацию sudo, политику паролей и файлы с SUID-битами.Кроме того, скрипт мониторит использование дискового пространства, оперативной памяти, загрузку процессора и активные интернет-соединения.Lang: Shell https://github.com/nuver-labs/vps-audit https://github.com/nuver-labs/vps-audit================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/nuver-labs/vps-audit",
+    "tg_link": "https://t.me/open_source_friend/5938",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-09-01T19:40:54.067413+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5937",
+    "channel": "open_source_friend",
+    "text": "avoid-ai-writingЭто инструмент, предназначенный для аудита и переписывания контента с целью устранения характерных признаков, присущих текстам, сгенерированным искусственным интеллектом.Он поддерживает режимы только обнаружения и редактирования на месте, а также профили голосов, что позволяет адаптировать текст под различные стили и требования.Инструмент совместим с популярными AI-агентами, такими как Claude Code, OpenClaw, Codex и Hermes, обеспечивая гибкость в интеграции с различными платформами.Lang: JavaScript https://github.com/conorbronsdon/avoid-ai-writing https://github.com/conorbronsdon/avoid-ai-writing================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/conorbronsdon/avoid-ai-writing",
+    "tg_link": "https://t.me/open_source_friend/5937",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-09-01T19:40:54.067352+00:00"
+  },
+  {
     "post_id": "open_source_friend/5936",
     "channel": "open_source_friend",
     "text": "trippyTrippy — это инструмент диагностики сети, объединяющий функциональность traceroute и ping, предназначенный для анализа сетевых проблем.Он поддерживает работу на различных операционных системах, включая Linux, BSD, macOS и Windows.Программа предоставляет подробную информацию о маршруте пакетов и времени отклика на каждом этапе, что помогает в выявлении и устранении сетевых неисправностей.Lang: Rust https://github.com/fujiapple852/trippy https://github.com/fujiapple852/trippy================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
