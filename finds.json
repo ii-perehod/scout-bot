@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5950",
+    "channel": "open_source_friend",
+    "text": "m3e-canvasЭто инструмент для создания и связывания интерфейсов в стиле Material 3 Expressive прямо в браузере.Он позволяет пользователям эскизировать интерфейсы, связывать их между собой и просматривать взаимодействия.После создания макетов можно сгенерировать промпт для AI-инструмента кодирования, чтобы преобразовать дизайн в код.Lang: TypeScript https://github.com/lnkiai/m3e-canvas https://github.com/lnkiai/m3e-canvas================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/lnkiai/m3e-canvas",
+    "tg_link": "https://t.me/open_source_friend/5950",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-09-05T18:39:52.338130+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5949",
+    "channel": "open_source_friend",
+    "text": "OpenBotOpenBot — это платформа с открытым исходным кодом, предназначенная для развертывания AI-агентов в изолированных средах, обеспечивая каждому агенту собственный браузер, файловую систему и инструменты.Ключевые функции включают изоляцию каждого агента в отдельном контейнере, управление доступом через политику безопасности и ведение журналов всех действий для обеспечения прозрачности.Платформа поддерживает интеграцию с агентами, соответствующими стандарту AG-UI, и позволяет пользователям наблюдать за работой агентов в реальном времени, а также вмешиваться при необходимости.Lang: TypeScript https://github.com/CopilotKit/OpenBot https://github.com/CopilotKit/OpenBot================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/CopilotKit/OpenBot",
+    "tg_link": "https://t.me/open_source_friend/5949",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-09-05T18:39:52.338076+00:00"
+  },
+  {
     "post_id": "ai_newz/4742",
     "channel": "ai_newz",
     "text": "OpenAI закончили раскатывать AstraМодель теперь доступна всем подписчикам Plus, Pro, Enterprise и Business, а также в API. Ну и всем по этому случаю пообещали ещё один banked ресет.Как впечатления? https://t.me/ai_newz @ai_newz",
