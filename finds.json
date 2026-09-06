@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5951",
+    "channel": "open_source_friend",
+    "text": "build123dЭто Python-библиотека для параметрического моделирования 2D и 3D CAD, основанная на геометрическом ядре Open Cascade.Она предоставляет полностью Python-ориентированный интерфейс для создания точных моделей, подходящих для 3D-печати, ЧПУ-обработки и других производственных процессов.Ключевые особенности включают минимальное или отсутствие внутреннего состояния в зависимости от режима, явные классы геометрии для 1D, 2D и 3D с четко определенными операциями, а также расширяемость через наследование и функциональную композицию без использования monkey patching.Lang: Python https://github.com/gumyr/build123d https://github.com/gumyr/build123d================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/gumyr/build123d",
+    "tg_link": "https://t.me/open_source_friend/5951",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-09-06T09:02:34.284467+00:00"
+  },
+  {
     "post_id": "open_source_friend/5950",
     "channel": "open_source_friend",
     "text": "m3e-canvasЭто инструмент для создания и связывания интерфейсов в стиле Material 3 Expressive прямо в браузере.Он позволяет пользователям эскизировать интерфейсы, связывать их между собой и просматривать взаимодействия.После создания макетов можно сгенерировать промпт для AI-инструмента кодирования, чтобы преобразовать дизайн в код.Lang: TypeScript https://github.com/lnkiai/m3e-canvas https://github.com/lnkiai/m3e-canvas================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
