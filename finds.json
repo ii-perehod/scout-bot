@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4743",
+    "channel": "ai_newz",
+    "text": "Runway Solaris генеративный интерфейсRunway представила Solaris, первый по Interface World Model. Вместо HTML и DOM система генерирует интерактивный интерфейс как непрерывное видео в 720p. LLM отвечает за рассуждение, а адаптированная Gen-4.5 рендерит реакцию на действия пользователя в реальном времени.В собственном исследовании Runway участвовали 250 человек и около 7500 парных сравнений. Solaris предпочли Claude Opus 5 в 61% случаев по следованию инструкции и в 71% по естественности поведения. Но это внутренний тест, а не независимый бенчмарк. Пока проект доступен только ранним партнерам, а среди ограничений указаны текст (лол), длинные сессии, достоверность результата и доступность интерфейсов. Но демка интересная, может быть из этого что-то выйдет. https://x.com/runwayml/status/2094463070466646019 Демо https://runway.com/news/research/introducing-solaris Блогпост https://t.me/ai_newz @ai_newz",
+    "link": "https://x.com/runwayml/status/2094463070466646019",
+    "tg_link": "https://t.me/ai_newz/4743",
+    "category": "ИИ",
+    "is_free": true,
+    "found_at": "2026-09-06T18:44:03.531742+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5953",
+    "channel": "open_source_friend",
+    "text": "File_Converter_ProЭто бесплатное автономное приложение для Windows, предназначенное для конвертации документов, изображений, аудио и видео файлов без необходимости подключения к интернету.Программа поддерживает конвертацию различных форматов файлов, обеспечивая конфиденциальность данных, так как все операции выполняются локально без загрузки файлов в сеть.Разработана с использованием Python и PySide6, предлагая современный интерфейс с поддержкой темной и светлой тем, а также панелью статистики и системой достижений. Lang: Python https://github.com/Hyacinthe-primus/File_Converter_Pro https://github.com/Hyacinthe-primus/File_Converter_Pro================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Hyacinthe-primus/File_Converter_Pro",
+    "tg_link": "https://t.me/open_source_friend/5953",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-09-06T18:44:02.479822+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5952",
+    "channel": "open_source_friend",
+    "text": "netwatchЭто инструмент для диагностики сети в реальном времени, работающий в терминале, который предоставляет мгновенную видимость сетевой активности без необходимости настройки.Он позволяет расшифровывать зашифрованный трафик, идентифицировать процессы, инициирующие соединения, и обнаруживать вредоносные программы, связывающиеся с командными серверами.Программа объединяет функции измерителя пропускной способности, анализа протоколов и легковесного средства обнаружения вторжений, предоставляя все это в одном интерфейсе.Lang: Rust https://github.com/matthart1983/netwatch https://github.com/matthart1983/netwatch================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/matthart1983/netwatch",
+    "tg_link": "https://t.me/open_source_friend/5952",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-09-06T18:44:02.479759+00:00"
+  },
+  {
     "post_id": "open_source_friend/5951",
     "channel": "open_source_friend",
     "text": "build123dЭто Python-библиотека для параметрического моделирования 2D и 3D CAD, основанная на геометрическом ядре Open Cascade.Она предоставляет полностью Python-ориентированный интерфейс для создания точных моделей, подходящих для 3D-печати, ЧПУ-обработки и других производственных процессов.Ключевые особенности включают минимальное или отсутствие внутреннего состояния в зависимости от режима, явные классы геометрии для 1D, 2D и 3D с четко определенными операциями, а также расширяемость через наследование и функциональную композицию без использования monkey patching.Lang: Python https://github.com/gumyr/build123d https://github.com/gumyr/build123d================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
