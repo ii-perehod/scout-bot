@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "ai_newz/4744",
+    "channel": "ai_newz",
+    "text": "Нейродайджест за неделю (#129)LLM-  https://t.me/ai_newz/4738 GPT-6 Astra — 97,6% на FrontierMath Tier 4 v2, 74,1% на DeepSWE v1.1 и API по $10/$50 за миллион токенов. Во время раскатки OpenAI  https://t.me/ai_newz/4739 выдавали banked resets, затем релизнули модель, сначала  https://t.me/ai_newz/4741 для Pro, а чуть позже для  https://t.me/ai_newz/4742 остальных подписчиков.-  https://t.me/ai_newz/4737 Muse Spark 1.3 — Meta прокачали кодинг и заявляют снижение расхода токенов и количества тулколов без повышения цены.-  https://t.me/ai_newz/4735 Gemini 3.8 Flash — Модель улучшила кодинг и агентные задачи при прежней цене. Cyber-версия доступна доверенным защитникам через Fairwind Program.-  https://t.me/ai_newz/4733 Claude Fable 5.1 — Более сильная версия Fable с кэшированными токенами по $0,25. По оценке Anthropic, типичные задачи обходятся примерно на 25% дешевле.Генеративные модели-  https://t.me/ai_newz/4740 H3 Max Director — fal превратили генерацию видео в непрерывный управляемый",
+    "link": "https://t.me/ai_newz/4738",
+    "tg_link": "https://t.me/ai_newz/4744",
+    "category": "ИИ",
+    "is_free": false,
+    "found_at": "2026-09-07T09:49:52.545492+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5954",
+    "channel": "open_source_friend",
+    "text": "LangostinoLangostino — это открытая платформа для автономных дронов, использующая ROS2 и ИИ-управление полетом, предоставляющая полную эталонную реализацию для создания, понимания и расширения автономии дронов в реальных условиях.Ключевые функции включают интеграцию с ROS2, поддержку ИИ-управления полетом и совместимость с различными аппаратными компонентами, такими как Raspberry Pi и INAV.Проект разработан с учетом доступности для широкой аудитории, предоставляя подробную документацию, руководство по сборке и активное сообщество для поддержки пользователей.Lang: Python https://github.com/swarm-subnet/Langostino https://github.com/swarm-subnet/Langostino================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/swarm-subnet/Langostino",
+    "tg_link": "https://t.me/open_source_friend/5954",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-09-07T09:49:51.503678+00:00"
+  },
+  {
     "post_id": "ai_newz/4743",
     "channel": "ai_newz",
     "text": "Runway Solaris генеративный интерфейсRunway представила Solaris, первый по Interface World Model. Вместо HTML и DOM система генерирует интерактивный интерфейс как непрерывное видео в 720p. LLM отвечает за рассуждение, а адаптированная Gen-4.5 рендерит реакцию на действия пользователя в реальном времени.В собственном исследовании Runway участвовали 250 человек и около 7500 парных сравнений. Solaris предпочли Claude Opus 5 в 61% случаев по следованию инструкции и в 71% по естественности поведения. Но это внутренний тест, а не независимый бенчмарк. Пока проект доступен только ранним партнерам, а среди ограничений указаны текст (лол), длинные сессии, достоверность результата и доступность интерфейсов. Но демка интересная, может быть из этого что-то выйдет. https://x.com/runwayml/status/2094463070466646019 Демо https://runway.com/news/research/introducing-solaris Блогпост https://t.me/ai_newz @ai_newz",
