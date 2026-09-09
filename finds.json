@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1813",
+    "channel": "AI_for_product_owner",
+    "text": "❓ «А можно через нейросеть оформить маршрутный лист ученика? Неохота от руки рисовать»Такой запрос на днях прилетел нам в комментарии от подписчицы канала. Ответ: конечно, можно! С помощью  https://t.me/ainanobot_bot?start=post NanoBot легко сделать структурированный маршрутный лист пути ученика из дома в школу с указанием опасных участков и зданий. Подписчица попросила помочь с промптом, и участники комьюнити, а также наш промпт-инженер оперативно откликнулись. Результат на скрине. 👆 И плюс один довольный человек, который поручил рутину нейросети и увидел классный результат за минуту.Присоединяйтесь к нашему комьюнити и получайте поддержку 24/7 + доступ к базе промптов для любых сфер и специалистов 👉  https://t.me/Aiforproduct_bot?start=dl-176673617894cf772dc042 ТЫК-ТЫК",
+    "link": "https://t.me/ainanobot_bot?start=post",
+    "tg_link": "https://t.me/AI_for_product_owner/1813",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-09-09T19:33:20.081532+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5963",
+    "channel": "open_source_friend",
+    "text": "toprankЭто открытый проект, предоставляющий навыки для Claude Code, направленные на автоматизацию SEO, SEM и управления рекламными кампаниями в Google Ads.Ключевые функции включают аудит и оптимизацию рекламных аккаунтов, комплексный анализ SEO и автоматизированное улучшение контента.Программа интегрируется с Google Search Console и Google Ads, обеспечивая прямой доступ к данным для принятия обоснованных решений.Lang: TypeScript https://github.com/nowork-studio/toprank https://github.com/nowork-studio/toprank================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/nowork-studio/toprank",
+    "tg_link": "https://t.me/open_source_friend/5963",
+    "category": "SEO",
+    "is_free": true,
+    "found_at": "2026-09-09T19:33:17.473930+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5962",
+    "channel": "open_source_friend",
+    "text": "claude-adsЭто инструмент для аудита и оптимизации платных рекламных кампаний на различных платформах, включая Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat и X.Он выполняет более 250 проверок, оценивает эффективность кампаний по шкале от 0 до 100 и предоставляет приоритетный план действий для улучшения результатов.Ключевые функции включают параллельную работу агентов, использование отраслевых шаблонов и генерацию креативов с помощью искусственного интеллекта.Lang: Python https://github.com/AgriciDaniel/claude-ads https://github.com/AgriciDaniel/claude-ads================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/AgriciDaniel/claude-ads",
+    "tg_link": "https://t.me/open_source_friend/5962",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-09-09T19:33:17.473881+00:00"
+  },
+  {
     "post_id": "ai_newz/4749",
     "channel": "ai_newz",
     "text": "Ситуация на image арене с выходом GPT-Image-2.5Есть две версии модели GPT-Image-2.5: Flare и Sunburst. Flare работает примерно в 1.85-1.9x быстрее чем Sunburst (по моим замерам), но похуже качеством. Причем цена у Flare и Sunburst одинаковая, и такая же как и на GPT-Image-2 (если брать max reasoning). Забавно, как произошла инфляция ризонинга. У GPT-Image-2 самый высокий ризонинг назывался High, а у 2.5 после high есть еще xhigh и max, причем 2-high соответствует по количеству генерируемых токенов и по цене - версии 2.5-max. Маркетинг?Визуально очень заметно, что это скорее всего дотрейн/post-train базы GPT-Image-2, т.к. сохранились все характерные для GPT паттерны на генерациях. https://t.me/ai_newz @ai_newz",
