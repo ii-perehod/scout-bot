@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5975",
+    "channel": "open_source_friend",
+    "text": "omnigetOmniGet — это бесплатное настольное приложение с открытым исходным кодом для Windows, macOS и Linux, предназначенное для скачивания онлайн-курсов, видео, аудио и книг с более чем 1800 сайтов без использования командной строки.Программа поддерживает загрузку курсов с платформ Udemy, Hotmart, Kiwify, Skool, Teachable и других, а также видео и аудио с YouTube, TikTok, Instagram, Twitter/X, Reddit и множества других сайтов.OmniGet оснащена встроенным плеером для воспроизведения скачанных курсов, читалкой PDF/EPUB для книг и музыкальной библиотекой, что позволяет просматривать и слушать контент непосредственно в приложении.Приложение не требует установки дополнительных инструментов или зависимостей, таких как Python, и обеспечивает сохранение всех файлов на вашем компьютере, гарантируя их конфиденциальность.Lang: Rust https://github.com/tonhowtf/omniget https://github.com/tonhowtf/omniget================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/tonhowtf/omniget",
+    "tg_link": "https://t.me/open_source_friend/5975",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-09-13T19:07:00.935814+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5974",
+    "channel": "open_source_friend",
+    "text": "voidauthVoidAuth — это открытый провайдер единого входа (SSO) и управления пользователями для самохостинга приложений.Он поддерживает OpenID Connect (OIDC), Proxy ForwardAuth, управление пользователями и группами, а также саморегистрацию и приглашения пользователей.Дополнительные функции включают многофакторную аутентификацию, поддержку Passkeys, настраиваемые логотипы и темы, а также безопасный сброс пароля с верификацией по электронной почте.Lang: TypeScript https://github.com/voidauth/voidauth https://github.com/voidauth/voidauth================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/voidauth/voidauth",
+    "tg_link": "https://t.me/open_source_friend/5974",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-09-13T19:07:00.935571+00:00"
+  },
+  {
     "post_id": "open_source_friend/5973",
     "channel": "open_source_friend",
     "text": "reconyaЭто инструмент для разведки сети и обнаружения активов, разработанный на языке Go.Он позволяет обнаруживать и отслеживать устройства в локальной сети в режиме реального времени, предоставляя информацию о MAC-адресах, производителях, именах хостов, операционных системах и типах устройств.Поддерживает сканирование IPv4 с использованием ICMP, TCP и ARP, а также пассивный мониторинг IPv6 без генерации трафика.Включает функции сканирования портов с определением сервисов и захватом баннеров, а также систему оповещений о новых устройствах, открытых портах и недоступных хостах.Имеет веб-консоль с дашбордом, картой топологии, списком хостов и журналом событий в реальном времени.Lang: Go https://github.com/Dyneteq/reconya https://github.com/Dyneteq/reconya================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
