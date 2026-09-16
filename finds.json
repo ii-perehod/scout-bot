@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5982",
+    "channel": "open_source_friend",
+    "text": "linux-androidЭтот инструмент позволяет превратить старый Android-смартфон в полноценный Linux-десктоп с графическим интерфейсом или в сервер для умного дома, используя приложение Termux без необходимости рут-доступа или подключения к ПК.Он поддерживает установку различных окружений рабочего стола, таких как XFCE4, KDE Plasma, LXQt и MATE, а также настройку Home Assistant для управления устройствами умного дома.Скрипты обеспечивают GPU-ускорение для улучшения производительности графического интерфейса и включают установку популярных приложений, таких как Firefox, VLC, SSH и Wine.Lang: Shell https://github.com/mayukh4/linux-android https://github.com/mayukh4/linux-android================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/mayukh4/linux-android",
+    "tg_link": "https://t.me/open_source_friend/5982",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-09-16T09:35:23.162701+00:00"
+  },
+  {
     "post_id": "open_source_friend/5981",
     "channel": "open_source_friend",
     "text": "homelab-hubЭто веб-приложение с открытым исходным кодом для управления и визуализации домашней лаборатории.Оно позволяет вести учет оборудования, виртуальных машин, приложений, хранилищ и сетей.Приложение поддерживает экспорт и импорт инвентаря в формате JSON для резервного копирования и восстановления данных.Визуализация сети осуществляется с помощью интерактивной графической карты, отображающей взаимосвязи между компонентами инфраструктуры.Lang: Svelte https://github.com/RaidOwl/homelab-hub https://github.com/RaidOwl/homelab-hub================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
