@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/5997",
+    "channel": "open_source_friend",
+    "text": "CalClockЭто нативное приложение для Windows, отображающее на рабочем столе настраиваемые аналоговые и цифровые часы, календари и панели с часами и календарем.Программа поддерживает создание неограниченного количества виджетов, каждый из которых может быть настроен индивидуально по языку, часовому поясу, смещению времени, видимости и состоянию поверх всех окон. Lang: C++ https://github.com/fortsoft-eu/CalClock https://github.com/fortsoft-eu/CalClock================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/fortsoft-eu/CalClock",
+    "tg_link": "https://t.me/open_source_friend/5997",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-09-20T19:10:56.238780+00:00"
+  },
+  {
+    "post_id": "open_source_friend/5996",
+    "channel": "open_source_friend",
+    "text": "pruneЭто программа для Windows, предназначенная для полного удаления установленных приложений.Она сначала запускает собственный деинсталлятор программы, а затем находит и изолирует оставшиеся после удаления файлы, ключи реестра и запланированные задачи.По умолчанию ничего не удаляется окончательно: все найденные остатки помещаются в карантин, что позволяет восстановить их в случае ошибки.Дополнительно программа предоставляет карту диска, очистку системы, менеджер автозагрузки и мониторинг состояния SSD.Lang: JavaScript https://github.com/jimman0I/prune https://github.com/jimman0I/prune================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/jimman0I/prune",
+    "tg_link": "https://t.me/open_source_friend/5996",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-09-20T19:10:56.238727+00:00"
+  },
+  {
     "post_id": "open_source_friend/5995",
     "channel": "open_source_friend",
     "text": "WolfCutЭто бесплатный, кроссплатформенный, локальный видеоредактор с открытым исходным кодом, предназначенный для замены CapCut.Программа предлагает многодорожечное редактирование, автоматическую генерацию субтитров с использованием whisper.cpp и голосовые фильтры на основе ffmpeg.WolfCut работает на движке, написанном на Rust, с интерфейсом на React, обеспечивая быструю и отзывчивую работу.Приложение не требует создания аккаунта, не добавляет водяных знаков и не содержит платных функций.Lang: Rust https://github.com/jub0t/WolfCut https://github.com/jub0t/WolfCut================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
