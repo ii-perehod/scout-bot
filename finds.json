@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/5995",
+    "channel": "open_source_friend",
+    "text": "WolfCutЭто бесплатный, кроссплатформенный, локальный видеоредактор с открытым исходным кодом, предназначенный для замены CapCut.Программа предлагает многодорожечное редактирование, автоматическую генерацию субтитров с использованием whisper.cpp и голосовые фильтры на основе ffmpeg.WolfCut работает на движке, написанном на Rust, с интерфейсом на React, обеспечивая быструю и отзывчивую работу.Приложение не требует создания аккаунта, не добавляет водяных знаков и не содержит платных функций.Lang: Rust https://github.com/jub0t/WolfCut https://github.com/jub0t/WolfCut================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/jub0t/WolfCut",
+    "tg_link": "https://t.me/open_source_friend/5995",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-09-20T09:31:04.452737+00:00"
+  },
+  {
     "post_id": "open_source_friend/5994",
     "channel": "open_source_friend",
     "text": "codeshotЭто инструмент командной строки для преобразования кода в красивые изображения прямо из терминала.Он работает без необходимости в браузере или сервере, обеспечивая полную автономность.Программа поддерживает различные стили окон, тринадцать тем оформления, десять фонов и восемь шрифтов.Lang: Go https://github.com/securekomodo/codeshot https://github.com/securekomodo/codeshot================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
