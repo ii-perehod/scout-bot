@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/6018",
+    "channel": "open_source_friend",
+    "text": "http://call.md/ call.mdЭто инструмент для записи, транскрипции и анализа встреч с использованием искусственного интеллекта в реальном времени.Он обеспечивает двуканальную транскрипцию, разделяя ваш голос и голос собеседника, а также предоставляет живые подсказки и метрики разговора во время встречи.После завершения встречи программа генерирует краткие обзоры, ключевые моменты и список действий, а также может интегрироваться с платформами автоматизации рабочих процессов. Lang: TypeScript https://github.com/video-db/call.md https://github.com/video-db/call.md================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "http://call.md/",
+    "tg_link": "https://t.me/open_source_friend/6018",
+    "category": "Автоматизация",
+    "is_free": true,
+    "found_at": "2026-09-27T10:17:26.007898+00:00"
+  },
+  {
     "post_id": "open_source_friend/6017",
     "channel": "open_source_friend",
     "text": "LAN-OrangutanЭто легковесный инструмент для самостоятельного хостинга, предназначенный для обнаружения устройств в локальной сети с поддержкой Tailscale.Он автоматически сканирует сети с помощью nmap, позволяет присваивать метки устройствам, группировать их и добавлять заметки.Поддерживает работу с несколькими сетями и интеграцию с Tailscale, автоматически обнаруживая узлы tailnet.Обеспечивает современный веб-интерфейс с поддержкой светлой и тёмной тем, а также полнофункциональный интерфейс командной строки с выводом в формате JSON.Lang: Go https://github.com/291-Group/LAN-Orangutan https://github.com/291-Group/LAN-Orangutan================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
