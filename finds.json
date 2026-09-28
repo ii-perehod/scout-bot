@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/6022",
+    "channel": "open_source_friend",
+    "text": "openinframapOpenInfraMap — это инструмент для визуализации инфраструктурных данных со всего мира, собранных из OpenStreetMap.Он предоставляет интерактивную карту, отображающую различные виды инфраструктуры, такие как энергетические сети, телекоммуникации, водоснабжение и нефтегазовые трубопроводы.Веб-интерфейс разработан на TypeScript с использованием MapLibre GL JS и предоставляет пользователям возможность исследовать инфраструктурные объекты в различных регионах.Проект поддерживает многозначность и приглашает добровольцев к участию в переводе интерфейса на другие языки через платформу Weblate.Lang: TypeScript https://github.com/openinframap/openinframap https://github.com/openinframap/openinframap================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/openinframap/openinframap",
+    "tg_link": "https://t.me/open_source_friend/6022",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-09-28T11:19:38.021812+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6021",
+    "channel": "open_source_friend",
+    "text": "kimi-k3-in-cЭто портативный движок для выполнения вывода модели Kimi K3 с 2,78 триллионами параметров на одном процессоре с использованием 8,24 ГБ оперативной памяти.Программа написана на языке C99 и не требует использования BLAS, фреймворков или GPU, обеспечивая независимость от внешних библиотек и оборудования.Для работы требуется быстрый NVMe SSD с минимум 1,56 ТБ свободного места для хранения контрольной точки модели.Скорость генерации составляет примерно 32,7 секунды на токен при использовании 8 ГБ оперативной памяти.Lang: C https://github.com/FareedKhan-dev/kimi-k3-in-c https://github.com/FareedKhan-dev/kimi-k3-in-c================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "tg_link": "https://t.me/open_source_friend/6021",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-09-28T11:19:38.021755+00:00"
+  },
+  {
     "post_id": "open_source_friend/6020",
     "channel": "open_source_friend",
     "text": "ai-copywriterЭто инструмент, предназначенный для создания текстов, которые привлекают внимание и звучат естественно, избегая признаков машинного происхождения.Он генерирует заголовки, короткие описания, микро-тексты и темы писем, ориентируясь на чувства и потребности целевой аудитории в конкретный момент.Программа анализирует потенциальные эмоции читателя и предлагает наиболее простые и понятные формулировки, чтобы обеспечить эффективную коммуникацию.Lang: Python https://github.com/mikiarlo3/ai-copywriter https://github.com/mikiarlo3/ai-copywriter================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
