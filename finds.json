@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1854",
+    "channel": "AI_for_product_owner",
+    "text": "🍁 Промпт дня: поздравляем учителей!Теплые осенние деньки продолжают радовать нас солнечной погодой и красотой красно-золотых деревьев. 🍂 Лучший подарок ко Дню Учителя, ведь можно проводить бабье лето, устроив пикник на природе, или просто погулять по красивому осеннему городу с близкими и друзьями.Ну, а мы как всегда – с открытками. Порадуйте ваших любимых учителей в школьных чатах персональным поздравлением вместо шаблонных картинок из интернета. Промпты забирайте в комментариях 👇👇👇 и не забывайте, что их можно адаптировать под себя. 😉#открытка#деньучителя",
+    "link": "https://t.me/AI_for_product_owner/1854",
+    "tg_link": "https://t.me/AI_for_product_owner/1854",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-09-30T21:05:32.984291+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6032",
+    "channel": "open_source_friend",
+    "text": "google-play-scraperЭто инструмент для Node.js, предназначенный для извлечения данных из Google Play с полностью типизированным API на TypeScript.Он позволяет получать информацию о приложениях, выполнять поиск, просматривать топ-чарты, отзывы, разрешения и данные о безопасности. Lang: TypeScript https://github.com/MrAdex77/google-play-scraper https://github.com/MrAdex77/google-play-scraper================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/MrAdex77/google-play-scraper",
+    "tg_link": "https://t.me/open_source_friend/6032",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-09-30T21:05:31.028434+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6031",
+    "channel": "open_source_friend",
+    "text": "drawtonomyЭто бесплатный браузерный инструмент для создания и симуляции дорожных сценариев, предназначенный для разработки автономного вождения, планирования дорожного движения и обучения вождению.Ключевые функции включают в себя возможность рисования полос движения, перекрёстков, транспортных средств и пешеходов с учётом топологии, а также экспорт сцен в форматы OpenDRIVE и Lanelet2.В режиме сценария пользователи могут добавлять события и триггеры, после чего запускать симуляцию прямо в браузере с получением результата в виде PASS/FAIL.Инструмент не требует установки или регистрации, а также поддерживает импорт карт Lanelet2 и сеток занятости ROS.Lang: TypeScript https://github.com/kosuke55/drawtonomy https://github.com/kosuke55/drawtonomy================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/kosuke55/drawtonomy",
+    "tg_link": "https://t.me/open_source_friend/6031",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-09-30T21:05:31.028382+00:00"
+  },
+  {
     "post_id": "ai_newz/4790",
     "channel": "ai_newz",
     "text": "Что показали OpenAI на DevDayГлавный анонс — dots, конкурент Muse и Grok Bot. Это постоянно работающий агент с собственным облачным компьютером, при этом dots не используют лимиты Codex. Фича доступна для Pro, Business Premium и Enterprise подписок.GPT 6.1 Sol — OpenAI решили заспидранить цикл релиза новой версии, с релиза GPT 6 Sol прошла всего неделя. Обещают почти уровень Astra, при цене токенов в 5x меньше.Анонсировали Pro Max подписку — $500 за 25x использования от Plus плана, подписка включает в себя Ultrafast режим для Astra, он в 8 раз быстрее и в 6 раз дороже. Также Ultrafast запустили в API и обещают добавить Ultrafast режим для GPT 6.1 Sol.Лимиты OpenAI подписки теперь можно использовать в 16 сторонних апках (Devin, Notion, OpenClaw), зайдя в них через ChatGPT. Надеюсь это раскатают на больше количество приложений.Decisions API — у OpenAI ушло всего две недели на то чтобы склонировать Jev и запустить конкурента на основе Luna. Пока что доступно по API в приватном превью, обе",
