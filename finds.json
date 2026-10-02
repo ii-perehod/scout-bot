@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/6036",
+    "channel": "open_source_friend",
+    "text": "git-writerЭто минималистичное кроссплатформенное приложение для ведения заметок, использующее Git-репозитории для версионного контроля и синхронизации Markdown-записей между устройствами.Программа поддерживает основные платформы, включая Linux, macOS, Windows, Android и iOS.Проект находится в активной разработке, и стабильный релиз пока недоступен.Lang: Kotlin https://github.com/jotalac/git-writer https://github.com/jotalac/git-writer================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/jotalac/git-writer",
+    "tg_link": "https://t.me/open_source_friend/6036",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-02T10:47:44.204046+00:00"
+  },
+  {
     "post_id": "open_source_friend/6035",
     "channel": "open_source_friend",
     "text": "sanityЭто инструмент для визуализации структуры репозитория, отображающий все файлы в виде панелей на едином масштабируемом холсте.Пользователь может просматривать структуру проекта при отдалении и читать код при приближении.При изменении файла на диске его панель мигает, а измененные строки отмечаются.Инструмент также позволяет воспроизводить историю git-репозитория, показывая изменения по одному коммиту за раз.Lang: TypeScript http://github.com/milanofthe/sanity http://github.com/milanofthe/sanity================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
