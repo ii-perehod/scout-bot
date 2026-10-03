@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/6041",
+    "channel": "open_source_friend",
+    "text": "lipflowЭто программа, позволяющая вводить текст без звука, просто беззвучно произнося слова перед веб-камерой.Она работает локально на вашем Mac или Windows ПК, не требуя микрофона, и использует только веб-камеру для распознавания движений губ.Программа поддерживает исправление ошибок распознавания с помощью модели LLM, обеспечивая более точный ввод текста.Lang: Python https://github.com/amywork777/lipflow https://github.com/amywork777/lipflow================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/amywork777/lipflow",
+    "tg_link": "https://t.me/open_source_friend/6041",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-03T19:35:53.723164+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6040",
+    "channel": "open_source_friend",
+    "text": "logo-design-skillЭто инструмент для создания профессиональных логотипов с помощью AI-агентов, таких как Claude, Gemini CLI, Codex и других.Он предоставляет полный процесс разработки логотипа, включая принципы дизайна, процесс от брифа до готовых SVG-файлов и бренд-гайдлайнов.Включает библиотеку из более чем 1400 реальных SVG-логотипов, классифицированных по типу, технике, геометрии, тематике, типографике, настроению и индустрии.Lang: HTML https://github.com/kaankiziltug/logo-design-skill https://github.com/kaankiziltug/logo-design-skill================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/kaankiziltug/logo-design-skill",
+    "tg_link": "https://t.me/open_source_friend/6040",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-03T19:35:53.723114+00:00"
+  },
+  {
     "post_id": "open_source_friend/6039",
     "channel": "open_source_friend",
     "text": "AnyPS5Это инструмент для автоматической конвертации исполняемых файлов PlayStation 5 в нативный формат для работы на Linux и Windows.Он включает в себя релинкер, который преобразует исполняемый файл в формат целевой системы, а также реализации системных библиотек prx, подходящих для динамической линковки.В отличие от эмуляторов, AnyPS5 не использует эмуляцию или отдельные процессы выполнения, обеспечивая более эффективную работу приложений.Lang: C++ https://github.com/boykopovar/AnyPS5 https://github.com/boykopovar/AnyPS5================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
