@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/6042",
+    "channel": "open_source_friend",
+    "text": "scottokeebsScottoKeebs — это обширная коллекция бесплатных проектов по созданию механических клавиатур и макропадов с ручной проводкой.Проекты разработаны таким образом, чтобы их можно было напечатать на стандартном 3D-принтере размером 220x220 мм с минимальным количеством поддержек.В качестве контроллеров используются Arduino Pro Micro или более мощный Raspberry Pi Pico.С момента запуска в сентябре 2022 года было выпущено более 19 проектов, доступных для свободного использования.Lang: C https://github.com/joe-scotto/scottokeebs https://github.com/joe-scotto/scottokeebs================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/joe-scotto/scottokeebs",
+    "tg_link": "https://t.me/open_source_friend/6042",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-04T10:48:33.469152+00:00"
+  },
+  {
     "post_id": "open_source_friend/6041",
     "channel": "open_source_friend",
     "text": "lipflowЭто программа, позволяющая вводить текст без звука, просто беззвучно произнося слова перед веб-камерой.Она работает локально на вашем Mac или Windows ПК, не требуя микрофона, и использует только веб-камеру для распознавания движений губ.Программа поддерживает исправление ошибок распознавания с помощью модели LLM, обеспечивая более точный ввод текста.Lang: Python https://github.com/amywork777/lipflow https://github.com/amywork777/lipflow================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
