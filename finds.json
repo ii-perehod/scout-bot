@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4792",
+    "channel": "ai_newz",
+    "text": "Google отправили четыре TPU в космосПрототип Project Suncatcher вышел на орбиту 1 октября на ракете SpaceX в рамках миссии Transporter-18. Спутник сделали вместе с Planet, на борту четыре TPU. Google уже подтвердили связь с аппаратом и штатную работу.В ближайшие недели будут проверять, как чипы переносят радиацию и перепады температур в реальных условиях. Это первый орбитальный эксперимент проекта, который изучает возможность масштабировать вычисления для ИИ в космосе.Солнечные панели на подходящей орбите могут давать до восьми раз больше энергии, чем на Земле. А вот с охлаждением придётся повозиться. В вакууме нет воздуха, поэтому тепло от TPU отводят через тепловые трубки и радиаторы. Холодный космос сам по себе проблему перегрева не решает. https://x.com/Google/status/2105803583648100611 Анонс https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/ Запуск https://blog.google/innovation-and-ai/models-and-research/google-research/google-",
+    "link": "https://x.com/Google/status/2105803583648100611",
+    "tg_link": "https://t.me/ai_newz/4792",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-04T19:50:36.503222+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6044",
+    "channel": "open_source_friend",
+    "text": "web-shotЭто расширение для Google Chrome, предназначенное для создания полноразмерных скриншотов веб-страниц.Оно автоматически прокручивает страницу, объединяет отдельные кадры в один PNG-файл и сохраняет его в папку «Загрузки».Скриншот также копируется в буфер обмена, что позволяет сразу вставить его в мессенджер или редактор.Расширение корректно обрабатывает закреплённые элементы страницы, такие как шапки, плавающие баннеры и «липкие» блоки, отображая их только один раз в соответствующих местах.Lang: JavaScript https://github.com/HelpFreedom/web-shot https://github.com/HelpFreedom/web-shot================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/HelpFreedom/web-shot",
+    "tg_link": "https://t.me/open_source_friend/6044",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-04T19:50:35.729382+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6043",
+    "channel": "open_source_friend",
+    "text": "OpenDotsOpenDots — это шаблон для создания персональных AI-агентов, которые могут работать в режиме реального времени, взаимодействуя через текст, голосовые вызовы и Slack.Ключевые функции включают возможность создания и настройки агентов с индивидуальными задачами, интеграцию с различными сервисами и адаптацию интерфейса под конкретные потребности.Программа полностью самохостится, что позволяет пользователям развертывать и настраивать её по своему усмотрению.Lang: TypeScript https://github.com/CopilotKit/OpenDots https://github.com/CopilotKit/OpenDots================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/CopilotKit/OpenDots",
+    "tg_link": "https://t.me/open_source_friend/6043",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-04T19:50:35.729322+00:00"
+  },
+  {
     "post_id": "open_source_friend/6042",
     "channel": "open_source_friend",
     "text": "scottokeebsScottoKeebs — это обширная коллекция бесплатных проектов по созданию механических клавиатур и макропадов с ручной проводкой.Проекты разработаны таким образом, чтобы их можно было напечатать на стандартном 3D-принтере размером 220x220 мм с минимальным количеством поддержек.В качестве контроллеров используются Arduino Pro Micro или более мощный Raspberry Pi Pico.С момента запуска в сентябре 2022 года было выпущено более 19 проектов, доступных для свободного использования.Lang: C https://github.com/joe-scotto/scottokeebs https://github.com/joe-scotto/scottokeebs================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
