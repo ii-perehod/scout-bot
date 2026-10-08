@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4801",
+    "channel": "ai_newz",
+    "text": "OpenAI запустили Ultrafast для Sol 6.1Режим доступен в Codex/Work для $500 подписчиков и в API за $12/$60 за миллион токенов. Кстати железо Cerebras для Ultrafast не используют, это всё Nvidia Blackwell с небольшим размером батча. А весь инференс на Cerebras выкупили несколько больших клиентов занимающихся трейдингом, вроде Jane Street. https://t.me/ai_newz @ai_newz",
+    "link": "https://t.me/ai_newz",
+    "tg_link": "https://t.me/ai_newz/4801",
+    "category": "Другое",
+    "is_free": false,
+    "found_at": "2026-10-08T21:38:08.244889+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6058",
+    "channel": "open_source_friend",
+    "text": "FolderOrganizerFolderOrganizer — это инструмент для автоматической организации файлов на Windows и Linux с использованием настраиваемых правил.Программа позволяет пользователям создавать собственные правила для сортировки файлов по различным критериям, таким как расширение, имя или дата создания.Она поддерживает работу в фоновом режиме, обеспечивая непрерывную организацию файлов без вмешательства пользователя.Приложение является кроссплатформенным и работает как на Windows, так и на Linux, предоставляя гибкость в использовании.Lang: JavaScript https://github.com/FrEaKAlL/FolderOrganizer https://github.com/FrEaKAlL/FolderOrganizer================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/FrEaKAlL/FolderOrganizer",
+    "tg_link": "https://t.me/open_source_friend/6058",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-08T21:38:07.251301+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6057",
+    "channel": "open_source_friend",
+    "text": "snugЭто расширение для браузеров, предназначенное для экспорта, импорта и резервного копирования закладок в популярных форматах из Chrome или Safari по расписанию.Ключевые функции включают возможность экспорта всей структуры закладок или отдельных папок в шести различных форматах, импорт с предварительным просмотром и выбором режима слияния, замены или создания новой папки, а также поиск и удаление дубликатов закладок.Все операции выполняются локально без обращения к сети, обеспечивая конфиденциальность данных пользователя.Lang: TypeScript https://github.com/AndryOre/snug https://github.com/AndryOre/snug================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/AndryOre/snug",
+    "tg_link": "https://t.me/open_source_friend/6057",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-08T21:38:07.251245+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1867",
     "channel": "AI_for_product_owner",
     "text": "Промпт дня: фантазируем на тему знака зодиака ✨Сегодня предлагаем вам сделать картинку, достойную стать иллюстрацией к роману в стиле фэнтези. В основе – ваш знак зодиака.Фото сделано в Nano banana 2Промпт:Fashion editorial full-body portrait of a model embodying the zodiac sign of [КОЗЕРОГ].Design a single original haute couture outfit from scratch. You must interpret and translate the archetype of ZODIAC SIGN into: 1. Silhouette, 2. Fabric and texture, 3. Symbolic details.In the far background, create a colossal giant embodiment for this same sign, SCALE LOGIC: If the sign is human in nature (Virgo, Sagittarius, Aquarius, Libra, Gemini) - create a colossal human; If animal in nature (Aries, Taurus, Cancer, Leo, Scorpio, Capricorn, Pisces) - create a colossal realistic creature based on the sign; If Gemini - create an identical twin of the main model. The giant must be distant, out of focus, looming over the horizon, creating epic scale.Surreal minimalist landscape that embodies the e",
