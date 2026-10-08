@@ -1,5 +1,65 @@
 [
   {
+    "post_id": "AI_for_product_owner/1867",
+    "channel": "AI_for_product_owner",
+    "text": "Промпт дня: фантазируем на тему знака зодиака ✨Сегодня предлагаем вам сделать картинку, достойную стать иллюстрацией к роману в стиле фэнтези. В основе – ваш знак зодиака.Фото сделано в Nano banana 2Промпт:Fashion editorial full-body portrait of a model embodying the zodiac sign of [КОЗЕРОГ].Design a single original haute couture outfit from scratch. You must interpret and translate the archetype of ZODIAC SIGN into: 1. Silhouette, 2. Fabric and texture, 3. Symbolic details.In the far background, create a colossal giant embodiment for this same sign, SCALE LOGIC: If the sign is human in nature (Virgo, Sagittarius, Aquarius, Libra, Gemini) - create a colossal human; If animal in nature (Aries, Taurus, Cancer, Leo, Scorpio, Capricorn, Pisces) - create a colossal realistic creature based on the sign; If Gemini - create an identical twin of the main model. The giant must be distant, out of focus, looming over the horizon, creating epic scale.Surreal minimalist landscape that embodies the e",
+    "link": "https://t.me/ainanobot_bot?start=post_zodiakfantasy",
+    "tg_link": "https://t.me/AI_for_product_owner/1867",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-08T11:41:16.105079+00:00"
+  },
+  {
+    "post_id": "ai_newz/4800",
+    "channel": "ai_newz",
+    "text": "Google выкатили Nano Banana 2.1Апдейт не мажорный, довольно слабый.Обновили базу на Gemini 3.6 Flash. Обещают более качественные картинки (на самом деле оно мало отличается от NB 2.0), точные правки и лучшее сохранение внешности персонажей при последовательном редактировании. Подтянули текст и исправили артефакты на панорамах в 2K/4K. Вывод 1K-картинки в API стоит $0,0336 без учёта входа и thinking, примерно вдвое дешевле прежнего.Но картинка после серии правок всё ещё едет. В новом Edit Drift одну фотографию меняют 40 раз подряд и измеряют изменения нетронутых областей. Nano Banana 2.1 получила 54,9 балла сохранности против 56,0 у версии 2 и 96,8 у FLUX 3. Чем выше, тем лучше.Автор использовал лучший доступный режим для каждой модели. FLUX передавали координаты области правки. У Nano Banana такого параметра в использованном API нет, поэтому нужный объект указывали в промпте. Это один прогон на одном фото, а баллы оценивают сохранность нетронутых участков, а не качество самих правок. h",
+    "link": "https://deepmind.google/models/model-cards/nano-banana-2-1/",
+    "tg_link": "https://t.me/ai_newz/4800",
+    "category": "Open Source",
+    "is_free": false,
+    "found_at": "2026-10-08T11:41:14.199476+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6056",
+    "channel": "open_source_friend",
+    "text": "Безопасность ИИ-агентов через призму кибериммунитета Это руководство «Лаборатории Касперского» о том, как проектировать ИИ-агентов, которые работают с базами данных, вызывают внешние API и исполняют код.🔻В нём разобраны реальные атаки через контекст: EchoLeak, SearchLeak и CamoLeak. В этих атаках вредоносная инструкция попадает к агенту через письмо, поисковую выдачу или комментарий в репозитории, и модель исполняет её как свою.🔻Отдельно объясняется, почему LLM не может быть доверенным компонентом системы: модель не отличает данные от команд, а логику её решений нельзя проверить.🔻Практическая часть посвящена изоляции агента и контролю инструментов, к которым у него есть доступ. Материал подаётся через схемы и факты.Подойдёт архитекторам, разработчикам и руководителям, которые встраивают ИИ-агентов в рабочие системы. https://lp.kaspersky.com/ru/ai?utm_campaign=ii-check-list&amp;utm_source=tg-opensource&amp;utm_medium=paidsocial&amp;utm_term=post&amp;utm_content=5637481335/?erid=2W5zFGeg",
+    "link": "https://lp.kaspersky.com/ru/ai?utm_campaign=ii-check-list&amp;utm_source=tg-opensource&amp;utm_medium=paidsocial&amp;utm_term=post&amp;utm_content=5637481335/?erid=2W5zFGegDGd",
+    "tg_link": "https://t.me/open_source_friend/6056",
+    "category": "SEO",
+    "is_free": true,
+    "found_at": "2026-10-08T11:41:13.155108+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6055",
+    "channel": "open_source_friend",
+    "text": "WifiWatchЭто приложение для Windows, предназначенное для мониторинга параметров Wi-Fi соединения, таких как канал, уровень сигнала и задержка (ping), с последующей записью всех изменений.Программа регистрирует все обрывы Wi-Fi-соединения, вытеснения из сети с помощью радара DFS и скачки пинга.  Lang: C# https://github.com/poolfullofmilk/WifiWatch https://github.com/poolfullofmilk/WifiWatch================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/poolfullofmilk/WifiWatch",
+    "tg_link": "https://t.me/open_source_friend/6055",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-08T11:41:13.155056+00:00"
+  },
+  {
+    "post_id": "maya_pro/1370",
+    "channel": "maya_pro",
+    "text": "«VK умер ! Да здравствует VK», ~95 млн человек в месяц и парачка агентов 😉 95 млн человек в месяц сидят во ВКонтакте — это 9 из 10 всего Рунета. Вопрос только один: Как это использовать ? Да - мне тоже не нравиться, да всё не то и всё не так, НО есть такое слово - НАДО! Бизнес, увеличение охватов итд, тут каждому своё. Это НОВЫЙ подход в автоматизации без API ключей и прочего барахла работающий 24/7 -  https://x.ai/bot GROK BOTА вот и работники для вашего ГрокБота. Установка крайне простая: после установки грок бота - переходите по ссылкам и добавляете работников в ваш офис. ВСЁ📱   https://x.ai/bot/BJ0tuycJsu8nohtBFDIAi VK автоответчик:  отвечает в личке, в сообщениях сообщества и в комментариях. Отвечает нейросеть: живым языком, вашим тоном и на основе ваших фактов, поэтому цены и ссылки не выдумывает. Всё сложное передаёт вам, первым никому не пишет. (пока не попросите)📱  https://x.ai/bot/2pGGdWsuae54ukKlhSz1a VK SMM сообщество и канал: Ведёт ваше сообщество и канал ВКонтакте так, ка",
+    "link": "https://x.ai/bot",
+    "tg_link": "https://t.me/maya_pro/1370",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-08T11:41:12.101060+00:00"
+  },
+  {
+    "post_id": "maya_pro/1368",
+    "channel": "maya_pro",
+    "text": "Grok Bot не соврал.Попросил записать прохождение капчи на Дзене, ну собственно отчёт от GrokBot - поделился видео. 😉Также интересный кейс с платного канала. Там вообще крутой результат с 1C, разбор 15700 записей. Реакцию надо видеть ))) Ну что сказать. Работа выходит на новый уровень. Агенты это уже не про текст, програмку, сайтик - это уже масштабно и везде. Следующий пост - вкуснятина✅  https://mayai.ru/  Обучение по автоматизации с помощью Агентов",
+    "link": "https://mayai.ru/",
+    "tg_link": "https://t.me/maya_pro/1368",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-10-08T11:41:12.100970+00:00"
+  },
+  {
     "post_id": "ai_newz/4799",
     "channel": "ai_newz",
     "text": "Вышла Claude Haiku 5.5Спустя почти год после выхода прошлой версии Anthropic решили что они всё же хотят быть представлены в нижнем ценовом сегменте. По бенчам выглядит заметно лучше GPT 6 Luna. Цена — $0,1/$0,5 за миллион токенов на запросах до 100к токенов, на запросах длиннее цена выростает в ПЯТЬ раз, $0,5/$2,5. https://t.me/ai_newz @ai_newz",
