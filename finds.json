@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1869",
+    "channel": "AI_for_product_owner",
+    "text": "Как полностью упаковать соцсети с помощью ChatGPT: один skill для готового визуала в едином стилеПродолжаем знакомить вас с результатами участников клуба «ChatGPT для каждого».Задача: подготовить полную визуальную линейку для соцсетей для домашнего кондитера.Решение: использовать универсальный авторский скилл для ChatGPT. Результат превзошел ожидания:✔️ быстро✔️ точно с точки зрения дизайна✔️ в едином стиле без дополнительных правокХотите так же облегчить и ускорить свою работу с помощью нейросетей?Переходите по ссылке👇👇👇[ https://t.me/chat_gpt_for_everyone_bot?start=dl-1791296134dc4fce4c02e4 ПРИСОЕДИНИТЬСЯ К КЛУБУ]",
+    "link": "https://t.me/chat_gpt_for_everyone_bot?start=dl-1791296134dc4fce4c02e4",
+    "tg_link": "https://t.me/AI_for_product_owner/1869",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-09T11:34:23.187199+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6060",
+    "channel": "open_source_friend",
+    "text": "git-graffitiЭто инструмент для изменения префиксов хэшей коммитов в Git, позволяющий создавать визуально привлекательные или осмысленные последовательности символов в истории коммитов.Программа использует метод перебора (brute-force) для подбора скрытого значения (nonce) в коммите, чтобы добиться желаемого префикса хэша, например, \"dead000\", \"beef000\" или \"c0ffee0\".Это позволяет пользователям персонализировать историю коммитов, делая её более читаемой или забавной при просмотре с помощью команды git log --oneline.Lang: Rust https://github.com/itsbryanman/git-graffiti https://github.com/itsbryanman/git-graffiti================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/itsbryanman/git-graffiti",
+    "tg_link": "https://t.me/open_source_friend/6060",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-09T11:34:21.225323+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6059",
+    "channel": "open_source_friend",
+    "text": "oh-my-mermaidЭто инструмент командной строки, который с помощью искусственного интеллекта анализирует кодовую базу и автоматически генерирует архитектурные диаграммы в формате Mermaid. Инструмент поддерживает интеграцию с популярными AI-инструментами для программирования, такими как Claude Code, Codex и Cursor, обеспечивая удобство использования в различных средах разработки.Lang: TypeScript https://github.com/oh-my-mermaid/oh-my-mermaid https://github.com/oh-my-mermaid/oh-my-mermaid================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/oh-my-mermaid/oh-my-mermaid",
+    "tg_link": "https://t.me/open_source_friend/6059",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-09T11:34:21.225258+00:00"
+  },
+  {
     "post_id": "ai_newz/4801",
     "channel": "ai_newz",
     "text": "OpenAI запустили Ultrafast для Sol 6.1Режим доступен в Codex/Work для $500 подписчиков и в API за $12/$60 за миллион токенов. Кстати железо Cerebras для Ultrafast не используют, это всё Nvidia Blackwell с небольшим размером батча. А весь инференс на Cerebras выкупили несколько больших клиентов занимающихся трейдингом, вроде Jane Street. https://t.me/ai_newz @ai_newz",
