@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/6063",
+    "channel": "open_source_friend",
+    "text": "RTX 4090 остается практичным выбором для ИИ-инженеров. 24 ГБ VRAM и поддержка FP8 на архитектуре Ada Lovelace обеспечивают высокую скорость инференса и сохранение точности. Однако для масштабных задач одной видеокарты недостаточно.В  http://immers.cloud/ immers.cloud можно арендовать сервер с возможностью подключения до 8 видеокарт RTX 4090 одновременно. Такая конфигурация позволяет эффективно распределять нагрузку при инференсе крупных моделей, fine-tuning или рендеринге.В каталоге  https://tglink.io/ef2ae909b7a8b2?erid=2W5zFH7nAs3 Immers Foundation Models доступны готовые конфигурации для развертывания актуальных архитектур на таких кластерах:•  https://tglink.io/38d17c3748ea2e?erid=2W5zFH7nAs3 Qwen3.8-27B•  https://tglink.io/0586847b3c3c10?erid=2W5zFH7nAs3 Unlimited-OCR•  https://tglink.io/3099658037a60a?erid=2W5zFH7nAs3 Gemma-4-12B-itОцените инференс через бесплатные публичные эндпоинты или разверните приватный инстанс на выделенном железе. Оплата начисляется только за фактическое ",
+    "link": "http://immers.cloud/",
+    "tg_link": "https://t.me/open_source_friend/6063",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-10T10:52:13.081692+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6062",
+    "channel": "open_source_friend",
+    "text": "openscreenOpenScreen — это бесплатный и открытый инструмент для записи экрана и редактирования видео, доступный для Windows, macOS и Linux.Программа поддерживает запись всего экрана или отдельных окон с возможностью захвата системного звука, микрофона и веб-камеры, а также предлагает функции автоматического масштабирования, улучшения курсора и AI-помощника для редактирования.Экспорт видео осуществляется в форматах MP4 и GIF с использованием GPU-ускорения, без водяных знаков и подписок.OpenScreen активно поддерживается сообществом и распространяется под лицензией MIT, что позволяет свободно использовать его в коммерческих целях.Lang: TypeScript https://github.com/getopenscreen/openscreen https://github.com/getopenscreen/openscreen================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/getopenscreen/openscreen",
+    "tg_link": "https://t.me/open_source_friend/6062",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-10T10:52:13.081608+00:00"
+  },
+  {
     "post_id": "open_source_friend/6061",
     "channel": "open_source_friend",
     "text": "tabathaTabatha — это расширение для браузера Chrome, предоставляющее функциональность быстрого переключения между открытыми вкладками с помощью сочетания клавиш `Alt`+`Q`.Основные функции включают в себя живые превью каждой вкладки, позволяющие видеть содержимое в реальном времени, а также возможность поиска и навигации по вкладкам с помощью клавиатуры или мыши.Дополнительно Tabatha поддерживает восстановление недавно закрытых вкладок и переключение между окнами браузера.Lang: JavaScript https://github.com/Vajrayu/tabatha https://github.com/Vajrayu/tabatha================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
