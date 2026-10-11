@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/6068",
+    "channel": "open_source_friend",
+    "text": "AnimatorЭто инструмент, который автоматически создает озвученные видео в стиле рисованной анимации на основе текстового запроса.Он генерирует сценарий, рисует сцены, записывает озвучку и анимирует иконки в соответствии с произносимыми предложениями.Пример команды: `python -m animator --prompt \"Как летают самолеты?\" -o plane.mp4` создаст видео с объяснением принципов полета самолетов.Процесс создания 4–5 сцен занимает около минуты.Lang: Python https://github.com/ashishjamarkattel/Animator https://github.com/ashishjamarkattel/Animator================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/ashishjamarkattel/Animator",
+    "tg_link": "https://t.me/open_source_friend/6068",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-11T20:42:23.549598+00:00"
+  },
+  {
     "post_id": "open_source_friend/6067",
     "channel": "open_source_friend",
     "text": "pitwallPitwall — это нативный мультиплексор терминала, предназначенный для управления сессиями кодирования агентов.Он обеспечивает отображение текущего статуса агентов в реальном времени и поддерживает сохранение сессий для их последующего восстановления.Программа разработана для повышения эффективности работы с агентами, предоставляя удобный интерфейс для мониторинга и управления их активностью.Lang: Go https://github.com/quanticstudios/pitwall https://github.com/quanticstudios/pitwall",
