@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/6070",
+    "channel": "open_source_friend",
+    "text": "claude-motionЭто инструмент для создания анимаций, предназначенный для интеграции с кодирующими агентами.Он позволяет преобразовывать текст, диаграммы, формы и изображения в короткие анимационные видеоролики.Анимации создаются в виде кода, что упрощает их редактирование и настройку.Lang: JavaScript https://github.com/whaleyxbt/claude-motion https://github.com/whaleyxbt/claude-motion================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/whaleyxbt/claude-motion",
+    "tg_link": "https://t.me/open_source_friend/6070",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-12T12:34:24.855833+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6069",
+    "channel": "open_source_friend",
+    "text": "stargazerЭто инструмент, позволяющий преобразовывать список пользователей, поставивших звёздочку вашему GitHub-репозиторию, в кинематографические социальные карточки размером 1600x900 и 60fps MP4-видеопетли непосредственно в браузере.Он использует GitHub API для получения информации о звёздах и фреймворк Framer Motion для создания анимаций.Приложение разработано с использованием React, TypeScript и Tailwind CSS, что обеспечивает современный и отзывчивый интерфейс. https://github.com/CharanMunur/stargazer https://github.com/CharanMunur/stargazer Lang: TypeScript================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/CharanMunur/stargazer",
+    "tg_link": "https://t.me/open_source_friend/6069",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-12T12:34:24.855778+00:00"
+  },
+  {
     "post_id": "open_source_friend/6068",
     "channel": "open_source_friend",
     "text": "AnimatorЭто инструмент, который автоматически создает озвученные видео в стиле рисованной анимации на основе текстового запроса.Он генерирует сценарий, рисует сцены, записывает озвучку и анимирует иконки в соответствии с произносимыми предложениями.Пример команды: `python -m animator --prompt \"Как летают самолеты?\" -o plane.mp4` создаст видео с объяснением принципов полета самолетов.Процесс создания 4–5 сцен занимает около минуты.Lang: Python https://github.com/ashishjamarkattel/Animator https://github.com/ashishjamarkattel/Animator================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
