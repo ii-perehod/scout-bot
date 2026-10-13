@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1871",
+    "channel": "AI_for_product_owner",
+    "text": "😺 Наташа, мы все починили: оплата Базы и Клуба снова работает!Ура! Сервисы для оплаты вернулись в строй, и вы снова можете присоединиться к нашей «Базе промптов» и клубу «ChatGPT для каждого»!❗️Важно! Если страница не открывается или долго прогружается, не сдавайтесь – попытайтесь снова, и все получится! 😉В качестве приятного бонуса за все пережитые волнения и неудобства предлагаем вам вступить в Клуб со скидкой:🔸 2490 1990 р. за самостоятельный тариф🔸 3990 2990 р. за тариф с поддержкой Максима⚡️ Бонусная цена действует до конца недели, то есть до 18 октября включительно 👉  https://t.me/chat_gpt_for_everyone_bot?start=dl-1791895343e1c709163218 за скидкой сюдаПользоваться десятками готовых промптов из «Базы» можно по-прежнему за 690 р. в месяц или купить подписку сразу на 3 месяца за 1990 р. 👉  https://t.me/Aiforproduct_bot?start=dl-176673617894cf772dc042 подписаться на «Базу»",
+    "link": "https://t.me/chat_gpt_for_everyone_bot?start=dl-1791895343e1c709163218",
+    "tg_link": "https://t.me/AI_for_product_owner/1871",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-10-13T21:38:28.923209+00:00"
+  },
+  {
+    "post_id": "ai_newz/4804",
+    "channel": "ai_newz",
+    "text": "Google очнулся и показал Gemini 4 Argon  Заявляют что модель тягается с Astra, Fable и новым опусом. Пока что доступна в закрытом превью, обещают полноценный релиз \"скоро\", доступ будет сначала у подписчиков Ultra и через API. Первое время цена будет $2/$10…",
+    "link": "https://t.me/ai_newz/4804",
+    "tg_link": "https://t.me/ai_newz/4804",
+    "category": "ИИ",
+    "is_free": false,
+    "found_at": "2026-10-13T21:38:26.792654+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6074",
+    "channel": "open_source_friend",
+    "text": "effectcraftEffectCraft — это бесплатный и открытый инструмент для создания анимационной графики и визуальных эффектов, разработанный как чистая реализация Adobe After Effects на языке программирования Rust.Программа поддерживает композиции, слои, ключевые кадры, более 300 эффектов, стили слоев, выражения, 3D-камеры и освещение, а также очередь рендеринга, обеспечивая знакомый интерфейс для пользователей After Effects.EffectCraft доступен для macOS, Windows, Linux и может работать в браузере, сохраняя проекты в формате .ecproj, представляющем собой читаемый JSON с версионностью.Проект активно развивается, стремясь достичь функциональности After Effects, с текущими возможностями, описанными в дорожной карте.Lang: Rust https://github.com/storytold/effectcraft https://github.com/storytold/effectcraft================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/storytold/effectcraft",
+    "tg_link": "https://t.me/open_source_friend/6074",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-13T21:38:25.781894+00:00"
+  },
+  {
     "post_id": "open_source_friend/6073",
     "channel": "open_source_friend",
     "text": "cadcraftCADCraft — это бесплатное и открытое программное обеспечение для автоматизированного проектирования и черчения, разработанное с нуля на языке Rust, представляющее собой альтернативу AutoCAD.Программа поддерживает командную строку, объектные привязки, слои, размеры, штриховки, блоки и работу с файлами DXF и DWG, обеспечивая знакомый рабочий процесс для пользователей AutoCAD.CADCraft работает нативно на macOS, Windows, Linux и FreeBSD, а также доступна в браузере через WebAssembly, обеспечивая высокую производительность без использования Electron или веб-просмотров.Приложение предоставляет возможности для автоматизации через MCP-сервер, JSON-контрольный канал и командную строку, что позволяет интегрировать его в различные рабочие процессы.Lang: Rust https://github.com/storytold/cadcraft https://github.com/storytold/cadcraft================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/ope",
