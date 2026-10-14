@@ -1,5 +1,55 @@
 [
   {
+    "post_id": "AI_for_product_owner/1872",
+    "channel": "AI_for_product_owner",
+    "text": "🍌 Апгрейд в NanoBot: улучшенная модель Nano Banana 2.1 стала еще круче для ваших нейрофотоОтличные новости для всех, кто создает контент и работает с визуалом! Буквально на днях компания Google выпустила масштабный апдейт своей топовой модели Nano Banana. Мы оперативно добавили Nano Banana 2.1 в  https://t.me/ainanobot_bot?start=post_nanobanana21 наш бот, и вы можете протестировать ее уже сейчас.Разработчики сделали главный акцент на качестве, реалистичности и ювелирной точности выполнения ваших команд. Оцените графику в примерах! При этом модель сохранила свою фирменную быструю генерацию – чтобы создать картинку, требуется меньше минуты.По официальным данным и результатам первых тестов, обновленная модель выдает более высокий уровень графики:⚡️ Максимальная реалистичность: генерации стали выглядеть естественнее. Разработчики серьезно прокачали детализацию в разрешениях 1K, 2K и ультрачетком 4K.⚡️ Строго по ТЗ: ИИ лучше считывает промпты и точнее передает даже мелкие детали из вашего о",
+    "link": "https://t.me/ainanobot_bot?start=post_nanobanana21",
+    "tg_link": "https://t.me/AI_for_product_owner/1872",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-14T20:22:01.806863+00:00"
+  },
+  {
+    "post_id": "ai_newz/4808",
+    "channel": "ai_newz",
+    "text": "FreeVideo запускает MiniMax H3 на домашней видеокартеЗаявленный минимум для генерации видео составляет 8 GB VRAM и 16 GB оперативки. FreeVideo работает плагином для ComfyUI, поддерживает LoRA, первый и последний кадры, а также референсы. Для Windows есть установщик, который сам подтягивает окружение и модели.В основе 8-шаговая VDN-H3 с гибридным attention. Движок распределяет веса между видеопамятью, оперативкой и диском, подгружая нужные части по ходу генерации.Для 8 GiB VRAM и 16 GiB RAM авторы приводят 13,8 секунды на шаг генерации, но это серверная H200 с искусственным лимитом памяти. Замера полного ролика на домашней 8 GB карте в документации нет. На Windows RTX 5060 Ti с 16 GB VRAM и 32 GB RAM генерирует 10 секунд видео в 768p за 486 секунд. https://github.com/FlashML-org/FreeVideo Код и установка https://openvdn.github.io/ VDN https://github.com/FlashML-org/FreeVideo/blob/main/docs/execution-planning.md Замеры https://t.me/ai_newz @ai_newz",
+    "link": "https://github.com/FlashML-org/FreeVideo",
+    "tg_link": "https://t.me/ai_newz/4808",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-14T20:22:00.286269+00:00"
+  },
+  {
+    "post_id": "ai_newz/4805",
+    "channel": "ai_newz",
+    "text": "Платите команде в СНГ безопасно и быстро https://restaff.work/sng?utm_source=tg&amp;utm_medium=posev&amp;utm_campaign=tg_ai_newz_121026 Платформа ReStaff позволяет легально сотрудничать с контракторами в 190 странах. Айтишники получают оплаты на карты и счета в любых банках. Выгодно для компаний с 5 и более исполнителями: один контракт заменяет десятки договоров с удаленщиками. Прозрачная конвертация и стабильные выплаты без сбоев. https://restaff.work/sng?utm_source=tg&amp;utm_medium=posev&amp;utm_campaign=tg_ai_newz_121026 Запишитесь на демо — расскажут о возможностях сервиса для выплат в сложные юрисдикции в СНГ.#промо",
+    "link": "https://restaff.work/sng?utm_source=tg&amp;utm_medium=posev&amp;utm_campaign=tg_ai_newz_121026",
+    "tg_link": "https://t.me/ai_newz/4805",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-10-14T20:22:00.286232+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6077",
+    "channel": "open_source_friend",
+    "text": "clearcamЭто программное обеспечение, которое добавляет функции обнаружения объектов, отслеживания, мобильных уведомлений и поиска к любой системе видеонаблюдения.Ключевые функции включают в себя возможность удаленного просмотра живых видеопотоков, получение уведомлений о событиях (например, обнаружение объектов или людей) и доступ к видеоклипам с зафиксированными событиями.Программа поддерживает сквозное шифрование всех данных, обеспечивая высокий уровень безопасности.Lang: Python https://github.com/roryclear/clearcam https://github.com/roryclear/clearcam================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/roryclear/clearcam",
+    "tg_link": "https://t.me/open_source_friend/6077",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-14T20:21:59.553138+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6076",
+    "channel": "open_source_friend",
+    "text": "apex-download-managerЭто бесплатный и открытый менеджер загрузок для Windows, разработанный на языке Rust.Программа поддерживает одновременную загрузку файлов через до 32 соединений, обеспечивая высокую скорость скачивания.Она позволяет возобновлять прерванные загрузки с точного места остановки, что предотвращает потерю данных.Интеграция с браузером позволяет автоматически перехватывать ссылки для загрузки, упрощая процесс скачивания.Приложение не требует регистрации, не содержит рекламы и не собирает телеметрию, обеспечивая конфиденциальность пользователей.Lang: Rust https://github.com/ThembaTman0/apex-download-manager https://github.com/ThembaTman0/apex-download-manager================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/ThembaTman0/apex-download-manager",
+    "tg_link": "https://t.me/open_source_friend/6076",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-14T20:21:59.553088+00:00"
+  },
+  {
     "post_id": "open_source_friend/6075",
     "channel": "open_source_friend",
     "text": "GarmentCodeЭто модульный программный фреймворк для проектирования параметрических выкроек одежды.Он позволяет создавать индивидуальные выкройки, адаптированные под конкретные размеры тела и дизайнерские параметры.Фреймворк поддерживает генерацию синтетических данных и симуляцию одежды с использованием расширенной версии симулятора NVIDIA Warp.Lang: Python https://github.com/maria-korosteleva/GarmentCode https://github.com/maria-korosteleva/GarmentCode================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
