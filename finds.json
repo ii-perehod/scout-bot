@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "AI_for_product_owner/1878",
+    "channel": "AI_for_product_owner",
+    "text": "🎬 Промпт дня: смешная афиша – вы в главной роли!Стать звездой на киноафише – нет ничего проще. Конечно же, это будет комедия: яркий образ и юмористическое название фильма гарантированно повеселят главного героя или героиню. Тестировать на друзьях и родственниках!Промпт универсальный, а значит, его легко менять и экспериментировать с тематикой афиши. Такой оригинальный постер может стать хорошим дополнением к подарку на день рождения или другой семейный праздник.Создать смешную афишу в NanoBot 👉  https://t.me/ainanobot_bot?start=post_afisha ТЫК-ТЫКФото сделано в Gpt image 2.5Промпт универсальный:Возьми человека (или всех людей) с загруженного эталонного фото и сделай его главной ведущей звездой фотореалистичного постера игрового (не анимационного) фильма.ПРАВИЛО ИДЕНТИЧНОСТИ ЛИЦА: Сохрани точное лицо загруженного человека — пропорции, черты, глаза, нос, губы, линию челюсти, тон кожи, общую узнаваемость. Лицо должно быть крупным, центральным, резким, полностью видимым и мгновенно опознав",
+    "link": "https://t.me/ainanobot_bot?start=post_afisha",
+    "tg_link": "https://t.me/AI_for_product_owner/1878",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-15T20:07:05.929494+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6081",
+    "channel": "open_source_friend",
+    "text": "ember-p2pЭто социальная сеть, работающая без серверов, без учетных записей и без алгоритмов ленты новостей.Приложение обеспечивает прямую связь между пользователями через пиринговую сеть, исключая посредников.Пользователи могут обмениваться сообщениями и контентом напрямую, сохраняя полный контроль над своими данными. Lang: JavaScript https://github.com/CRTnoise/ember-p2p https://github.com/CRTnoise/ember-p2p================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/CRTnoise/ember-p2p",
+    "tg_link": "https://t.me/open_source_friend/6081",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-15T20:07:03.544955+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6080",
+    "channel": "open_source_friend",
+    "text": "ProxyBridgeProxyBridge — это лёгкий, кроссплатформенный прокси-клиент с открытым исходным кодом, предназначенный для прозрачной маршрутизации трафика приложений на Windows, macOS и Linux через SOCKS5 или HTTP-прокси.Он позволяет перенаправлять TCP и UDP трафик от конкретных процессов, обеспечивая совместимость с приложениями, не поддерживающими прокси, без необходимости вносить изменения в их настройки.ProxyBridge поддерживает управление трафиком на основе процессов, предоставляя возможность маршрутизировать, блокировать или разрешать трафик для отдельных приложений.Программа оснащена как графическим интерфейсом, так и мощной командной строкой, что делает её удобной для различных сценариев использования.Lang: C https://github.com/InterceptSuite/ProxyBridge https://github.com/InterceptSuite/ProxyBridge================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/InterceptSuite/ProxyBridge",
+    "tg_link": "https://t.me/open_source_friend/6080",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-15T20:07:03.544891+00:00"
+  },
+  {
     "post_id": "open_source_friend/6079",
     "channel": "open_source_friend",
     "text": "Инференс без инфраструктурных задержекПодбор инфраструктуры для языковых моделей требует точного расчета VRAM и учета их особенностей. Ошибки в конфигурации ведут к сбоям или нестабильной работе, что замедляет разработку и снижает качество автоматизации.Чтобы исключить задержки,  https://immers.cloud/?utm_source=tg&amp;utm_medium=seeding&amp;utm_campaign=october&amp;utm_content=open_source_friend&amp;utm_term=c4e1039d2444d2ea9bc72ad9&amp;client_id=c4e1039d2444d2ea9bc72ad9&amp;erid=2W5zFH7S281 immers.cloud предлагает серверы до 8 GPU и мгновенный онбординг: регистрация, пополнение баланса и сразу аренда железа под нужную модель. Подбор оборудования не требует тестов или ручных расчетов: в каталоге Foundation Models система автоматически определяет оптимальную конфигурацию для выбранной LLM.Кроме того,  https://immers.cloud/?utm_source=tg&amp;utm_medium=seeding&amp;utm_campaign=october&amp;utm_content=open_source_friend&amp;utm_term=c4e1039d2444d2ea9bc72ad9&amp;client_id=c4e1039d2444d2ea",
