@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/6093",
+    "channel": "open_source_friend",
+    "text": "RewindRewind — это легковесный, открытый и ориентированный на локальное использование инструмент для записи игрового процесса с функциями мгновенного повтора, записи экрана и редактирования клипов.Программа не требует создания учетной записи, не зависит от облачных сервисов и не собирает телеметрию, обеспечивая полную конфиденциальность пользователя.Основные функции включают мгновенный повтор, позволяющий сохранить последние моменты игрового процесса, запись экрана для захвата всего происходящего и встроенный редактор клипов для обрезки и сохранения важных моментов.Rewind поддерживает различные форматы видео и аудио, обеспечивая гибкость в настройках качества и размера файлов.Приложение совместимо с основными операционными системами и легко интегрируется с популярными игровыми платформами.Lang: TypeScript https://github.com/bulhaa1/Rewind https://github.com/bulhaa1/Rewind================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://ma",
+    "link": "https://github.com/bulhaa1/Rewind",
+    "tg_link": "https://t.me/open_source_friend/6093",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-18T09:13:34.596679+00:00"
+  },
+  {
     "post_id": "open_source_friend/6092",
     "channel": "open_source_friend",
     "text": "contrackЭто саморазмещаемая система управления контактами, предназначенная для личных и профессиональных нужд.Программа предлагает интеллектуальное объединение дубликатов, аналитику сетевых связей и автоматический сбор контекста.Она построена на основе Express 5, React 19 и Vite 8, обеспечивая высокую скорость работы.Lang: TypeScript https://github.com/arvarik/contrack https://github.com/arvarik/contrack================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
