@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/6096",
+    "channel": "open_source_friend",
+    "text": "weft-loomWeft Loom — это бесплатное настольное приложение для создания музыкальных паттернов, основанное на платформе Strudel.Программа предназначена для композиторов и музыкантов, желающих создавать и исполнять алгоритмическую музыку в реальном времени.Ключевые функции включают поддержку live-кодинга, возможность генерации сложных ритмических и мелодических структур, а также интеграцию с различными музыкальными инструментами и программным обеспечением. Lang: TypeScript https://github.com/alaca/weft-loom https://github.com/alaca/weft-loom================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/alaca/weft-loom",
+    "tg_link": "https://t.me/open_source_friend/6096",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-19T10:23:22.588728+00:00"
+  },
+  {
     "post_id": "open_source_friend/6095",
     "channel": "open_source_friend",
     "text": "De-NoxЭто инструмент командной строки для очистки дискового пространства, который помогает удалять устаревшие каталоги сборки, такие как `node_modules`, `target`, `.venv`, `.next`, из проектов, над которыми вы давно не работали.Он анализирует проекты, определяет, как долго они были неактивны, и предлагает удалить только те каталоги, которые принадлежат давно заброшенным проектам.Программа работает в режиме только для чтения до тех пор, пока вы явно не подтвердите удаление, обеспечивая безопасность ваших данных.Lang: Rust https://github.com/soul-abhi/De-Nox https://github.com/soul-abhi/De-Nox================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
