@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/6117",
+    "channel": "open_source_friend",
+    "text": "waytatorЭто инструмент для создания скриншотов и записи видео в среде Wayland, а также легковесный редактор изображений и видео.Поддерживает работу с композиторами на основе wlroots и интегрируется с такими инструментами, как niri и GNOME.Обеспечивает возможность аннотирования изображений и редактирования видео непосредственно после их создания.Lang: C https://github.com/faetalize/waytator https://github.com/faetalize/waytator================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/faetalize/waytator",
+    "tg_link": "https://t.me/open_source_friend/6117",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-25T19:22:51.497813+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6116",
+    "channel": "open_source_friend",
+    "text": "TerrascopeЭто интерактивная карта мира для терминала, отображающая страны, названия мест, текущие самолёты, погоду в городах, радиолокационные данные, землетрясения и зоны дня/ночи с использованием Unicode-символов Брайля и цветов терминала.Программа предоставляет возможность отслеживать в реальном времени перемещение самолётов и отображает актуальные погодные условия в различных городах.Кроме того, Terrascope визуализирует данные о землетрясениях и показывает границы между дневным и ночным временем на карте.Lang: Python https://github.com/a-shygun/Terrascope https://github.com/a-shygun/Terrascope================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/a-shygun/Terrascope",
+    "tg_link": "https://t.me/open_source_friend/6116",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-25T19:22:51.497770+00:00"
+  },
+  {
     "post_id": "open_source_friend/6115",
     "channel": "open_source_friend",
     "text": "dioramasDioramas — это бесплатный, открытый фреймворк для создания кинематографичных, интерактивных 3D-вебсайтов с использованием AI-сгенерированных ресурсов.Фреймворк интегрирует Three.js для управления сценами и камерами, а также использует Meshy 7.1 и Nano Banana 2 через  http://fal.ai/ fal.ai для генерации 3D-моделей и текстур на основе текстовых описаний.В комплекте с Dioramas поставляются 20 готовых примеров сайтов, демонстрирующих возможности фреймворка и облегчающих процесс разработки.Lang: JavaScript https://github.com/blendi-remade/dioramas https://github.com/blendi-remade/dioramas================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
