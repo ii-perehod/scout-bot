@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/6115",
+    "channel": "open_source_friend",
+    "text": "dioramasDioramas — это бесплатный, открытый фреймворк для создания кинематографичных, интерактивных 3D-вебсайтов с использованием AI-сгенерированных ресурсов.Фреймворк интегрирует Three.js для управления сценами и камерами, а также использует Meshy 7.1 и Nano Banana 2 через  http://fal.ai/ fal.ai для генерации 3D-моделей и текстур на основе текстовых описаний.В комплекте с Dioramas поставляются 20 готовых примеров сайтов, демонстрирующих возможности фреймворка и облегчающих процесс разработки.Lang: JavaScript https://github.com/blendi-remade/dioramas https://github.com/blendi-remade/dioramas================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "http://fal.ai/",
+    "tg_link": "https://t.me/open_source_friend/6115",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-25T09:29:25.836141+00:00"
+  },
+  {
     "post_id": "open_source_friend/6114",
     "channel": "open_source_friend",
     "text": "awesome-opus5-5-videosЭто коллекция вирусных видео, созданных с помощью Claude Opus 5.5, с указанием использованных для их генерации текстовых запросов.Каждое видео сопровождается оригинальным роликом и его живой реконструкцией на платформе Skillry.Репозиторий регулярно обновляется и содержит более 400 видео, сгруппированных по категориям, таким как motion graphics, объясняющие ролики, 3D-сцены и интерактивные игры.Для воспроизведения анимаций используются технологии HTML, Canvas, SVG, Three.js и другие.Репозиторий предназначен для разработчиков и творческих специалистов, интересующихся генеративной анимацией и возможностями Claude Opus 5.5. https://github.com/yihui-dev/awesome-opus5-5-videos https://github.com/yihui-dev/awesome-opus5-5-videos================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
