@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/6119",
+    "channel": "open_source_friend",
+    "text": "Голое железо и root-доступ, ВМ со снапшотами по расписанию, Kubernetes с GitOps в проде или всё сразу. В фановом тесте от команды Deckhouse из таких ответов складывается один из 10 типов инфраструктуры.Укротитель давно научился жить с ВМ и Kubernetes рядом, но устал от двух центров управления. Соковыжималка запускает базы и ML прямо на железе, чтобы гипервизор не съедал производительность. Антиквар не трогает систему, которая работает с нулевых. А Повелителю облаков уютно до первого кругленького счёта.Грузчик и Коллекционер выпадают реже всех. Если достался один из них, ссылкой на результат точно стоит поделиться с командой.→  https://tglink.io/fb8e22e5aa464b?erid=2W5zFFzCvC9 Пройти тест и узнать свой тип",
+    "link": "https://tglink.io/fb8e22e5aa464b?erid=2W5zFFzCvC9",
+    "tg_link": "https://t.me/open_source_friend/6119",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-26T10:38:15.921014+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6118",
+    "channel": "open_source_friend",
+    "text": "PawnixЭто минималистичный клиент для игры в шахматы в терминале с поддержкой API Lichess.Он позволяет играть в шахматы локально с другим человеком или подключаться к Lichess для игры с искусственным интеллектом, случайных матчей и вызовов по имени пользователя.Интерфейс основан на библиотеке curses и поддерживает стандартные шахматные правила через интеграцию с `python-chess`.Lang: Python https://github.com/a-shygun/Pawnix https://github.com/a-shygun/Pawnix================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/a-shygun/Pawnix",
+    "tg_link": "https://t.me/open_source_friend/6118",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-10-26T10:38:15.920940+00:00"
+  },
+  {
     "post_id": "open_source_friend/6117",
     "channel": "open_source_friend",
     "text": "waytatorЭто инструмент для создания скриншотов и записи видео в среде Wayland, а также легковесный редактор изображений и видео.Поддерживает работу с композиторами на основе wlroots и интегрируется с такими инструментами, как niri и GNOME.Обеспечивает возможность аннотирования изображений и редактирования видео непосредственно после их создания.Lang: C https://github.com/faetalize/waytator https://github.com/faetalize/waytator================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
