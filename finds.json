@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/6137",
+    "channel": "open_source_friend",
+    "text": "ffmpeg-skillЭто локальный видеоредактор для кодирующих агентов, предоставляющий 42 инструмента FFmpeg с машинно-читаемым контрактом и сервером MCP, совместимый с Claude Code, Cursor и Codex.Ключевые функции включают обрезку, добавление субтитров, изменение кадрирования, нормализацию громкости и экспорт на различные платформы.Программа работает без облачных сервисов и API-ключей, используя только стандартную библиотеку Python.Lang: Python https://github.com/kajisho5/ffmpeg-skill https://github.com/kajisho5/ffmpeg-skill================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/kajisho5/ffmpeg-skill",
+    "tg_link": "https://t.me/open_source_friend/6137",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-31T20:20:47.075401+00:00"
+  },
+  {
     "post_id": "open_source_friend/6136",
     "channel": "open_source_friend",
     "text": "phone-whisperЭто приложение для Android, позволяющее вводить текст с помощью голосового диктования без необходимости переключаться между клавиатурами.Приложение поддерживает локальную транскрипцию с использованием модели sherpa-onnx и облачную транскрипцию через OpenAI Whisper.Дополнительно предусмотрена возможность постобработки текста с помощью OpenAI для исправления пунктуации и грамматики.Lang: Kotlin https://github.com/evilknivel/phone-whisper https://github.com/evilknivel/phone-whisper================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
