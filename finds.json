@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/6136",
+    "channel": "open_source_friend",
+    "text": "phone-whisperЭто приложение для Android, позволяющее вводить текст с помощью голосового диктования без необходимости переключаться между клавиатурами.Приложение поддерживает локальную транскрипцию с использованием модели sherpa-onnx и облачную транскрипцию через OpenAI Whisper.Дополнительно предусмотрена возможность постобработки текста с помощью OpenAI для исправления пунктуации и грамматики.Lang: Kotlin https://github.com/evilknivel/phone-whisper https://github.com/evilknivel/phone-whisper================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/evilknivel/phone-whisper",
+    "tg_link": "https://t.me/open_source_friend/6136",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-10-31T10:39:28.120779+00:00"
+  },
+  {
     "post_id": "ai_newz/4828",
     "channel": "ai_newz",
     "text": "А Tencent успели выложить свою world model в опенсорсHy-Nomas анонсировали за несколько дней до Genie 4. В копилку к  https://t.me/ai_newz/4651 MIRA,  https://t.me/ai_newz/4743 Solaris и  https://t.me/ai_newz/4802 Odyssey-3 добавилась ещё одна world model с управлением текстом и камерой. Видео достраивается фрагментами, контекст между ними сохраняется в KV-кэше. Движение камеры можно задать заранее или менять между фрагментами.Код и веса под Apache 2.0, модель можно дообучать через LoRA на своих видео. Есть готовые адаптеры для киношной картинки и робототехники.Для генерации на одной RTX 4090 есть конфиг с INT8-квантизацией, ограниченной историей и выгрузкой моделей в оперативку. Скорость этого режима не указана. В Reactor с полной историей на 8×B200 получили около 18.5 FPS генерации. https://hy-nomas.hy.tencent.com/demo Демо https://github.com/Tencent-Hunyuan/Hy-Nomas/blob/main/Hy_Nomas_Tech_Report.pdf Техрепорт https://github.com/Tencent-Hunyuan/Hy-Nomas Код https://huggingface.co/te",
