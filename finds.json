@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/6140",
+    "channel": "open_source_friend",
+    "text": "OpenTV-RemoteЭто бесплатное и открытое приложение для управления смарт-телевизорами с устройств на Android и iOS.Программа поддерживает автоматическое обнаружение телевизоров в локальной сети и позволяет сохранять их для быстрого доступа.Пользователь может настраивать макеты пульта дистанционного управления, выбирая из восьми визуальных шаблонов и изменяя расположение кнопок.Интерфейс доступен на английском и русском языках, а также поддерживает выбор акцентных цветов и настройку под левую или правую руку.Приложение распространяется под лицензией MIT и не требует подписки, рекламы или создания аккаунта.Lang: Kotlin https://github.com/levhakobyan/OpenTV-Remote https://github.com/levhakobyan/OpenTV-Remote================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/levhakobyan/OpenTV-Remote",
+    "tg_link": "https://t.me/open_source_friend/6140",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-11-01T20:53:51.985721+00:00"
+  },
+  {
     "post_id": "open_source_friend/6139",
     "channel": "open_source_friend",
     "text": "kensakuЭто бесплатный, открытый инструмент для мгновенного локального поиска внутри документов, кода и даже скриншотов.Он поддерживает поиск по именам файлов, полным текстам, нечеткий поиск с учетом опечаток и семантический поиск, а также распознавание текста на изображениях с помощью OCR.Программа обеспечивает быстрый поиск по ~100 000 файлов за несколько миллисекунд, обновляет результаты в реальном времени и поддерживает инкрементальное индексирование.Она работает без необходимости в облачных сервисах, обеспечивая конфиденциальность данных, и совместима с AI-агентами через MCP.Lang: Rust https://github.com/yjid/kensaku https://github.com/yjid/kensaku================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
