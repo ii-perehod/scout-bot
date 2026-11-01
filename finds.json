@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/6139",
+    "channel": "open_source_friend",
+    "text": "kensakuЭто бесплатный, открытый инструмент для мгновенного локального поиска внутри документов, кода и даже скриншотов.Он поддерживает поиск по именам файлов, полным текстам, нечеткий поиск с учетом опечаток и семантический поиск, а также распознавание текста на изображениях с помощью OCR.Программа обеспечивает быстрый поиск по ~100 000 файлов за несколько миллисекунд, обновляет результаты в реальном времени и поддерживает инкрементальное индексирование.Она работает без необходимости в облачных сервисах, обеспечивая конфиденциальность данных, и совместима с AI-агентами через MCP.Lang: Rust https://github.com/yjid/kensaku https://github.com/yjid/kensaku================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/yjid/kensaku",
+    "tg_link": "https://t.me/open_source_friend/6139",
+    "category": "SEO",
+    "is_free": true,
+    "found_at": "2026-11-01T11:34:18.666291+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6138",
+    "channel": "open_source_friend",
+    "text": "fmxЭто легковесный и быстрый медиаконвертер, разработанный на языке Rust с графическим интерфейсом на основе egui.Программа поддерживает конвертацию видео, аудио, изображений и PDF-документов.Все необходимые компоненты включены в установочный пакет, что позволяет начать работу сразу после установки.Lang: Rust https://github.com/sudo-py-dev/fmx https://github.com/sudo-py-dev/fmx================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/sudo-py-dev/fmx",
+    "tg_link": "https://t.me/open_source_friend/6138",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-01T11:34:18.666250+00:00"
+  },
+  {
     "post_id": "open_source_friend/6137",
     "channel": "open_source_friend",
     "text": "ffmpeg-skillЭто локальный видеоредактор для кодирующих агентов, предоставляющий 42 инструмента FFmpeg с машинно-читаемым контрактом и сервером MCP, совместимый с Claude Code, Cursor и Codex.Ключевые функции включают обрезку, добавление субтитров, изменение кадрирования, нормализацию громкости и экспорт на различные платформы.Программа работает без облачных сервисов и API-ключей, используя только стандартную библиотеку Python.Lang: Python https://github.com/kajisho5/ffmpeg-skill https://github.com/kajisho5/ffmpeg-skill================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
