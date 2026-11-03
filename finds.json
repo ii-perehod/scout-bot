@@ -1,5 +1,45 @@
 [
   {
+    "post_id": "ai_newz/4829",
+    "channel": "ai_newz",
+    "text": "Нейродайджест за две недели (#136)LLM-  https://t.me/ai_newz/4820 GPT-6.1 Terra — новая модель OpenAI с упором на computer use. В API на коротком контексте — $1/$5 за миллион входных/выходных токенов.-  https://t.me/ai_newz/4824 Gemini 4 Carbon — возглавила AA Intelligence Index v5.0 на анонсе. Доступ пока дают выбранным киберзащитникам через Fairwind, даты общего релиза нет.-  https://t.me/ai_newz/4826 Mistral Large 4 — вышли веса Le Chonk с 1T параметров и 52B активных. Для MaaS нужна отдельная лицензия.-  https://t.me/ai_newz/4818 Kimi K3.1 Pro — обновление K3 с упором на Blender, Unity, Unreal и Godot. Уже в продуктах Moonshot, веса обещают к 4 ноября.-  https://t.me/ai_newz/4815 Claude Duet — постоянно работающий облачный агент Anthropic с отдельным приложением. Превью по waitlist в США, в том числе на Pro.-  https://t.me/ai_newz/4813 Кэш OpenAI — в Responses API появился 12-часовой промпт-кэш. Запись вдвое дороже 30-минутной, цена чтения не меняется.Изменения тарифных планов- Ope",
+    "link": "https://t.me/ai_newz/4820",
+    "tg_link": "https://t.me/ai_newz/4829",
+    "category": "Бот",
+    "is_free": false,
+    "found_at": "2026-11-03T12:29:18.386799+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6146",
+    "channel": "open_source_friend",
+    "text": "h3-motionЭто автономное React-приложение, предназначенное для анимации объектов на фотографиях и изменения частей видео с использованием моделей с открытым исходным кодом.Приложение позволяет выделять объекты на изображениях с помощью SAM 3.1, описывать их с помощью Qwen3-VL и удалять с помощью Qwen Image 2.1, оставляя чистый фон.Пользователь может перемещать выделенные объекты по траектории, а затем генерировать анимацию с помощью ComfyUI.Приложение разработано для участия в конкурсе Higgsfield от Comfy и не использует закрытые API или сторонние узлы.Lang: TypeScript https://github.com/PxTicks/h3-motion https://github.com/PxTicks/h3-motion================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/PxTicks/h3-motion",
+    "tg_link": "https://t.me/open_source_friend/6146",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-03T12:29:17.644085+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6145",
+    "channel": "open_source_friend",
+    "text": "🔥 Запускайте рекламу у TikTok-блогеров через  https://tglink.io/b24a2168767682?erid=2W5zFJR8dWi Telega.inИщете новую аудиторию к сезону продаж? TikTok каждый день открывают 27,7 млн человек в России: это четвёртое место среди соцмедиа по дневному охвату.Короткие нативные видео от первого лица хорошо работают во многих нишах — от бьюти и FMCG до e-commerce, онлайн-курсов и путешествий.👍 Протестировать такой формат для своего продукта можно с https://tglink.io/b24a2168767682?erid=2W5zFJR8dWi Telega.in: это платформа, где бренды закупают рекламу у авторов в Telegram, MAX и теперь в TikTok.Вот что вас ждёт ➡️🔘 Каталог с фильтрами. Сотни блогеров от нано до миллионников, 38 тематик, подбор по возрасту и гео аудитории🔘 Понятный формат. Блогер снимет видео по ТЗ и разместит его у себя в ленте на 30 дней🔘Масштаб без юридических рисков. Один блогер или пятьдесят: договоры, маркировку сервис берет на себяКаталог пополняется каждый день. Выбирайте блогеров и запускайте первую кампанию! https://tg",
+    "link": "https://tglink.io/b24a2168767682?erid=2W5zFJR8dWi",
+    "tg_link": "https://t.me/open_source_friend/6145",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-03T12:29:17.644065+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6144",
+    "channel": "open_source_friend",
+    "text": "hueЭто нативный демон обоев для Wayland, обеспечивающий плавные переходы между изображениями с эффектом распространения пикселей.Программа поддерживает случайные точки начала перехода, различные пути роста и настраиваемые цвета краёв.Имеется интерфейс командной строки для управления и настройки параметров.Lang: Rust https://github.com/IhTiYaR0/hue https://github.com/IhTiYaR0/hue================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/IhTiYaR0/hue",
+    "tg_link": "https://t.me/open_source_friend/6144",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-11-03T12:29:17.644008+00:00"
+  },
+  {
     "post_id": "AI_for_product_owner/1924",
     "channel": "AI_for_product_owner",
     "text": "Дайджест новостей и обновлений за октябрь 2026Всем привет! Сегодня подводим итоги октября. В этом месяце наша команда сделала упор на наполнение практическими уроками клуба «ChatGPT для каждого». Но и про «Базу» мы не забыли. Следите за постами – скоро анонсируем масштабные и крутые изменения. А пока посмотрите подборку обновлений за прошедший месяц, чтобы не пропустить ничего интересного. 🧐📌 Новая модель для еще более реалистичных нейрофото уже в NanoBot –  https://t.me/AI_for_product_owner/1872 NanoBanana 2.1.📌 Новые бесплатные промпты ищите здесь:▪️  https://t.me/AI_for_product_owner/1867 Знак зодиака в стиле фэнтези▪️  https://t.me/AI_for_product_owner/1878 Смешная афиша фильма с вашим фото▪️  https://t.me/AI_for_product_owner/1886 Открытки ко Дню Отца▪️  https://t.me/AI_for_product_owner/1901 Персональная натальная карта▪️  https://t.me/AI_for_product_owner/1915 Нейрофотосессия в стиле Helloween📌  https://t.me/AI_for_product_owner/1891 Подробное сравнение двух наших платных продук",
