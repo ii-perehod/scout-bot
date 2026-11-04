@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "ai_newz/4830",
+    "channel": "ai_newz",
+    "text": "Moonshot выпустили K3.1 Pro  Она основана на той же базовой модели что и K3, но похоже Moonshot сложно инференсить модель такого размера и мы скоро увидим модельку поменьше. Особый упор в этом релизе делается на использовании 3D тулинга — как Blender, так…",
+    "link": "https://t.me/ai_newz/4830",
+    "tg_link": "https://t.me/ai_newz/4830",
+    "category": "Другое",
+    "is_free": true,
+    "found_at": "2026-11-04T22:16:14.539708+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6150",
+    "channel": "open_source_friend",
+    "text": "TerminalStylesЭто инструмент для динамического переключения тем терминала с поддержкой мгновенного предпросмотра и совместимостью с Windows, macOS и Linux.Ключевые функции включают применение цветов через OSC escape-последовательности, что позволяет мгновенно изменять палитру текущего окна терминала, а также поддержку различных терминалов, таких как Windows Terminal, WezTerm,  http://Terminal.app/ Terminal.app и iTerm2.Дополнительно, TerminalStyles предоставляет возможность настройки zsh и bash с помощью команды `tstyles shell-init`, которая добавляет загрузчик в файлы конфигурации оболочки, обеспечивая применение стилей к новым вкладкам с сохранением палитры, заголовка окна, баннера и приглашения командной строки.Lang: PowerShell https://github.com/fcreme/TerminalStyles https://github.com/fcreme/TerminalStyles================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁 ",
+    "link": "http://Terminal.app/",
+    "tg_link": "https://t.me/open_source_friend/6150",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-11-04T22:16:13.804930+00:00"
+  },
+  {
     "post_id": "open_source_friend/6149",
     "channel": "open_source_friend",
     "text": "muxinЭто приложение, объединяющее управление всеми вашими машинами в одном интерфейсе, предназначенное как для вас, так и для ваших AI-агентов.Основные функции включают управление сессиями агентов, доступ к рабочим столам, обмен файлами и буфером обмена, а также интеграцию с GitHub для работы с репозиториями, задачами и запросами на слияние.Программа поддерживает работу на macOS, Linux и Windows, обеспечивая кроссплатформенную совместимость.Lang: Rust https://github.com/LumaryLabsLLC/muxin https://github.com/LumaryLabsLLC/muxin================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
