@@ -1,5 +1,15 @@
 [
   {
+    "post_id": "open_source_friend/6156",
+    "channel": "open_source_friend",
+    "text": "npu-renderЭто исследовательский драйвер дисплея для Windows 11, который перенаправляет операции композитинга с графического процессора на нейропроцессорный ускоритель (NPU) Intel.Ключевые функции включают в себя запись команд композитинга в пользовательском драйвере, выполнение их в SHAVE-ядрах через OpenVINO и отображение готовых кадров на экране с помощью косвенного дисплея.Программа позволяет переключаться между режимами работы с помощью одной команды, а также автоматически восстанавливает стандартный режим отображения в случае сбоев.Lang: C++ https://github.com/labscommunity/npu-render https://github.com/labscommunity/npu-render================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/labscommunity/npu-render",
+    "tg_link": "https://t.me/open_source_friend/6156",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-06T21:52:05.606932+00:00"
+  },
+  {
     "post_id": "ai_newz/4831",
     "channel": "ai_newz",
     "text": "Google выкатили Gemini Omni 1.2 FlashТеперь Omni генерирует и редактирует клипы со звуком до 15 секунд. В 1.1 было максимум 10. Секунда готового видео в 720p через API стоит около $0,07, на 30% дешевле, чем у 1.1 Flash. Входные токены считают отдельно. 1080p и 4K по-прежнему получаются апскейлом.Потыкать можно в AI Studio и Flow. В самом приложении Gemini для 15-секундных роликов нужен Google AI Ultra. https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Анонс https://deepmind.google/models/model-cards/gemini-omni-1-2-flash/ Model Card https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/omni-1-2-flash Документация https://cloud.google.com/model-garden/pricing#gemini-omni Цены https://t.me/ai_newz @ai_newz",
