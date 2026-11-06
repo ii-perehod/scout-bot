@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "ai_newz/4831",
+    "channel": "ai_newz",
+    "text": "Google выкатили Gemini Omni 1.2 FlashТеперь Omni генерирует и редактирует клипы со звуком до 15 секунд. В 1.1 было максимум 10. Секунда готового видео в 720p через API стоит около $0,07, на 30% дешевле, чем у 1.1 Flash. Входные токены считают отдельно. 1080p и 4K по-прежнему получаются апскейлом.Потыкать можно в AI Studio и Flow. В самом приложении Gemini для 15-секундных роликов нужен Google AI Ultra. https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Анонс https://deepmind.google/models/model-cards/gemini-omni-1-2-flash/ Model Card https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/omni-1-2-flash Документация https://cloud.google.com/model-garden/pricing#gemini-omni Цены https://t.me/ai_newz @ai_newz",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "tg_link": "https://t.me/ai_newz/4831",
+    "category": "ИИ",
+    "is_free": false,
+    "found_at": "2026-11-06T12:34:52.242224+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6155",
+    "channel": "open_source_friend",
+    "text": "Claude-Code-Game-StudiosЭто инструмент, превращающий сессию Claude Code в полноценную студию разработки игр.Он включает 49 специализированных AI-агентов, 72 навыка рабочего процесса и систему координации, имитирующую иерархию реальной студии.Агенты организованы в три уровня: директора, руководители отделов и специалисты, каждый с четко определенными обязанностями и путями эскалации.Инструмент поддерживает движки Godot 4, Unity и Unreal Engine 5 через специализированных агентов и рабочие процессы.Он предназначен для индивидуальных разработчиков игр, желающих структурированной AI-помощи при сохранении контроля над проектом.Lang: Shell https://github.com/Donchitos/Claude-Code-Game-Studios https://github.com/Donchitos/Claude-Code-Game-Studios================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "tg_link": "https://t.me/open_source_friend/6155",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-06T12:34:51.540913+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6154",
+    "channel": "open_source_friend",
+    "text": "TextRevealTextReveal — это инструмент для поиска и выделения любого видимого текста на экране с помощью одной комбинации клавиш, аналогично функции «Ctrl + F», но для всего экрана.Основные функции включают возможность поиска слов или фраз на экране с подсветкой всех совпадений, а также выделение области экрана для копирования содержащегося в ней текста в буфер обмена.Программа работает полностью локально, обеспечивая конфиденциальность данных пользователя.Lang: C# https://github.com/amika8/TextReveal https://github.com/amika8/TextReveal================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/amika8/TextReveal",
+    "tg_link": "https://t.me/open_source_friend/6154",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-06T12:34:51.540859+00:00"
+  },
+  {
     "post_id": "open_source_friend/6153",
     "channel": "open_source_friend",
     "text": "DrawMotionЭто инструмент для генерации 3D-анимаций на основе текстовых описаний и свободных рисунков.Он использует диффузионную модель, которая объединяет текстовые команды и нарисованные пользователем траектории или позы для создания точных и реалистичных движений.Ключевой особенностью является модуль Multi-Condition Module (MCM), позволяющий эффективно сочетать различные входные данные и снижать вычислительную сложность. Lang: Python https://github.com/DMotionX/DrawMotion https://github.com/DMotionX/DrawMotion================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
