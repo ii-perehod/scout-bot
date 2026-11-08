@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/6161",
+    "channel": "open_source_friend",
+    "text": "bookbotBookBot — это терминальное приложение для организации и переименования аудиокниг с возможностью удаления DRM-защиты.Программа сканирует библиотеку аудиокниг, сопоставляет каждую книгу с несколькими провайдерами метаданных и предлагает безопасные планы переименования перед применением изменений.BookBot поддерживает интерактивный интерфейс для просмотра и подтверждения изменений, а также предоставляет функции отката и восстановления в случае сбоев.Дополнительно, приложение может выполнять конвертацию файлов в формат M4B с нормализацией громкости и генерацией глав.Для удаления DRM-защиты BookBot поддерживает аутентификацию Audible и обработку форматов AAX, AAXC, M4B и других.Lang: Python https://github.com/itsbryanman/bookbot https://github.com/itsbryanman/bookbot================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/itsbryanman/bookbot",
+    "tg_link": "https://t.me/open_source_friend/6161",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-08T11:36:17.934065+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6160",
+    "channel": "open_source_friend",
+    "text": "auricleПрограмма предназначена для считывания данных с датчика движения (IMU) на AirPods через Bluetooth L2CAP на Linux.Она позволяет получать поток данных об углах наклона головы, которые можно использовать в различных приложениях.Программа разработана специально для наушников Apple и использует проприетарный канал управления L2CAP PSM 0x1001.Lang: Rust https://github.com/freaktopus/auricle https://github.com/freaktopus/auricle================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/freaktopus/auricle",
+    "tg_link": "https://t.me/open_source_friend/6160",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-08T11:36:17.934001+00:00"
+  },
+  {
     "post_id": "open_source_friend/6159",
     "channel": "open_source_friend",
     "text": "MicroSwapMicroSwap — это сверхлёгкое приложение для Windows 10 и 11, предназначенное для мгновенной смены обоев рабочего стола с помощью горячих клавиш.Программа представляет собой плавающее окно-карусель, которое вызывается сочетанием клавиш и позволяет быстро переключаться между обоями без необходимости открывать громоздкие интерфейсы.При первом запуске MicroSwap автоматически загружает текущие обои Windows, обеспечивая готовность к использованию сразу после установки.Lang: Rust https://github.com/SUPERL0SER256/MicroSwap https://github.com/SUPERL0SER256/MicroSwap================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
