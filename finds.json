@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/6184",
+    "channel": "open_source_friend",
+    "text": "roomyЭто инструмент для очистки диска C: на компьютерах с Windows, позволяющий освободить место, удаляя ненужные файлы.Программа анализирует использование дискового пространства и предоставляет информацию о том, какие файлы занимают место, объясняя их назначение и безопасность удаления.Roomy удаляет не только временные файлы и содержимое корзины, но и кеши приложений, остатки обновлений Windows и другие редко учитываемые данные.Программа предоставляет подробные описания каждого типа файлов, помогая пользователю принять обоснованное решение о их удалении.Lang: C# https://github.com/krezio/roomy https://github.com/krezio/roomy================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/krezio/roomy",
+    "tg_link": "https://t.me/open_source_friend/6184",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-11-14T21:00:03.658749+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6183",
+    "channel": "open_source_friend",
+    "text": "steersteer — это ядро маршрутизации по правилам для OpenWrt, позволяющее определять, какой трафик направлять через туннель, а какой — напрямую.Правила маршрутизации описываются в одном файле в формате YAML или JSON, который затем преобразуется в правила nftables, таблицы маршрутизации и наборы адресов с помощью одной атомарной транзакции.Программа написана на языке C и поддерживает расширение функциональности через плагины для различных протоколов.Lang: C https://github.com/splify2/steer https://github.com/splify2/steer================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/splify2/steer",
+    "tg_link": "https://t.me/open_source_friend/6183",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-11-14T21:00:03.658705+00:00"
+  },
+  {
     "post_id": "open_source_friend/6182",
     "channel": "open_source_friend",
     "text": "WristKeyЭто приложение с открытым исходным кодом, предназначенное для автоматической блокировки и разблокировки компьютеров с Windows 10 и 11 с помощью Apple Watch через Bluetooth Low Energy (BLE).Приложение обеспечивает функцию автоматической блокировки при удалении часов от компьютера и разблокировки при их приближении, аналогично функции Auto Unlock в macOS.Для обеспечения безопасности используются технологии AES-128 IRK RPA и DPAPI.Lang: Rust https://github.com/jorjanion/WristKey https://github.com/jorjanion/WristKey================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
