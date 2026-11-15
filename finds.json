@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/6186",
+    "channel": "open_source_friend",
+    "text": "BatteryDockBatteryDock — это компактное приложение для Windows 10/11, отображающее уровень заряда беспроводных устройств прямо на панели задач.Программа поддерживает различные периферийные устройства, включая гарнитуры, мыши, клавиатуры и контроллеры, предоставляя пользователю актуальную информацию о состоянии их батарей.Разработанная на языке программирования Rust, BatteryDock обеспечивает высокую производительность и низкое потребление ресурсов.Приложение интегрируется непосредственно в панель задач, не требуя установки дополнительных программных пакетов от производителей устройств.Lang: Rust https://github.com/jorjanion/BatteryDock https://github.com/jorjanion/BatteryDock================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/jorjanion/BatteryDock",
+    "tg_link": "https://t.me/open_source_friend/6186",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-15T12:21:56.375571+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6185",
+    "channel": "open_source_friend",
+    "text": "Calendar-CEЭто приватный календарь и менеджер задач для веба и Android, обеспечивающий хранение событий на устройстве пользователя или на собственном сервере CalDAV.Приложение поддерживает самохостинг с использованием Docker и предоставляет возможность использования зашифрованной версии с конца в конец.Lang: TypeScript https://github.com/sysoppl/Calendar-CE https://github.com/sysoppl/Calendar-CE================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/sysoppl/Calendar-CE",
+    "tg_link": "https://t.me/open_source_friend/6185",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-11-15T12:21:56.375529+00:00"
+  },
+  {
     "post_id": "open_source_friend/6184",
     "channel": "open_source_friend",
     "text": "roomyЭто инструмент для очистки диска C: на компьютерах с Windows, позволяющий освободить место, удаляя ненужные файлы.Программа анализирует использование дискового пространства и предоставляет информацию о том, какие файлы занимают место, объясняя их назначение и безопасность удаления.Roomy удаляет не только временные файлы и содержимое корзины, но и кеши приложений, остатки обновлений Windows и другие редко учитываемые данные.Программа предоставляет подробные описания каждого типа файлов, помогая пользователю принять обоснованное решение о их удалении.Lang: C# https://github.com/krezio/roomy https://github.com/krezio/roomy================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
