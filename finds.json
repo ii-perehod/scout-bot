@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/6207",
+    "channel": "open_source_friend",
+    "text": "sofarelaySofaRelay — это инструмент, предназначенный для превращения вашего игрового ПК в режим «дивана», обеспечивая удобный доступ к играм с различных устройств.Он интегрирует Playnite, Sunshine и Moonlight, создавая единое решение для потоковой передачи игр на телевизоры и другие устройства.Программа поддерживает четыре языка, что делает её доступной для широкой аудитории.Lang: PowerShell https://github.com/ozi-dev/sofarelay https://github.com/ozi-dev/sofarelay================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/ozi-dev/sofarelay",
+    "tg_link": "https://t.me/open_source_friend/6207",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-11-20T13:43:15.817149+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6206",
+    "channel": "open_source_friend",
+    "text": "yilyYily — это легковесное и быстрое приложение с открытым исходным кодом для управления секретами, предназначенное для безопасного хранения и управления конфиденциальной информацией, такой как API-ключи, пароли, токены и другие секреты.Программа предоставляет возможность самохостинга, что позволяет пользователям полностью контролировать свои данные без необходимости доверять сторонним сервисам.Yily разработан с упором на простоту использования и быструю настройку, обеспечивая эффективное управление секретами без излишней сложности.Lang: TypeScript https://github.com/yannick2009/yily https://github.com/yannick2009/yily================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/yannick2009/yily",
+    "tg_link": "https://t.me/open_source_friend/6206",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-20T13:43:15.817101+00:00"
+  },
+  {
     "post_id": "ai_newz/4851",
     "channel": "ai_newz",
     "text": "Anthropic вышли на IPO  Акции компании уже торгуются на бирже по цене в районе $100. Компания привлекла 81 миллиард долларов в ходе IPO и ещё 26 миллиардов от приватной продажи акций большим инвесторам. Спрос на акции превысил предложение в семь раз. Это самое…",
