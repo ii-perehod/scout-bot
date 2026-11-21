@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/6211",
+    "channel": "open_source_friend",
+    "text": "phosphor-camЭто приложение, которое в реальном времени преобразует поток с вашей веб-камеры в стилизованное ASCII-искусство, придавая изображению вид терминала.Оно поддерживает пять различных движков рендеринга: ASCII, Dither, Halftone, Voxel и Lines, которые можно переключать без перезапуска камеры.Приложение работает полностью на стороне клиента, обеспечивая высокую производительность и отзывчивость интерфейса.Доступно как веб-приложение, прогрессивное веб-приложение (PWA) и нативное приложение для Android, работающее в оффлайн-режиме.Lang: TypeScript https://github.com/pshycodr/phosphor-cam https://github.com/pshycodr/phosphor-cam================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/pshycodr/phosphor-cam",
+    "tg_link": "https://t.me/open_source_friend/6211",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-21T13:08:21.684535+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6210",
+    "channel": "open_source_friend",
+    "text": "Российский Zabbix со своими «плюшками»Разработчики системы мониторинга «Пульт» выкатили бесплатную Community-версию. В основе – привычный Zabbix, но с пятью дополнительными модулями, за которые не придётся платить.Что докрутили:Go API* — быстрые интеграции и работа под высокой нагрузкой.RSM* — контроль состояния сервисов, SLA и зависимостей между компонентами.Report Server — отчёты в PDF и XLSX.Session Manager — управление сессиями и аудит действий пользователей.SIEM — отправка событий аудита во внешние системы ИБ.Community поддерживает до 500 объектов и 3 прокси. Хватит для тестовых стендов, пилотов,обучения и небольшого прода.Из ограничений — отсутствие HA и вендорской техподдержки. Но если что-то пойдёт не так, можно прийти за советом в  https://t.me/L4_Monitoring?erid=2W5zFGwXsj8 чат сообщества.Забрать бесплатную лицензию можно  https://tglink.io/321611197564ac?erid=2W5zFGwXsj8 на сайте «Пульта» или в  https://t.me/L4_license_bot?start=telegram-open-source-friend&amp;erid=2W5zFGwXs",
+    "link": "https://t.me/L4_Monitoring?erid=2W5zFGwXsj8",
+    "tg_link": "https://t.me/open_source_friend/6210",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-21T13:08:21.684505+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6209",
+    "channel": "open_source_friend",
+    "text": "fishsticks-and-custardЭто голосовой ассистент для рабочего окружения Hyprland на Arch Linux, написанный на языке Rust.Он позволяет взаимодействовать с системой с помощью голосовых команд или ввода текста, поддерживая интеграцию с такими AI-сервисами, как Claude, ChatGPT (Codex), Google (Antigravity) и OpenCode.Перед выполнением команд, открытия веб-страниц или записи файлов, программа отображает предполагаемые действия и ожидает подтверждения пользователя, обеспечивая безопасность данных.Активация ассистента возможна с помощью голосовой команды \"fishsticks and custard\", нажатием клавиши или кликом по иконке в системном трее.Lang: Rust https://github.com/ManofJELLO/fishsticks-and-custard https://github.com/ManofJELLO/fishsticks-and-custard================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/ManofJELLO/fishsticks-and-custard",
+    "tg_link": "https://t.me/open_source_friend/6209",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-11-21T13:08:21.684438+00:00"
+  },
+  {
     "post_id": "open_source_friend/6208",
     "channel": "open_source_friend",
     "text": "meloЭто минималистичный музыкальный плеер для Android, поддерживающий воспроизведение с сервисов Spotify, YouTube Music и локальных аудиофайлов.Приложение объединяет музыку из различных источников в одном месте, обеспечивая удобный доступ к вашим любимым трекам.melo предоставляет простой и интуитивно понятный интерфейс для комфортного прослушивания музыки без лишних функций.Lang: Kotlin https://github.com/aarush-io/melo https://github.com/aarush-io/melo================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
