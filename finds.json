@@ -1,5 +1,25 @@
 [
   {
+    "post_id": "open_source_friend/6214",
+    "channel": "open_source_friend",
+    "text": "maze-makerЭто веб-приложение для генерации лабиринтов различных форм и сложности, позволяющее пользователям создавать, решать и сохранять лабиринты прямо в браузере.Программа поддерживает шесть форм лабиринтов: квадратные, круглые, треугольные, шестиугольные, звездообразные и в форме сердца.Для генерации лабиринтов используются семь различных алгоритмов, включая Backtracker, Prim, Kruskal, Wilson, Hunt & Kill, Growing Tree и Aldous-Broder, каждый из которых придает лабиринту уникальную структуру.Пользователи могут решать созданные лабиринты с помощью клавиатуры или сенсорного ввода, а также сохранять их в форматах SVG или PNG для последующей печати или использования.Приложение не требует установки дополнительных библиотек или регистрации, работая полностью в браузере и поддерживая офлайн-режим.Lang: JavaScript https://github.com/evoluteur/maze-maker https://github.com/evoluteur/maze-maker================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
+    "link": "https://github.com/evoluteur/maze-maker",
+    "tg_link": "https://t.me/open_source_friend/6214",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-22T12:55:53.814347+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6213",
+    "channel": "open_source_friend",
+    "text": "voxadubVoxaDub — это инструмент для локального AI-дубляжа видео и прямых трансляций, обеспечивающий перевод с помощью Hy-MT2 и озвучивание голосами VoxCPM2, учитывающими особенности говорящего.Он позволяет полностью локально обрабатывать видео, выполняя транскрипцию, перевод и озвучивание, сохраняя при этом оригинальные сцены и фон.Программа поддерживает экспериментальный режим живого дубляжа, позволяя захватывать авторизованные YouTube-стримы или другие поддерживаемые видео для перевода и озвучивания в реальном времени.Lang: Python https://github.com/kadirb4rut/voxadub https://github.com/kadirb4rut/voxadub================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/kadirb4rut/voxadub",
+    "tg_link": "https://t.me/open_source_friend/6213",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-11-22T12:55:53.814291+00:00"
+  },
+  {
     "post_id": "open_source_friend/6212",
     "channel": "open_source_friend",
     "text": "qr-snipЭто быстрое и легковесное расширение для браузеров, предназначенное для сканирования QR-кодов, отображаемых на экране или внутри изображений.Основные функции включают возможность захвата и сканирования QR-кодов с помощью значка на панели инструментов или сочетания клавиш `Alt+Shift+Q`, а также сканирование QR-кодов в изображениях через контекстное меню правой кнопки мыши.Расширение ориентировано на конфиденциальность: оно работает полностью офлайн, не осуществляя внешних сетевых вызовов, и включает встроенную проверку безопасности.Поддерживаются браузеры Google Chrome, Microsoft Edge и Mozilla Firefox версии 140 и выше.Lang: JavaScript https://github.com/IsaacJoel06/qr-snip https://github.com/IsaacJoel06/qr-snip================Поддержать канал можно на  https://boosty.to/triangle_black Boosty👁",
