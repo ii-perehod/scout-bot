@@ -1,5 +1,35 @@
 [
   {
+    "post_id": "open_source_friend/6225",
+    "channel": "open_source_friend",
+    "text": "fractiqueЭто приложение для создания фрактальных изображений, включая фрактальные пламя, 22 вида классических фракталов и обои.Программа доступна на различных платформах: настольных компьютерах, мобильных устройствах и в веб-версии.Она также предоставляет командную строку, MCP-сервер и HTTP-сервер для расширенной функциональности.Гарантируется, что одно и то же изображение будет одинаковым на всех платформах.Lang: Rust https://github.com/tarpetos/fractique https://github.com/tarpetos/fractique================👁 Если у вас плохо прогружаются файлы, всё также доступно в канале в MAX:👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/tarpetos/fractique",
+    "tg_link": "https://t.me/open_source_friend/6225",
+    "category": "Open Source",
+    "is_free": true,
+    "found_at": "2026-11-25T15:08:27.366090+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6224",
+    "channel": "open_source_friend",
+    "text": "wormsignЭто инструмент для сканирования всех lock-файлов на машине разработчика с целью выявления известных вредоносных версий npm и PyPI пакетов.Он обнаруживает хуки, задачи и сервисы, которые устанавливают вредоносные программы в цепочке поставок.Инструмент помогает обеспечить безопасность разработки, предотвращая использование скомпрометированных зависимостей.Lang: Go https://github.com/mansoor-mamnoon/wormsign https://github.com/mansoor-mamnoon/wormsign================👁  https://t.me/black_triangle_tg News | 👁  https://t.me/open_source_friend Soft | 👁  https://t.me/AliExpress_Hacker Gear | 👁  https://t.me/open_q Links",
+    "link": "https://github.com/mansoor-mamnoon/wormsign",
+    "tg_link": "https://t.me/open_source_friend/6224",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-25T15:08:27.366056+00:00"
+  },
+  {
+    "post_id": "open_source_friend/6223",
+    "channel": "open_source_friend",
+    "text": "AirDrop-BridgeЭто ультралёгкий, нативный инструмент для двусторонней передачи файлов, фотографий и содержимого буфера обмена между устройствами iOS и компьютерами с Windows или Linux.Программа работает без необходимости установки сторонних приложений на iOS, без облачных сервисов и подписок, обеспечивая быструю передачу данных по локальной сети.Она поддерживает передачу различных типов данных, включая файлы, фотографии и текст из буфера обмена, обеспечивая удобную синхронизацию между устройствами.AirDrop-Bridge использует протоколы mDNS и Zeroconf для автоматического обнаружения устройств в сети, что позволяет начать передачу без дополнительной настройки.Lang: Rust https://github.com/jorjanion/AirDrop-Bridge https://github.com/jorjanion/AirDrop-Bridge================👁  https://max.ru/black_triangle_tg News | 👁  https://max.ru/open_source_friend Soft | 👁  https://max.ru/AliExpress_Hacker Hacker",
+    "link": "https://github.com/jorjanion/AirDrop-Bridge",
+    "tg_link": "https://t.me/open_source_friend/6223",
+    "category": "Бот",
+    "is_free": true,
+    "found_at": "2026-11-25T15:08:27.366008+00:00"
+  },
+  {
     "post_id": "ai_newz/4854",
     "channel": "ai_newz",
     "text": "Нейродайджест за неделю (#138)Математика- Anthropic опубликовали доказательство гипотезы Римана на Lean. Оно занимает 17 миллионов строк кода или 250 тысяч страниц, вторая задача тысячелетия решённая ИИ за эту осень.LLM-  https://t.me/ai_newz/4844 GPT-6.2 Astra — новый флагман с упором на научные задачи. В API вход и выход подешевели на 20%, чтение кэша — на 60% относительно GPT-6 Astra.-  https://t.me/ai_newz/4844 GPT-6.2 Sol — обновление модели для повседневных задач с прежней базовой ценой API. Ultrafast впервые дали подписчикам Pro за $200.-  https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Gemini 4 Neon — Google выпустил конкурента Opus, модель очень сильная и была принята крайне позитивно, стоит $3/$15 за миллион токенов.-  https://huggingface.co/thinkingmachines/Inkling-2-Mini Inkling 2 Mini —  наконец-то Qwen 3.8 превзошли, причём с MoE моделью. Это looped transformer на 26 миллиардов параметров, из них 3 миллиарда активные, но ",
